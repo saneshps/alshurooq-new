@@ -742,7 +742,7 @@
 									<img src="./img/gallery/CNC Machining1.jpg" alt="alshurooq">
 									<h4> CNC Machining </h4>
 								</a>
-									<a class="read" href="cnc-machining.php"> Explore </a>
+								<a class="read" href="cnc-machining.php"> Explore </a>
 							</div>
 
 							<div class="gallery-box">
@@ -750,7 +750,7 @@
 									<img src="./img/gallery/CNC Machining2.jpg" alt="alshurooq">
 									<h4> CNC Machining </h4>
 								</a>
-									<a class="read" href="cnc-machining.php"> Explore </a>
+								<a class="read" href="cnc-machining.php"> Explore </a>
 							</div>
 
 							<div class="gallery-box">
@@ -758,7 +758,7 @@
 									<img src="./img/gallery/CMM Measurement.jpg" alt="alshurooq">
 									<h4> CMM Measurement </h4>
 								</a>
-									<a class="read" href="cmm-measurement-services.php"> Explore </a>
+								<a class="read" href="cmm-measurement-services.php"> Explore </a>
 							</div>
 
 							<div class="gallery-box">
@@ -766,7 +766,7 @@
 									<img src="./img/gallery/CMM Measurement1.jpg" alt="alshurooq">
 									<h4> CMM Measurement </h4>
 								</a>
-									<a class="read" href="cmm-measurement-services.php"> Explore </a>
+								<a class="read" href="cmm-measurement-services.php"> Explore </a>
 							</div>
 
 							<div class="gallery-box">
@@ -774,7 +774,7 @@
 									<img src="./img/gallery/Ultrasonic Cleaning.jpg" alt="alshurooq">
 									<h4> Ultrasonic Cleaning </h4>
 								</a>
-									<a class="read" href="ultrasonic-cleaning-services.php"> Explore </a>
+								<a class="read" href="ultrasonic-cleaning-services.php"> Explore </a>
 							</div>
 
 						</div>
@@ -808,6 +808,9 @@
 
 	<script src="./js/social-feeds.js"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+	<!-- sticky -->
+	<script src="./js/header.js"></script>
+	<!-- sticky -->
 
 </body>
 

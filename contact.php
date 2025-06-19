@@ -260,9 +260,9 @@ if (isset($_REQUEST['subc'])) {
 	<!-- footer -->
 	<?php include 'footer.php'; ?>
 
-
-	<script type="text/javascript" src="js/alshurooqModules.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javascript" src="js/alshurooqModules.js"></script>
+
 
 
 
@@ -274,7 +274,7 @@ if (isset($_REQUEST['subc'])) {
 	</script>
 
 
-	<script>
+	<!-- <script>
 		var slideIndex = 1;
 		showDivs(slideIndex);
 
@@ -296,7 +296,7 @@ if (isset($_REQUEST['subc'])) {
 			}
 			x[slideIndex - 1].style.display = "block";
 		}
-	</script>
+	</script> -->
 
 
 
