@@ -1,0 +1,115 @@
+.faq-area {
+
+    padding: 20px 20px;
+    border: 1px solid #1c2f5d;
+    border-radius: 8px;
+
+    @include respond-below(sm) {
+        padding: 10px 0px;
+        border: none;
+    }
+
+    .accordion {
+        width: 100%;
+        position: relative;
+    }
+
+    .accordian-chk {
+        width: 100%;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        height: 40px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        -o-appearance: none;
+        -khtml-appearance: none;
+        appearnace: none;
+        cursor: pointer;
+        box-sizing: border-box;
+        padding: 0 20px;
+        z-index: 2;
+        margin: 0px;
+    }
+
+    .accordion h3 {
+        background: #1c2f5d none;
+        border: 1px solid #1c2f5d !important;
+        position: relative;
+        padding: 10px 20px 10px 10px;
+        color: #fff !important;
+        font-size: 14px !important;
+        font-weight: 500;
+        margin: 5px 0 0 0 !important;
+        z-index: 1;
+        text-transform: uppercase;
+        line-height: 22px;
+    }
+
+    .accordion h3 .acc-icon {
+        width: 0;
+        height: 0;
+        position: absolute;
+        right: 10px;
+        top: 15px;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #fff;
+        border-bottom: 5px solid transparent;
+    }
+
+    .accordion .accordian-chk:checked+h3>.acc-icon {
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 5px solid #fff;
+        border-top: 5px solid transparent;
+        top: 10px;
+    }
+
+    .accordion .accordian-chk:checked+h3+div.accordian-content {
+        opacity: 1;
+        -moz-transition-duration: 0.5s;
+        -webkit-transition-duration: 0.5s;
+        -o-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        -o-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        max-height: 1000px;
+        overflow: hidden;
+        padding: 15px;
+
+        .list-type
+        {
+            margin: 0 0 0 15px !important;
+            font-size: 15px !important;
+        }
+    }
+
+    .accordian-content {
+        opacity: 0;
+        padding: 15px;
+        overflow: hidden;
+        max-height: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+        -moz-transition-duration: 0.5s;
+        -webkit-transition-duration: 0.5s;
+        -o-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        -o-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+        border: 1px solid #1c2f5d;
+        margin-bottom: 2px;
+    }
+
+    h2 {
+        color: #1c2f5d;
+        font-size: 25px;
+    }
+}

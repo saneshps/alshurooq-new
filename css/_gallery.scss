@@ -1,0 +1,111 @@
+.gallery-area {
+
+    margin: 0 30px 70px 30px;
+
+    .gallery-main-box {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        flex-wrap: wrap;
+
+        .gallery-box {
+            padding: 0px 20px 0 20px;
+            margin: 0 0 42px 0;
+            width: 33%;
+            position: relative;
+
+            img {
+                width: 100%;
+                border-radius: 10px;
+            }
+
+            h4 {
+                font-size: 18px;
+                color: #333;
+                text-align: left;
+                margin: 15px 0 0 0;
+            }
+
+            .read
+            {
+                position: absolute;
+                right: 20px;
+                bottom: -10px;
+                padding: 6px 16px 6px 15px !important;
+            }
+
+           
+        }
+    }
+
+    &.mb-0 {
+        margin: 40px 0 0 0;
+    }
+
+}
+
+
+
+@media only screen and (min-width : 1921px) and (max-width : 2560px) {
+    .gallery-area .gallery-main-box .gallery-box {
+        width: 25%;
+    }
+}
+
+@media only screen and (min-width : 1481px) and (max-width : 1920px) {
+    .gallery-area .gallery-main-box .gallery-box {
+        width: 25%;
+    }
+
+
+}
+
+@media only screen and (min-width : 1366px) and (max-width : 1480px) {
+    .gallery-area .gallery-main-box .gallery-box {
+        width: 33%;
+    }
+}
+
+@media only screen and (min-width : 1200px) and (max-width : 1365px) {
+    .gallery-area .gallery-main-box .gallery-box {
+        width: 33%;
+    }
+
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1199px) {
+    .gallery-area {
+        margin: 0 0px 10px 0px;
+    }
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1023px) {
+    .gallery-area .gallery-main-box .gallery-box {
+        width: 50%;
+    }
+
+    .gallery-area {
+        margin: 0 0px 10px 0px;
+    }
+
+
+}
+
+@media only screen and (min-width : 150px) and (max-width : 767px) {
+
+    .gallery-area {
+        margin: 30px 0 0 0 !important;
+    }
+
+    .gallery-area .gallery-main-box .gallery-box {
+        padding: 0;
+        margin: 0 0 40px 0;
+        width: 100%;
+    }
+
+    .read
+    { 
+        right: 0px !important; 
+    }
+}

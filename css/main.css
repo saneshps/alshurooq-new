@@ -1,0 +1,175 @@
+.gallery-area {
+  margin: 0 30px 70px 30px;
+}
+.gallery-area .gallery-main-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.gallery-area .gallery-main-box .gallery-box {
+  padding: 0px 20px 0 20px;
+  margin: 0 0 42px 0;
+  width: 33%;
+  position: relative;
+}
+.gallery-area .gallery-main-box .gallery-box img {
+  width: 100%;
+  border-radius: 10px;
+}
+.gallery-area .gallery-main-box .gallery-box h4 {
+  font-size: 18px;
+  color: #333;
+  text-align: left;
+  margin: 15px 0 0 0;
+}
+.gallery-area .gallery-main-box .gallery-box .read {
+  position: absolute;
+  right: 20px;
+  bottom: -10px;
+  padding: 6px 16px 6px 15px !important;
+}
+.gallery-area.mb-0 {
+  margin: 40px 0 0 0;
+}
+
+@media only screen and (min-width: 1921px) and (max-width: 2560px) {
+  .gallery-area .gallery-main-box .gallery-box {
+    width: 25%;
+  }
+}
+@media only screen and (min-width: 1481px) and (max-width: 1920px) {
+  .gallery-area .gallery-main-box .gallery-box {
+    width: 25%;
+  }
+}
+@media only screen and (min-width: 1366px) and (max-width: 1480px) {
+  .gallery-area .gallery-main-box .gallery-box {
+    width: 33%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+  .gallery-area .gallery-main-box .gallery-box {
+    width: 33%;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+  .gallery-area {
+    margin: 0 0px 10px 0px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .gallery-area .gallery-main-box .gallery-box {
+    width: 50%;
+  }
+  .gallery-area {
+    margin: 0 0px 10px 0px;
+  }
+}
+@media only screen and (min-width: 150px) and (max-width: 767px) {
+  .gallery-area {
+    margin: 30px 0 0 0 !important;
+  }
+  .gallery-area .gallery-main-box .gallery-box {
+    padding: 0;
+    margin: 0 0 40px 0;
+    width: 100%;
+  }
+  .read {
+    right: 0px !important;
+  }
+}
+.faq-area {
+  padding: 20px 20px;
+  border: 1px solid #1c2f5d;
+  border-radius: 8px;
+}
+@media (max-width: 639px) {
+  .faq-area {
+    padding: 10px 0px;
+    border: none;
+  }
+}
+.faq-area .accordion {
+  width: 100%;
+  position: relative;
+}
+.faq-area .accordian-chk {
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 40px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -o-appearance: none;
+  -khtml-appearance: none;
+  appearnace: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  padding: 0 20px;
+  z-index: 2;
+  margin: 0px;
+}
+.faq-area .accordion h3 {
+  background: #1c2f5d none;
+  border: 1px solid #1c2f5d !important;
+  position: relative;
+  padding: 10px 20px 10px 10px;
+  color: #fff !important;
+  font-size: 14px !important;
+  font-weight: 500;
+  margin: 5px 0 0 0 !important;
+  z-index: 1;
+  text-transform: uppercase;
+  line-height: 22px;
+}
+.faq-area .accordion h3 .acc-icon {
+  width: 0;
+  height: 0;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #fff;
+  border-bottom: 5px solid transparent;
+}
+.faq-area .accordion .accordian-chk:checked + h3 > .acc-icon {
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #fff;
+  border-top: 5px solid transparent;
+  top: 10px;
+}
+.faq-area .accordion .accordian-chk:checked + h3 + div.accordian-content {
+  opacity: 1;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  max-height: 1000px;
+  overflow: hidden;
+  padding: 15px;
+}
+.faq-area .accordion .accordian-chk:checked + h3 + div.accordian-content .list-type {
+  margin: 0 0 0 15px !important;
+  font-size: 15px !important;
+}
+.faq-area .accordian-content {
+  opacity: 0;
+  padding: 15px;
+  overflow: hidden;
+  max-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  border: 1px solid #1c2f5d;
+  margin-bottom: 2px;
+}
+.faq-area h2 {
+  color: #1c2f5d;
+  font-size: 25px;
+}/*# sourceMappingURL=main.css.map */

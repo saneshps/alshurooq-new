@@ -1,0 +1,26 @@
+
+input[type=file],
+#list {
+    padding: 10px;
+    border: 1px solid #d5d5d5;
+    background: #fff;
+}
+
+#list div {
+    padding: 3px 0;
+}
+
+.pickup {
+    margin-top: 20px;
+    padding: 10px;
+    color: #fff;
+    border: 0;
+    background: #b11717;
+    cursor: pointer;
+}
+
+#upBrowse,
+#upToggle {
+    display: inline-block;
+    width: 49%;
+}

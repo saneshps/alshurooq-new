@@ -1,0 +1,1783 @@
+/* developed by - bigleap */
+
+@media only screen and (min-width : 1920px) and (max-width : 2560px) {
+    #newsfeeds .owl-nav {
+        margin-top: -76%;
+    }
+
+    #footer .container-fluid .foo-logo {
+        width: 70%;
+    }
+
+    .menu-box-mai .me-social {
+        margin-top: 5.5%;
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        height: 84px;
+        padding-top: 30px;
+        margin-top: -1px;
+    }
+
+    .navmodal .container {
+        width: 1440px;
+    }
+
+    .slideshow .slide .title h3.thre {
+        width: 630px;
+    }
+
+    .slideshow .slide-content {
+        left: 1%;
+    }
+
+    #al-machbanner h3 {
+        font-size: 4.5rem;
+    }
+
+    #al-machbanner h4 {
+        font-size: 4.5rem;
+        top: 48%;
+    }
+
+    #al-product .img-box:hover .im-box {
+        height: 320px;
+    }
+
+    #al-product .img-box:hover .im-box a:hover i {
+        margin-right: 240PX;
+    }
+
+
+
+
+
+
+}
+
+@media only screen and (min-width : 1600px) and (max-width : 1919px) {
+    #newsfeeds .owl-nav {
+        margin-top: -83%;
+    }
+
+}
+
+@media only screen and (min-width : 1440px) and (max-width : 1599px) {}
+
+@media only screen and (max-width: 1440px) {
+
+    #newsfeeds .owl-nav {
+        margin-top: -90%;
+    }
+
+}
+
+@media only screen and (min-width : 1366px) and (max-width : 1439px) {
+
+    #header .container-fluid .col-md-10.sub {
+        justify-content: flex-start;
+    }
+
+    .menu-box-f.sub { 
+        height: 74px; 
+    }
+
+    .menu-box-mai .menu-box .menubar.sub {
+      
+        padding-top: 13px; 
+    }
+
+    .menu-box-mai .menu-box.sub { 
+        top: -62px;
+        right: 10px;
+        width: 310px;
+    }
+
+    .home .heroSwiper {
+        width: 45%;
+    }
+
+    .home {
+        height: 84vh;
+    }
+
+
+    /* .home .heroSwiper {
+        left: 110px;
+        bottom: -90px;
+        width: 40%;
+    } */
+
+    .navmodal-wrapper {
+
+        overflow-y: scroll;
+
+    }
+
+    .menu-box-mai .menu-box {
+        margin-top: 0px;
+    }
+
+    .latest-box img {
+        width: 150px !important;
+    }
+
+    .latest-box .latest-content {
+        padding: 0 0 0 15px;
+    }
+
+    .latest-box-area {
+        margin: 0 10px;
+    }
+
+    #newsfeeds .post-slide .post-img {
+        height: 250px;
+    }
+
+    #newsfeeds .post-slide .post-img img {
+        height: 250px;
+    }
+
+
+    #header .container-fluid .link a.cont {
+        padding: 2px 20px 4px 20px;
+    }
+
+    #header .container-fluid .link a {
+        margin-right: 35px;
+    }
+
+    .testim-cover {
+        margin: 0 45px;
+    }
+
+    #al-machbanner h3 {
+        left: 15%;
+    }
+
+    #al-machbanner h4 {
+        left: 15%;
+    }
+
+    #al-product {
+        padding-top: 30px;
+        padding-bottom: 90px;
+    }
+
+    #newsfeeds .owl-nav {
+        margin-top: -95%;
+    }
+
+    #al-product .img-box:hover .im-box {
+        height: 240px;
+        margin-top: -86%;
+    }
+
+    #al-product a.read {
+        margin-top: 5px;
+    }
+
+    .menu-box-mai .me-social {
+        width: 60%;
+        margin-top: 3%;
+    }
+
+    #foo-last .top {
+        right: 15%;
+    }
+
+
+
+}
+
+
+
+@media only screen and (max-width : 1280px) {}
+
+
+
+@media only screen and (min-width : 1200px) and (max-width : 1365px) {
+
+    .home .heroSwiper {
+        width: 45%;
+    }
+
+    /* .home .heroSwiper {
+        left: 110px;
+        bottom: -90px;
+    } */
+
+    #newsfeeds .post-slide {
+        margin: 0 15px 70px 15px;
+    }
+
+    .menu-box-mai .menu-box {
+        margin-top: 0px;
+        top: 6px;
+    }
+
+    .menu-box-f.sub { 
+        height: 74px; 
+    }
+
+    .menu-box-mai .menu-box .menubar.sub {
+      
+        padding-top: 17px; 
+    }
+
+    .menu-box-mai .menu-box.sub { 
+        top: -56px;
+        right: 10px;
+        width: 290px;
+    }
+    #header .container-fluid .col-md-10.sub {
+        justify-content: flex-start;
+    }
+
+    .latest-box .latest-content {
+        padding: 10px 0 0 0;
+    }
+
+    .latest-box {
+        flex-direction: column;
+        padding: 0 20px;
+    }
+
+    .latest-box img {
+        width: 100% !important;
+    }
+
+    #newsfeeds .post-slide .post-img {
+        height: 220px;
+    }
+
+    #newsfeeds .post-slide .post-img img {
+        height: 220px;
+    }
+
+    .alshurooq-press-contact .content {
+        padding: 15px;
+    }
+
+
+
+    .alshurooq-press-contact .headline-container {
+        padding-top: 0px;
+    }
+
+
+    .press-portal-contact {
+        margin-left: 0px;
+    }
+
+    input, select, textarea {
+        padding: 13px;
+    }
+
+    #header .container-fluid .link a.cont {
+        padding: 2px 30px 4px 30px;
+    }
+
+    #header .container-fluid .link a {
+        margin-right: 13px;
+    }
+
+    .testim-cover {
+        margin: 0 45px;
+    }
+
+    .slideshow .arrows .prev {
+        right: 100px;
+    }
+
+    .slideshow .arrows .next {
+        right: 60px;
+    }
+
+    #al-machbanner h3 {
+        left: 0%;
+    }
+
+    #al-machbanner h4 {
+        left: 0%;
+    }
+
+    #al-machbanner .img-mg {
+        margin-left: 1%;
+        margin-top: 15%;
+    }
+
+    #al-product {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+
+    #footer iframe {
+        height: 168px;
+    }
+
+   
+
+    #footer .container-fluid .text-div p {
+        font-size: 1.5rem;
+    }
+
+ 
+
+    #footer .container-fluid .text-div-last p {
+        font-size: 1.5rem;
+    }
+
+
+    #al-product .img-box:hover .im-box {
+        height: 260px;
+        margin-top: -110%;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 20px;
+    }
+
+    #al-product .img-box img {
+        height: 300px;
+    }
+
+    #al-product .img-box {
+        height: 300px;
+    }
+
+    #al-product .img-box h4 {
+        margin: 0px;
+        font-size: 1.7rem
+    }
+
+    #al-product .img-box:hover .im-box a:hover i {
+        margin-right: 90px
+    }
+
+    #al-product .img-box .im-box.ce {
+        margin-top: -34%;
+    }
+
+    #al-product .img-box:hover .im-box.ce {
+        margin-top: -110%;
+    }
+
+    #al-product .img-box:hover .im-box a.view.ee {
+        margin-top: 20px;
+    }
+
+    #al-product .img-box:hover .im-box p.text {
+        font-size: 1.4rem
+    }
+
+    #newsfeeds .owl-nav {
+        margin-top: -97%;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        font-size: 1.6rem;
+        margin-top: 12px;
+    }
+
+    #newsfeeds .container .min3 .hed img {
+        margin-left: 10px;
+    }
+
+    #newsfeeds .container .min .hedsc p {
+        font-size: 1.5rem
+    }
+
+    #blog h4 {
+        font-size: 1.7rem;
+    }
+
+
+    #foo-last .top {
+        right: 20%;
+    }
+
+    .menu-box-mai .me-social {
+        margin-top: 0.5%;
+        width: 70%;
+    }
+
+    .menu-box-mai .me-ico {
+        margin-top: -4.3%;
+    }
+
+    .float {
+        bottom: 93px;
+    }
+
+    .slideshow .slide .title h3.thre {
+        width: 635px;
+    }
+
+
+
+}
+
+
+@media only screen and (min-width : 1024px) and (max-width : 1199px) {
+
+    #header .container-fluid .col-md-10 { 
+        justify-content: flex-start; 
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        position: relative;
+        top: 100px;
+        padding: 0;
+    }
+
+    .menu-box-mai .menu-box .menubar.sub {
+        position: relative;
+        top: 23px;
+        padding: 0;
+    }
+
+    .menu-box-mai .menu-box.sub { 
+        top: -11px;
+    }
+
+    .me-social {
+        display: none;
+    }
+
+    .home .heroSwiper {
+        padding: 5px 25px;
+        width: 50%;
+    }
+
+    .home .heroSwiper .swiper-wrapper .swiper-slide .main-head {
+
+        font-size: 3.5rem;
+        line-height: 45px;
+    }
+
+    /* .home .heroSwiper {
+        left: 50px;
+        bottom: -60px;
+        width: 50%;
+    } */
+
+    .menu-box-mai .menu-box {
+        width: 28%;
+        margin-top: -68px;
+    }
+
+    .home {
+        height: 75vh;
+        position: relative;
+    }
+
+    .navmodal-wrapper {
+        width: 90%;
+        height: 800px;
+        padding: 50px 40px;
+    }
+
+    #newsfeeds .p-0 {
+        padding: 0 10px;
+    }
+
+    .latest-box .latest-content h5 a {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .latest-box-area h2 {
+        font-size: 24px;
+    }
+
+    .blog-details-box-content h3 {
+        font-size: 20px !important;
+    }
+
+    .blog-details-box-content h1 {
+        font-size: 30px;
+        margin: 0;
+    }
+
+    .latest-box img {
+        width: 100% !important;
+    }
+
+    .latest-box .latest-content {
+        padding: 10px 0 0 0;
+    }
+
+    .latest-box {
+        flex-direction: column;
+        padding: 0 20px;
+    }
+
+    .latest-box-area {
+        margin: 0;
+    }
+
+    #newsfeeds .post-slide .post-img {
+        height: 300px;
+    }
+
+    #newsfeeds .post-slide .post-img img {
+        height: 300px;
+    }
+
+    /* #al-product .addr {
+        width: 32%;
+        height: 210px;
+    } */
+
+    #banner-ab {
+        padding-top: 0px;
+    }
+
+    .testim-cover .row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cont-ho {
+        margin: 40px 0 0 0;
+    }
+
+    .r-quote .form-box {
+        display: block;
+        padding: 40px 0 70px 30px;
+    }
+
+    .submit {
+        position: relative;
+        left: 0;
+        right: 0;
+        margin: 0;
+        bottom: -30px;
+    }
+
+    #header .container-fluid .link a {
+        margin-right: 15px;
+    }
+
+    #header .container-fluid .link a.cont {
+        padding: 2px 15px 4px 15px;
+    }
+
+
+
+
+    .alshurooq-press-contact .content {
+        height: auto;
+    }
+
+    .testim .overlay {
+        padding: 10px 60px 100px 60px;
+        height: auto;
+    }
+
+    .testim-cover {
+        margin: 0 35px;
+    }
+
+    .slideshow .slide .title h3 {
+        font: 600 3rem/1.2 "Segoe UI Bold", sans-serif;
+        width: 340px
+    }
+
+    .slideshow .slide-content {
+        top: 82%;
+    }
+
+    .slideshow .arrows .prev {
+        right: 70px;
+    }
+
+    .slideshow .arrows .next {
+        right: 30px;
+    }
+
+    #al-machbanner h3 {
+        left: -12%;
+    }
+
+    #al-machbanner h4 {
+        left: -12%;
+    }
+
+    #al-machbanner .img-mg {
+        margin-left: -5%;
+        margin-top: 5%;
+    }
+
+    #al-product {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+
+    #al-about h3 {
+        font-size: 3rem
+    }
+
+    #al-about p {
+        font-size: 1.5rem;
+        line-height: 1.6;
+    }
+
+    #al-about .one .text p {
+        width: 80%;
+        font-size: 1.2rem;
+    }
+
+    #al-about .one .text {
+        width: 70%;
+    }
+
+    #al-services figure h4 {
+        font-size: 1.7rem
+    }
+
+    #al-services h3 {
+        font-size: 3rem;
+    }
+
+
+    #footer iframe {
+        height: 168px;
+    }
+
+    /* #footer .container-fluid .text-div {
+        padding-top: 73px;
+    } */
+
+    #footer .container-fluid .text-div p {
+        font-size: 1.3rem;
+    }
+
+    /* #footer .container-fluid .text-div-last {
+        padding-top: 16px;
+    } */
+
+    #footer .container-fluid .text-div-last p {
+        font-size: 1.3rem;
+    }
+
+    #al-product h3 {
+        font-size: 2.4rem;
+    }
+
+    #al-product p {
+        font-size: 1.5rem;
+        line-height: 1.6
+    }
+
+    #al-product .img-box:hover .im-box {
+        height: 170px;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 20px;
+    }
+
+    #al-product .img-box h4 {
+        margin: 0px;
+        font-size: 1.7rem
+    }
+
+    #al-product .img-box:hover .im-box a:hover i {
+        margin-right: 60px
+    }
+
+    #al-product .img-box .im-box.ce {
+        margin-top: -34%;
+    }
+
+    #al-product .img-box:hover .im-box.ce {
+        margin-top: -81%;
+    }
+
+    #al-product .img-box:hover .im-box a.view.ee {
+        margin-top: 40px;
+    }
+
+    #al-product .img-box:hover .im-box p.text {
+        font-size: 1.4rem
+    }
+
+
+    #al-discover .te-ma h3 {
+        font-size: 3rem;
+    }
+
+    #feeds h3 {
+        font-size: 3rem;
+    }
+
+
+    #al-product .img-box:hover .im-box a.i024 {
+        display: none;
+    }
+
+
+
+    #newsfeeds .owl-nav {
+        margin-top: -145%;
+    }
+
+    #newsfeeds .container .min3 {
+        margin-top: -14%;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        font-size: 2rem;
+        margin-top: 12px;
+    }
+
+    #newsfeeds .container .min3 .hed img {
+        margin-left: 111px;
+        width: 17%;
+    }
+
+    #newsfeeds .container .min3 .ico img {
+        width: 20%;
+    }
+
+    #newsfeeds .container .min .hedsc p {
+        font-size: 1.5rem
+    }
+
+    #blog h3 {
+        font-size: 3rem
+    }
+
+    #blog h4 {
+        font-size: 1.7rem;
+    }
+
+
+    .press-portal-contact {
+        margin-left: 0px
+    }
+
+    #text-mo h3 {
+        font-size: 3rem
+    }
+
+
+
+}
+
+@media only screen and (min-width : 768px) and (max-width :1023px) {
+
+    #al-product h2.cl { 
+        font-size: 2.5rem; 
+    }
+
+
+    .mySlides { 
+        margin: 40px 0 0 0;
+    }
+    #header .container-fluid .link.sub { 
+        margin-top: 2%;
+        position: unset;
+    }
+    #header .container-fluid .link.sub #nav { 
+        width: 80%;
+        padding: 0 0 0 140px;
+    }
+
+    #nav
+    {
+        width: 70%;
+    }
+
+    .me-social {
+        display: none;
+    }
+
+
+    #header .container-fluid .col-md-10 { 
+        justify-content: flex-start; 
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        position: relative;
+        top: 100px;
+        padding: 0;
+    }
+
+    .menu-box-mai .menu-box .menubar.sub {
+        position: relative;
+        top: 10px;
+        padding: 0;
+    }
+
+    .menu-box-mai .menu-box.sub { 
+        width: 200px;
+        top: -24px;
+    }
+
+    .home .heroSwiper {
+        width: 55%;
+        padding: 5px 25px;
+    }
+
+    .home .heroSwiper .swiper-wrapper .swiper-slide .main-head {
+
+        font-size: 3rem;
+        line-height: 43px;
+    }
+
+
+    /* .home .heroSwiper {
+        left: 50px;
+        bottom: -100px;
+        width: 70%;
+    } */
+
+    .home {
+        height: 42vh;
+    }
+
+    .navmodal-wrapper {
+        width: 100%;
+        height: auto;
+        padding: 50px 30px;
+    }
+
+    .latest-box .latest-content h5 a {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .latest-box img {
+        width: 270px !important;
+    }
+
+    .blog-details-box-content {
+        padding: 10px 0 30px 0;
+    }
+
+    .latest-box-area {
+        margin: 0 0px 50px 0px;
+    }
+
+    #newsfeeds .post-slide .post-img {
+        height: auto;
+    }
+
+    #newsfeeds .post-slide .post-img img {
+        height: auto;
+    }
+
+    #header .container-fluid .link a.active {
+        margin: 0 10px 6px;
+    }
+
+    #banner-ab {
+        padding-top: 0px;
+    }
+
+    /* #al-product .addr {
+        width: 48%;
+    } */
+
+    .alshurooq-press-contact .headline-container {
+        padding-top: 0px;
+    }
+
+    .alshurooq-press-contact .content {
+        height: auto;
+    }
+
+
+    .submit {
+        position: relative;
+        left: 0;
+        right: 0;
+        margin: 0;
+        bottom: -30px;
+    }
+
+    .r-quote .form-box {
+        display: block;
+        padding: 40px 0 70px 30px;
+    }
+
+
+    .testim-cover {
+        margin: 0 25px;
+    }
+
+    #header .container-fluid .col-md-2 {
+        width: 18.667%;
+        float: left;
+        display: block;
+    }
+
+    #header .container-fluid .col-md-10 {
+        width: 100%; 
+    }
+
+    #header .container-fluid .link {
+        margin-top: 4%
+    }
+
+    #header .container-fluid .link a {
+        font-size: 1.4rem;
+        margin-right: 20px;
+    }
+
+    .menu-box-mai .menu-box {
+        width: 22%;
+        margin-top: -9%
+    }
+
+    .menu-box-mai .me-social {
+        display: none
+    }
+
+    .menu-box-mai .menu-box .img-size {
+        width: 100%;
+    }
+
+    .menu-box-mai .me-ico {
+        width: 35%;
+    }
+
+    .slideshow .slide .title h3 {
+        font: 600 3rem/1.2 "Segoe UI Bold", sans-serif;
+        width: 340px;
+        padding-bottom: 15px;
+    }
+
+    .slideshow .slide-content {
+        top: 83%;
+    }
+
+    .slideshow .pagination {
+        bottom: 60%;
+        left: 93%;
+        width: 4%;
+    }
+
+    .slideshow .arrows .next {
+        right: 85%;
+        top: 78%
+    }
+
+    .slideshow .arrows .prev {
+        right: 90%;
+        top: 78%
+    }
+
+    .slideshow .slide .caption {
+        padding: 0 30px;
+    }
+
+    #al-machbanner .img-mg {
+        display: none
+    }
+
+    #al-machbanner h3 {
+        margin-top: 0%
+    }
+
+    #al-machbanner h4 {
+        margin-top: 1%
+    }
+
+    #al-product {
+        padding-top: 0px;
+        padding-bottom: 20px
+    }
+
+    #al-product .img-box {
+        margin-bottom: 30px;
+    }
+
+    #al-product a.read {
+        margin-bottom: 30px;
+        float: left;
+    }
+
+    #al-discover {
+        padding-top: 25px;
+        padding-bottom: 0px
+    }
+
+    #newsfeeds .owl-nav {
+        margin-top: -97%;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        margin-top: 10px
+    }
+
+    .press-portal-contact {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .testim .dots {
+        bottom: 20px;
+    }
+
+    .testim .cont div p {
+        width: 100%
+    }
+
+    .testim .arrow.left {
+        left: 20px;
+    }
+
+    .testim .arrow.right {
+        right: 20px;
+    }
+
+    #footer .container-fluid .foo-logo {
+        margin: inherit;
+        width: 30%
+    }
+
+    #footer .container-fluid .text-div {
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #footer .container-fluid .text-div-last {
+        padding-top: 20px;
+    }
+
+    #foo-last .top {
+        bottom: -10px;
+    }
+
+
+    .navmodal.active {
+        overflow: auto;
+    }
+
+
+    #al-machbanner .container-fluid .box {
+        width: 250px;
+        height: 290px;
+    }
+
+    #newsfeeds {
+        padding-bottom: 0px
+    }
+
+    /* .menu-box-mai .menu-box .menubar {
+        height: 10vh;
+        padding-top: 18px;
+        margin-top: 2px;
+        padding-left: 10px;
+        padding-right: 10px;
+    } */
+
+    .deis {
+        display: none !important;
+    }
+
+    .res {
+        display: block !important;
+    }
+
+
+    #nav li li a {
+        width: 230px;
+    }
+
+    #nav li li:hover ul {
+        margin-left: 230px;
+    }
+
+
+
+}
+
+
+
+
+@media only screen and (min-width : 150px) and (max-width : 767px) {
+
+    #contact-form h2 { 
+        font-size: 2rem; 
+    }
+
+    #al-about h4 {
+        font-size: 2.5rem; 
+    }
+
+
+    #banner-ab .ban-cap h2 { 
+        font-size: 2.5rem; 
+    }
+
+    #al-product h2.cl { 
+        font-size: 2rem; 
+    }
+    #al-product li h1 { 
+        font-size: 1.6rem; 
+    }
+    .mySlides { 
+        margin: 30px 0 0 0;
+    }
+
+
+    #footer .container-fluid .text-div-last .me-social { 
+        margin: 20px 0 30px 0;
+    }
+
+
+
+    .navbar-scroll .menu-box-mai .menu-box { 
+        margin-top: -6%;
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        position: relative;
+        top: 80px;
+        padding: 0;
+        right: 20px;
+    }
+
+    /* .navmenu.navbar-scroll .menubar  {
+        top: 150px;
+    } */
+
+    .menu-box-mai .me-social.sub {
+        width: 70%;
+        left: 100px;
+        position: relative;
+        top: 85px;
+        margin: 0;
+    }
+
+    #header .container-fluid .col-md-10.sub
+    {
+        display: none;
+    }
+
+    .menu-box-mai .menu-box .menubar.sub { 
+        top: 85px;
+        right: 0px;
+    }
+
+    .services-content li {
+        padding: 0 0 12px 0px !important;
+    }
+
+    .home .heroSwiper .swiper-wrapper .swiper-slide .main-head {
+
+        font-size: 2.5rem;
+        line-height: 34px;
+    }
+
+    .home .heroSwiper {
+        width: 94%;
+        left: 10px;
+        padding: 0px 10px 10px 20px;
+        top: 230px;
+    }
+
+    .w3-content button {
+        left: 35%;
+    }
+
+    #al-product .addr {
+        height: auto;
+    }
+
+    /* .home .heroSwiper {
+        left: 10px;
+        bottom: -120px;
+        width: 90%;
+        padding: 10px 20px;
+    } */
+
+    .home {
+        height: 50vh;
+    }
+
+    .navmodal-wrapper {
+        width: 100%;
+        height: auto;
+        padding: 50px 10px;
+    }
+
+    #newsfeeds {
+        padding-top: 20px;
+        padding-bottom: 80px;
+    }
+
+    #newsfeeds h2 {
+        font-size: 2rem;
+    }
+
+    #newsfeeds .post-slide.home {
+        margin: 0 0 40px 0;
+    }
+
+    .blog-details-box .blog-details-image .blog-date a {
+        font-size: 12px;
+    }
+
+    .blog-details-box .blog-details-image .blog-date {
+        bottom: 10px;
+        left: 10px;
+        padding: 4px 12px;
+    }
+
+    .blog-details-box-content p {
+        text-align: justify;
+    }
+
+    .latest-box img {
+        width: 120px !important;
+    }
+
+    .blog-details-box-content h3 {
+        font-size: 17px !important;
+    }
+
+    .blog-details-box-content h1 {
+        font-size: 20px;
+    }
+
+    .blog-details-box-content {
+        padding: 0;
+    }
+
+    .latest-box {
+        padding: 0 10px;
+    }
+
+    .latest-box-area {
+        margin: 20px 0 30px 0;
+    }
+
+    #newsfeeds .post-slide .post-content {
+        padding: 20px 18px;
+    }
+
+    #newsfeeds .post-slide {
+        margin: 0 0px 50px 0px;
+    }
+
+    #newsfeeds .post-slide .post-img {
+        height: auto;
+    }
+
+    #newsfeeds .post-slide .post-img img {
+        height: auto;
+    }
+
+    /* #al-product .addr {
+        width: 100%;
+    } */
+
+    .alshurooq-press-contact .content {
+        height: auto;
+    }
+
+    input, select, textarea {
+        padding: 10px;
+    }
+
+    #banner-ab {
+        padding-top: 0px;
+    }
+
+    #contact-form form .r-quote .form-box .form-bg .form-group {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #contact-form form .r-quote .form-box .form-bg .form-group .col-sm-10 {
+        width: 100%;
+    }
+
+    input[type=submit] {
+        padding: 10px;
+        width: 120px;
+        margin: 30px 0 0 0;
+    }
+
+    .r-quote .form-bg h2 {
+        font-size: 2rem !important;
+    }
+
+    .submit {
+        position: initial;
+    }
+
+    .r-quote .form-box .form-bg {
+        padding: 0;
+    }
+
+    .r-quote .form-box {
+        display: block;
+        padding: 20px 0;
+    }
+
+
+    .r-quote .form-horizontal .form-group {
+        display: block;
+    }
+
+    .r-quote {
+        display: block;
+    }
+
+    #banner-ab .ban-cap {
+        width: 92%;
+    }
+
+    .testim-cover {
+        margin: 0 10px;
+    }
+
+    #header .container-fluid .col-md-2 {
+        width: 30.667%;
+        float: left;
+        display: block;
+    }
+
+    #header .container-fluid .col-md-10 {
+        width: 100%;
+        float: left;
+        display: none !important;
+    }
+
+    #header .container-fluid .link {
+        margin-top: 4%
+    }
+
+    #header .container-fluid .link a {
+        font-size: 1.4rem;
+        margin-right: 20px;
+    }
+
+    .menu-box-mai .menu-box {
+        width: 100%;
+        margin-top: -16%;
+    }
+
+    .menu-box-mai .menu-box .img-size {
+        width: 70%;
+    }
+
+    .menu-box-f {
+        height: 9vh
+    }
+
+    .menu-box-mai .me-social a {
+        padding-left: 0px;
+        padding-right: 5px;
+    }
+
+    .menu-box-mai .me-social {
+        width: 45%;
+        margin-top: 4.5%;
+    }
+
+    .menu-box-mai .me-social a {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .subtitle a {
+        font-weight: 400;
+    }
+
+
+
+
+    .slideshow .slide .title h3 {
+        font: 600 3rem/1.2 "Segoe UI Bold", sans-serif;
+        width: 340px;
+        padding-bottom: 15px;
+    }
+
+    .slideshow .slide-content {
+        top: 70%;
+    }
+
+    .slideshow .pagination {
+        bottom: 9%;
+        left: 35%;
+        width: 40%;
+    }
+
+    .slideshow .arrows .next {
+        right: 77%;
+    }
+
+    .slideshow .arrows .prev {
+        left: 20px;
+        right: auto;
+    }
+
+    .slideshow .slide .caption {
+        padding: 0 30px;
+    }
+
+    #al-machbanner .img-mg {
+        display: none
+    }
+
+    #al-machbanner h3 {
+        margin-top: 10%;
+        font-size: 2.7rem;
+        left: 15%
+    }
+
+    #al-machbanner h4 {
+        margin-top: 12%;
+        font-size: 2.7rem;
+        left: 15%
+    }
+
+    #al-product {
+        padding-top: 20px;
+        padding-bottom: 20px
+    }
+
+    #al-product .img-box {
+        margin-bottom: 30px;
+    }
+
+    #al-product a.read {
+        margin-bottom: 30px;
+    }
+
+    #al-discover {
+        padding-top: 0px;
+        padding-bottom: 0px
+    }
+
+    #newsfeeds .owl-nav {
+        margin-top: 5%;
+        left: 1%;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        margin-top: 10px
+    }
+
+    #blog a.read {
+        margin-top: 10px;
+    }
+
+
+
+    .press-portal-contact {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+
+    .testim .dots {
+        bottom: 20px;
+        left: -15px;
+    }
+
+    .testim .cont div p {
+        width: 100%
+    }
+
+    .testim .arrow.left {
+        left: 20px;
+    }
+
+    .testim .arrow.right {
+        right: 20px;
+    }
+
+    .deis {
+        display: none !important;
+    }
+
+    .res {
+        display: block !important;
+    }
+
+    #footer .container-fluid .foo-logo {
+        margin: inherit;
+        width: 40%
+    }
+
+    #footer .container-fluid .text-div {
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #footer .container-fluid .text-div-last {
+        padding-top: 20px;
+    }
+
+    #foo-last .top {
+        bottom: 48px;
+    }
+
+
+    .navmodal.active {
+        overflow: auto;
+    }
+
+
+    .nn {
+        display: block;
+    }
+
+    #al-about {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    #al-about h3 {
+        font-size: 2rem;
+    }
+
+    #al-about p.wi {
+        width: 100%;
+        text-align: justify;
+        font-size: 1.5rem;
+        line-height: 1.6;
+    }
+
+    #al-about .one .text {
+        width: 70%
+    }
+
+    #al-about a.rh {
+        margin-right: 0px;
+    }
+
+    #al-services {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    #al-machbanner .container-fluid .box {
+        float: left;
+        height: 300px;
+        margin-left: -10%;
+    }
+
+
+    #al-product .img-box:hover .im-box {
+        height: 290px;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 20px;
+    }
+
+    #blog h3 {
+        font-size: 3.5rem
+    }
+
+    #text-mo h3 {
+        font-size: 4.5rem
+    }
+
+    #al-services h3 {
+        font-size: 3.5rem
+    }
+
+    #al-product h3 {
+        font-size: 2rem;
+    }
+
+    #al-discover .te-ma h3 {
+        font-size: 3.5rem
+    }
+
+    #feeds h3 {
+        font-size: 3.5rem
+    }
+
+    #feeds {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    #al-discover .container-fluid .te-ma {
+        width: 90%
+    }
+
+
+    #newsfeeds {
+        padding-bottom: 0px;
+        padding-top: 50px;
+    }
+
+    .testim .overlay {
+        height: 100%;
+        padding: 30px 30px 90px 30px;
+    }
+
+    .testim .arrow {
+        top: 95%;
+    }
+
+    #blog {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+
+    #footer iframe {
+        width: 100%;
+    }
+
+
+
+
+}
+
+
+@media only screen and (max-width: 690px) {}
+
+@media only screen and (max-width: 450px) {}
+
+@media only screen and (max-width : 376px) {
+
+    .slideshow .slide .caption {
+        padding: 0 15px;
+    }
+
+    #al-machbanner h3 {
+        margin-top: 5%;
+        left: 5%;
+    }
+
+    #al-machbanner h4 {
+        margin-top: 4%;
+        left: 5%;
+    }
+
+    #al-product .img-box:hover .im-box {
+        height: 250px;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 110px;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        font-size: 1.6rem;
+    }
+
+    .testim .arrow {
+        display: none
+    }
+
+    .menu-box-mai .me-social {
+        width: 49%;
+        margin-top: 3.5%;
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        height: 9vh;
+        padding-top: 15px;
+        margin-top: -2px;
+    }
+
+
+
+
+}
+
+@media only screen and (max-width : 320px) {
+    .alshurooq-press-contact .content {
+        padding: 15px;
+    }
+
+    .slideshow .slide .caption {
+        padding: 0 15px;
+    }
+
+    #al-machbanner h3 {
+        margin-top: 5%;
+    }
+
+    #al-product .img-box:hover .im-box {
+        height: 210px;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 70px;
+    }
+
+    #newsfeeds .container .min3 h3 {
+        font-size: 1.3rem;
+    }
+
+    .testim .arrow {
+        display: none
+    }
+
+    #al-product .img-box:hover .im-box a:hover i {
+        margin-right: 90px;
+    }
+
+    .slideshow .slide .title h3 {
+        font: 600 2.5rem/1.2 "Segoe UI Bold", sans-serif;
+        width: 289px;
+    }
+
+
+    .menu-box-mai .me-social a {
+        font-size: 1.3rem;
+    }
+
+    .slideshow .arrows .next {
+        right: 69%;
+    }
+
+    .menu-box-mai .menu-box {
+        margin-top: -18%;
+    }
+
+    .menu-box-mai .menu-box .menubar {
+        margin-top: -4px;
+    }
+
+    #header .container-fluid img {
+        width: 100%
+    }
+
+    .slideshow .slide .title h3.thre {
+        width: 290px;
+    }
+
+    #al-product .img-box .im-box {
+        margin-top: -30%;
+    }
+
+    .ne-res {
+        display: none;
+    }
+
+    #al-product .img-box:hover .im-box a.view {
+        margin-top: 30px;
+    }
+
+    #al-product .img-box h4 {
+        font-size: 1.5rem;
+    }
+
+    #blog .col-xs-12 {
+        margin-bottom: 15px;
+    }
+
+
+
+
+}
