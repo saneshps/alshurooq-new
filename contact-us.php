@@ -101,12 +101,18 @@ if (isset($_REQUEST['subc'])) {
 				<div class="col-md-12">
 					<h2>Get In Touch</h2>
 
-					<p> Al Shurooq Industries L.L.C., a certified company with ISO 9001:2015, ISO 14001:2015,
+					<p> <a href="https://alshurooq.ae/index.php " target="_blank">
+						 Al Shurooq Industries L.L.C.
+               			 </a>
+						 , a certified company with ISO 9001:2015, ISO 14001:2015,
 						and ISO 45001:2018 accreditations, specializes in Steel Fabrication and Machining.
 						With the capability and resources to deliver high-quality solutions, we serve diverse industries,
 						including Power Generation, Oil & Gas, Steel Construction, Food Processing, Machine Building,
 						Agricultural and Water Management, Prototyping, Electric Vehicle Components Manufacturing,
-						Solar Panel Structures, Battery and Power Pack Assemblies, and General Mechanical Industries.
+						<a href="https://alshurooq.ae/solar-panel-structures.php" target="_blank">
+						Solar Panel Structures
+              			  </a>
+						, Battery and Power Pack Assemblies, and General Mechanical Industries.
 
 					</p>
 				</div>

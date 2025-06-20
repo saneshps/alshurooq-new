@@ -93,7 +93,7 @@
 							</ul>
 						</li>
 						<li><a href="blogs.php"> Blogs </a></li>
-						<li><a href="contact.php" class="cont">Contact Us</a></li>
+						<li><a href="contact-us.php" class="cont">Contact Us</a></li>
 						<li><a href="request-a-quote.php" class="cont">Request a Quote </a></li>
 					</ul>
 
