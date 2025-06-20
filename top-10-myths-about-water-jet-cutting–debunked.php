@@ -96,21 +96,12 @@
                   <p>
                   This blog intends to debunk some such myths and shed some light into the plain facts about CNC waterjet cutting machines.
                     </p>
-              <!-- <h3> What is 5-Axis CNC machining?   </h3>
-              <img src="img/blog/how-5-axis-cnc-machining-works-and-why-it-matters-detail.jpg" alt="top 10 water jet cutting myths debunked | al shurooq UAE?"> </a>
-
-
-              <p> In 5 Axis CNC machining, the cutting tools move in five directions simultaneously
-                 across the surface of the workpiece. It can go through three linear axes, X, Y and Z,
-                  and two additional rotary axis A and B. It achieves the accurate cutting of the metal
-                   workpiece in a single setup, thus proving to be easier and more advantageous compared
-                    to the 3 or 4 axis CNC machining techniques.
-                   </p> -->
+            
               <h4> The Cost myth </h4>
               <p class="p-l-align">This is a common misconception regarding the waterjet cutting machine, especially among the new customers.</p>
               <p class="p-l-align"> While a waterjet cutting machine’s initial cost may seem steep, its efficiency, precision and rapid operation usually pays off in the long run. 
                 Let’s be honest here: Nothing is free. Everything comes with a price, and this too. Dissecting the whole process of a  
-                <a href="https://alshurooq.ae/5-axis-cnc-machinie.php" target="_blank">
+                <a href="https://alshurooq.ae/cnc-water-jet-cutting.php" target="_blank">
                  CNC waterjet cutting </a> machine reveals that the main costs involved are the abrasive material, electricity,
                  water, and other replaceable parts.
 
@@ -202,7 +193,7 @@
 
                 <h4>	Can a water jet cut intricate 3D Parts? </h4>
              <p class="p-l-align">Some people doubt the capability of the 
-                <a href="https://alshurooq.ae/5-axis-cnc-machinie.php" target="_blank">
+                <a href="https://alshurooq.ae/cnc-water-jet-cutting.php" target="_blank">
                CNC waterjet cutting machine </a> to cut out precise 3D parts.
 
               </p>
@@ -225,7 +216,7 @@
                 especially cutting thick materials and nonmetals and almost all type Engineering Plastics and composites.
               </p>
               <p class="p-l-align">
-                <a href="https://alshurooq.ae/5-axis-cnc-machinie.php" target="_blank">
+                <a href="https://alshurooq.ae/" target="_blank">
                Al Shurooq </a> , a leading player in precise fabrication and machining, provides the best CNC waterjet cutting 
                services in Dubai offering a cutting envelope 
                of up to 6 m x 2 m size that can slice through almost all metals and nonmetals up to 152 mm thick.
