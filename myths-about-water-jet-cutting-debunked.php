@@ -3,7 +3,7 @@
 
 <head>
 
-  <title> Top 10 Water Jet Cutting Myths Debunked | Al Shurooq UAE </title>
+  <title> Water Jet Cutting Myths Debunked: What UAE Industries Need to Know | Al Shurooq </title>
   <link rel="shortcut icon" href="img/favicon.png">
   <meta charset="utf-8">
   <meta name="keywords" content="">
