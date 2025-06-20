@@ -77,15 +77,15 @@
             <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
-                    <a href="top-10-myths-about-water-jet-cutting-debunked.php">
-                      <img src="img/blog/top-10-myths-about-water-jet-cutting-debunked.jpg" alt="Top 10 Water Jet Cutting Myths Debunked | Al Shurooq UAE"> </a>
+                    <a href="myths-about-water-jet-cutting-debunked.php">
+                      <img src="img/blog/myths-about-water-jet-cutting-debunked.jpg" alt="Top 10 Water Jet Cutting Myths Debunked | Al Shurooq UAE"> </a>
                   </div>
                   <div class="post-content">
                     <div class="post-date">
                       <span class="month"> 20 June 2025 </span>
 
                     </div>
-                    <h5 class="post-title"><a href="top-10-myths-about-water-jet-cutting-debunked.php">
+                    <h5 class="post-title"><a href="myths-about-water-jet-cutting-debunked.php">
                         Myths About Water Jet Cutting – Debunked
 
                       </a></h5>
@@ -96,7 +96,7 @@
 
                     </p>
                   </div>
-                  <a class="post-bar" href="top-10-myths-about-water-jet-cutting-debunked.php"> Read More </a>
+                  <a class="post-bar" href="myths-about-water-jet-cutting-debunked.php"> Read More </a>
                 </div>
               </div>
 
