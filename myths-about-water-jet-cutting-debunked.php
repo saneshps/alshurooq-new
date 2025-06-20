@@ -13,14 +13,14 @@
   <!-- Og -->
   <meta property="og:title" content="Top 10 Water Jet Cutting Myths Debunked | Al Shurooq UAE" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="https://alshurooq.ae/img/blog/top-10-myths-about-water-jet-cutting-debunked.jpg" />
+  <meta property="og:image" content="https://alshurooq.ae/img/blog/myths-about-water-jet-cutting-debunked.jpg" />
   <meta property="og:url" content="https://alshurooq.ae/myths-about-water-jet-cutting-debunked.php" />
   <meta property="og:description" content="Discover the truth behind common water jet cutting myths. Learn what’s real, what’s not, and how this process truly works. Accurate, expert insights inside." />
   <!-- Og -->
   <!-- og linkedin -->
   <meta name="linkedin:title" content="Top 10 Water Jet Cutting Myths Debunked | Al Shurooq UAE">
   <meta name="linkedin:type" content="article" />
-  <meta name="linkedin:image" content="https://alshurooq.ae/img/blog/top-10-myths-about-water-jet-cutting-debunked.jpg" />
+  <meta name="linkedin:image" content="https://alshurooq.ae/img/blog/myths-about-water-jet-cutting-debunked.jpg" />
   <meta name="linkedin:url" content="https://alshurooq.ae/myths-about-water-jet-cutting-debunked.php" />
   <meta name="linkedin:description" content="Discover the truth behind common water jet cutting myths. Learn what’s real, what’s not, and how this process truly works. Accurate, expert insights inside." />
   <!-- og linkedin -->
