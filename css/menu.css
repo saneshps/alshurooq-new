@@ -134,13 +134,13 @@
 }
 
 .navmodal-wrapper {
-
   width: 80%;
   height: 100vh;
   background: #213565;
   padding: 50px 70px;
   margin: 0 auto;
-
+  overflow: scroll;
+  
 }
 
 .navmodal-wrapper .menu {

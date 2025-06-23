@@ -95,12 +95,6 @@
 						<li><a href="request-a-quote.php" class="cont">Request a Quote </a></li>
 					</ul>
 
-
-
-
-
-
-
 				</div>
 			</div>
 		</div>
@@ -260,7 +254,7 @@
 				<h4 class="subtitle"><a href="blogs.php">Blogs</a></h4>
 				<h4 class="subtitle"><a href="gallery.php">Gallery</a></h4>
 				<!-- <h4 class="subtitle"><a href="news-feeds.php">News & Feeds</a></h4> -->
-				<h4 class="subtitle"><a href="contact.php">Contact Us</a></h4>
+				<h4 class="subtitle"><a href="contact-us.php">Contact Us</a></h4>
 
 			</div>
 

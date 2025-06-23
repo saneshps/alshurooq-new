@@ -72,14 +72,8 @@
 								<li><a href="../powder-coating.php">Powder Coating</a></li>
 							</ul>
 						</li>
-						<li><a href="../contact.php" class="cont">Contact Us</a></li>
+						<li><a href="../contact-us.php" class="cont">Contact Us</a></li>
 					</ul>
-
-
-
-
-
-
 
 				</div>
 			</div>
@@ -210,7 +204,7 @@
 				<h4 class="subtitle"><a href="../career.php">Careers</a></h4>
 				<h4 class="subtitle"><a href="../blogs.php">Blogs</a></h4>
 				<h4 class="subtitle"><a href="../news-feeds.php">News & Feeds</a></h4>
-				<h4 class="subtitle"><a href="../contact.php">Contact Us</a></h4>
+				<h4 class="subtitle"><a href="../contact-us.php">Contact Us</a></h4>
 
 			</div>
 
