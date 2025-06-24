@@ -6,6 +6,11 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<url>
+  <loc>https://alshurooq.ae/contact-us.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
 
 <url>
   <loc>https://alshurooq.ae/</loc>
