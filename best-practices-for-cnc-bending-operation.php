@@ -11,7 +11,7 @@
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Explore practical tips and best practices for CNC bending operations in this blog from Alshurooq, UAE. Learn how to improve accuracy, boost efficiency, and achieve high-quality results in sheet metal bending">
-
+	<link rel="canonical" href="https://alshurooq.ae/best-practices-for-cnc-bending-operation.php">
 
 	<!-- Og -->
 	<meta property="og:title" content="Best Practices for CNC Bending Operation| Blogs |Alshurooq,UAE" />

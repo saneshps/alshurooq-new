@@ -5,13 +5,13 @@
 
 
 
-	<title>  Best Prototyping Services|Prototype Parts Dubai,UAE|Alshurooq </title>
+	<title> Best Prototyping Services|Prototype Parts Dubai,UAE|Alshurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Prototyping Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We offer Prototyping Service in Dubai,UAE that aligns with evolving needs of industries.Our Prototype Parts employs cutting-edge techniques for industrial needs">
-
+	<link rel="canonical" href="https://alshurooq.ae/prototyping-service.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -75,11 +75,11 @@
 					</div>
 					<h3 class="cl"> Advancing Design Innovation: Precision Prototyping Services </h3>
 					<p> Al Shurooq Industries proudly extends its service portfolio to include Precision Prototyping,
-						 a vital resource for clients seeking rapid design iteration and validation.
-						  This specialized service employs cutting-edge techniques such as
-						  <a href="https://alshurooq.ae/cnc-machining.php" target="_blank"> CNC machining</a> and
-						   <a href="https://alshurooq.ae/cnc-laser-cutting.php" target="_blank">laser cutting</a>,
-						   catering to diverse industries including automotive, defence, aerospace, and oil & gas.
+						a vital resource for clients seeking rapid design iteration and validation.
+						This specialized service employs cutting-edge techniques such as
+						<a href="https://alshurooq.ae/cnc-machining.php" target="_blank"> CNC machining</a> and
+						<a href="https://alshurooq.ae/cnc-laser-cutting.php" target="_blank">laser cutting</a>,
+						catering to diverse industries including automotive, defence, aerospace, and oil & gas.
 
 					</p>
 
@@ -88,17 +88,17 @@
 							<h4> Rapid Prototyping Techniques </h4>
 
 							<p> Explore how our rapid prototyping techniques redefine the design and validation process.
-								 Leveraging advanced methods such as
-								 <a href="https://alshurooq.ae/cnc-machining.php" target="_blank"> CNC machining</a> and 
-								 <a href="https://alshurooq.ae/cnc-laser-cutting.php" target="_blank">laser cutting</a>, we facilitate swift iterations,
-								  enabling clients to quickly validate designs. This is particularly crucial in
-								   industries where agility in design and development is imperative, such as
-								    automotive, defence, aerospace, and oil & gas.In addition to our Precision Prototyping services,
-									 Al Shurooq Industries is on the forefront of innovation with the planned integration
-									  of Metal 3D Printing into our prototyping capabilities.
-									   This strategic addition enhances our prototyping services,
-									    providing clients with a cutting-edge solution for rapid iteration
-										 and validation of metal parts.
+								Leveraging advanced methods such as
+								<a href="https://alshurooq.ae/cnc-machining.php" target="_blank"> CNC machining</a> and
+								<a href="https://alshurooq.ae/cnc-laser-cutting.php" target="_blank">laser cutting</a>, we facilitate swift iterations,
+								enabling clients to quickly validate designs. This is particularly crucial in
+								industries where agility in design and development is imperative, such as
+								automotive, defence, aerospace, and oil & gas.In addition to our Precision Prototyping services,
+								Al Shurooq Industries is on the forefront of innovation with the planned integration
+								of Metal 3D Printing into our prototyping capabilities.
+								This strategic addition enhances our prototyping services,
+								providing clients with a cutting-edge solution for rapid iteration
+								and validation of metal parts.
 							</p>
 						</li>
 						<li>

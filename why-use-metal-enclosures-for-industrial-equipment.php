@@ -19,7 +19,7 @@
   <meta property="og:url" content="https://alshurooq.ae/why-use-metal-enclosures-for-industrial-equipment.php" />
   <meta property="og:description" content="Check out more on Why Use Metal Enclosures for Industrial Equipment.Learn more on Metal Enclosures and thier application in Industries" />
   <!-- Og -->
-
+  <link rel="canonical" href="https://alshurooq.ae/why-use-metal-enclosures-for-industrial-equipment.php">
   <!--  Developed by - bigleap -->
 
   <!--***************************************-->

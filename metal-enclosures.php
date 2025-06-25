@@ -4,14 +4,14 @@
 <head>
 
 
- 
-	<title> Get Top Quality Electrical,Metal Enclosures in Dubai,UAE|Al Shurooq  </title>
+
+	<title> Get Top Quality Electrical,Metal Enclosures in Dubai,UAE|Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Metal Enclosures">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Get Top Quality Metal & Electrical Enclosures in Dubai,UAE .Our Metal & Electrical Enclosures are robust,offering exceptional protection for electronic devices">
-
+	<link rel="canonical" href="https://alshurooq.ae/metal-enclosures.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

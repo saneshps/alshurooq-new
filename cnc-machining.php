@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CNC Machining">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We are a leading Company offering CNC machining services in Dubai,UAE.We offer precision CNC machining of components using computer-controlled machine tools">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-machining.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -115,101 +115,101 @@
 
 					</p>
 
-										<!-- FAQ START -->
-										<div class="faq-area">
+					<!-- FAQ START -->
+					<div class="faq-area">
 
-<h2> Frequently Asked Questions on CNC Machining </h2>
-<div id="accordion">
+						<h2> Frequently Asked Questions on CNC Machining </h2>
+						<div id="accordion">
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" checked />
-		<h3 class="accordian-header active">
-		1.	What is CNC Machining?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content" tabindex="2">
-			<p> CNC Machining is a highly efficient manufacturing process where a pre-programmed computer software
-				 controls the movement of tools to precisely cut and remove the materials like metal, plastic,
-				  and wood. The process involves removing material from a workpiece to create the desired part.
-				   CNC machines are known for their high precision, repeatability, and ability to create complex shapes.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" checked />
+								<h3 class="accordian-header active">
+									1. What is CNC Machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content" tabindex="2">
+									<p> CNC Machining is a highly efficient manufacturing process where a pre-programmed computer software
+										controls the movement of tools to precisely cut and remove the materials like metal, plastic,
+										and wood. The process involves removing material from a workpiece to create the desired part.
+										CNC machines are known for their high precision, repeatability, and ability to create complex shapes.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		2.	What are the advantages of CNC machining?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC machining has several advantages like High Precision, Consistency and Repeatability,
-				 Ability to create complex Geometries, Automation possibility, Material Versatility, Speed and Flexibility. 
-				 These advantages make CNC machining a preferred choice for many industries that require
-				  high-quality and efficient manufacturing processes.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									2. What are the advantages of CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC machining has several advantages like High Precision, Consistency and Repeatability,
+										Ability to create complex Geometries, Automation possibility, Material Versatility, Speed and Flexibility.
+										These advantages make CNC machining a preferred choice for many industries that require
+										high-quality and efficient manufacturing processes.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		3.	What are the different types of CNC machining processes?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Common CNC machining processes include Turning, Milling, Drilling, Boring, threading, Grinding, Engraving, Shaping, Electric Discharge Machining etc.  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									3. What are the different types of CNC machining processes?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Common CNC machining processes include Turning, Milling, Drilling, Boring, threading, Grinding, Engraving, Shaping, Electric Discharge Machining etc. </p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		4.	Which are the industries that use CNC machining?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC machining is used in a wide range of industries, including Automotive, Electronics, Aerospace, Tool and mold making etc.  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									4. Which are the industries that use CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC machining is used in a wide range of industries, including Automotive, Electronics, Aerospace, Tool and mold making etc. </p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		5.	Applications of CNC machining?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC Machining has a wide range of applications across various industries due to its precision,
-				 efficiency, and versatility. Aerospace, Automotive, Medical Devices, Electronics, Defense and
-				  Military, Industrial Equipment; Energy Sector, Consumer Products are some of the industries 
-				  that widely uses CNC Machining processes.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									5. Applications of CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC Machining has a wide range of applications across various industries due to its precision,
+										efficiency, and versatility. Aerospace, Automotive, Medical Devices, Electronics, Defense and
+										Military, Industrial Equipment; Energy Sector, Consumer Products are some of the industries
+										that widely uses CNC Machining processes.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		6.	What all are the different materials that can be machined?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC machining can work with a wide variety of materials, such as Steel, Stainless Steel, Aluminum,
-				 Brass, Bronze, copper, Nickel Alloys, Titanium, Acrylic, Nylon, Teflon, Composites, Wood etc.
-				  </p>
-		</div>
-	</div>
- 
- 
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									6. What all are the different materials that can be machined?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC machining can work with a wide variety of materials, such as Steel, Stainless Steel, Aluminum,
+										Brass, Bronze, copper, Nickel Alloys, Titanium, Acrylic, Nylon, Teflon, Composites, Wood etc.
+									</p>
+								</div>
+							</div>
 
- 
 
-	 
-</div>
 
-</div>
-<!-- FAQ END -->
+
+
+
+						</div>
+
+					</div>
+					<!-- FAQ END -->
 				</div>
 			</div>
 

@@ -11,7 +11,7 @@
 	<meta name="keywords" content="5 Axis CNC Machining">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Looking for a reliable 5 Axis CNC machining services company in Dubai, UAE? We offer high-precision manufacturing and custom solutions for all your industrial needs">
-
+	<link rel="canonical" href="https://alshurooq.ae/5-axis-cnc-machining.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

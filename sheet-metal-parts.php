@@ -5,13 +5,13 @@
 
 
 
-	<title> Best Custom Sheet Metal Parts For Industrial Applications | Al Shurooq | UAE  </title>
+	<title> Best Custom Sheet Metal Parts For Industrial Applications | Al Shurooq | UAE </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Sheet Metal Parts">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Contact us at info@alshurooq.ae or give us a call at +971 4 42 55988. Best Custom Sheet Metal Parts For top-tier industrial solutions. Al Shurooq, UAE ">
-
+	<link rel="canonical" href="https://alshurooq.ae/sheet-metal-parts.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

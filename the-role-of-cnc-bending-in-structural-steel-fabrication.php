@@ -11,7 +11,7 @@
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Check out more on the Role of CNC Bending in Structural Steel Fabrication, Types of CNC Bending Machines,Benefits of CNC Bendin from our Blog">
-
+  <link rel="canonical" href="https://alshurooq.ae/the-role-of-cnc-bending-in-structural-steel-fabrication.php">
   <!-- Og -->
   <meta property="og:title" content="Role of CNC Bending in Structural Steel Fabrication|Blogs|Alshurooq" />
   <meta property="og:type" content="article" />

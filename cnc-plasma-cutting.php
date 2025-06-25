@@ -9,7 +9,7 @@
 	<meta name="keywords" content="CNC Plasma Cutting">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We offer quality CNC  plasma cutting services in Dubai,UAE.Our CNC Plasma cutting handle stainless steel,aluminum etc ensuring precision cuts to meet industrial needs">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-plasma-cutting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -122,13 +122,13 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" checked />
 								<h3 class="accordian-header active">
-								1.	How does plasma cutting differ from laser cutting?
+									1. How does plasma cutting differ from laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content" tabindex="2">
 									<p>
-									Both plasma cutting and laser cutting use a focused beam to cut through materials.
-									 Plasma cutting uses a high-temperature jet of ionized gas, while laser cutting uses a concentrated beam of light.
+										Both plasma cutting and laser cutting use a focused beam to cut through materials.
+										Plasma cutting uses a high-temperature jet of ionized gas, while laser cutting uses a concentrated beam of light.
 
 									</p>
 								</div>
@@ -142,36 +142,36 @@
 								</h3>
 								<div class="accordian-content">
 									<p> CNC Plasma Cutting uses a high-velocity jet of ionized gas (Plasma) to cut through electrically
-										 conductive materials like steel, Stainless Steel or aluminum. A plasma torch melts the material,
-										  while the CNC system controls the cutting path with high precision. This method is widely used 
-										  in industries for fast and efficient cutting of metals into custom shapes.
-										 </p>
+										conductive materials like steel, Stainless Steel or aluminum. A plasma torch melts the material,
+										while the CNC system controls the cutting path with high precision. This method is widely used
+										in industries for fast and efficient cutting of metals into custom shapes.
+									</p>
 								</div>
 							</div>
 
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-									3.  What about the Heat Affected Zone (HAZ) in plasma cutting?
+									3. What about the Heat Affected Zone (HAZ) in plasma cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p> In plasma cutting, the HAZ (Heat-Affected Zone) refers to the area around the cut where the material's
-										 properties have been altered due to heat exposure. The size of the HAZ depends on factors like cutting speed,
-										  material thickness, and the power of the plasma torch., it is still effective for many industrial
-										   applications where this is not a major concern.
-										 </p>
+										properties have been altered due to heat exposure. The size of the HAZ depends on factors like cutting speed,
+										material thickness, and the power of the plasma torch., it is still effective for many industrial
+										applications where this is not a major concern.
+									</p>
 								</div>
 							</div>
 
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								4.	What materials can be cut with CNC plasma cutting?
+									4. What materials can be cut with CNC plasma cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
-									<p> CNC plasma cutting is used for mainly for cutting metals like steel, stainless steel, aluminum etc.  </p>
+									<p> CNC plasma cutting is used for mainly for cutting metals like steel, stainless steel, aluminum etc. </p>
 								</div>
 							</div>
 
@@ -182,9 +182,9 @@
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
-									<p> CNC plasma has several advantages like the ability to cut through thick metal plates, 
+									<p> CNC plasma has several advantages like the ability to cut through thick metal plates,
 										ideal for a wide range of materials, and its relatively higher cutting speed.
-										 </p>
+									</p>
 								</div>
 							</div>
 
@@ -212,18 +212,18 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-									8.	Is CNC plasma cutting suitable for large-scale industrial production?
+									8. Is CNC plasma cutting suitable for large-scale industrial production?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p> Yes, CNC plasma cutting is employed for high-volume production of metal parts and components. </p>
 								</div>
 							</div>
-						 
 
-						 
 
-							 
+
+
+
 						</div>
 
 					</div>

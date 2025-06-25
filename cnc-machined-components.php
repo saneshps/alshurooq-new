@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CNC Machined Components">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Explore Quality CNC Machined Components in Dubai,UAE for unparalleled accuracy and quality. We deliver exceptional precision components for diverse industries">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-machined-components.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

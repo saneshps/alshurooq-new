@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Steel Bending Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Find the Best high-strength steel bending solutions in Dubai,UAE that maintain  ballistic effectiveness and contribute to  overall integrity of armored structures">
-
+	<link rel="canonical" href="https://alshurooq.ae/precision-bending-solutions-for-ballistic-and-high-strength-steels.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

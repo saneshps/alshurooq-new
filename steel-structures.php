@@ -5,13 +5,13 @@
 
 
 
-	<title> Structural steel fabrication company in Dubai, UAE | Alshurooq  </title>
+	<title> Structural steel fabrication company in Dubai, UAE | Alshurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="steel structures">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Explore top-tier structural steel fabrication by Alshurooq in UAE. Specialists in bridge structures, pre-engineered buildings, and offshore structures. Contact us for inquiries.">
-
+	<link rel="canonical" href="https://alshurooq.ae/steel-structures.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

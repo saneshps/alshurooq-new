@@ -11,7 +11,7 @@
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Looking to boost your business with advanced cutting technology? Discover the top 5 benefits of CNC plasma cutting, from improved precision to faster production. Read our blog at Alshurooq, UAE, and see how this innovation can transform your operations!">
-
+	<link rel="canonical" href="https://alshurooq.ae/top-5-benefits-of-using-cnc-plasma-cutting-for-your-business.php">
 
 	<!-- Og -->
 	<meta property="og:title" content="Top 5 Benefits of CNC Plasma Cutting for Your Business | Alshurooq UAE Blog" />

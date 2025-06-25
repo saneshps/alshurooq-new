@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Wet Spray Painting Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Transform your surfaces with precision and quality through our wet spray painting services in UAE. Our state-of-the-art paint booth ensures flawless finishes. Elevate your aesthetics today">
-
+	<link rel="canonical" href="https://alshurooq.ae/wet-spray-painting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

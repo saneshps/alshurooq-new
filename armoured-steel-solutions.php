@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Armoured Steel Solutions">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Discover our top-notch  vehicle armouring solutions  in Dubai,UAE that significantly enhance the maneuverability of armored vehicles">
-
+	<link rel="canonical" href="https://alshurooq.ae/armoured-steel-solutions.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

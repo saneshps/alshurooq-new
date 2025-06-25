@@ -5,13 +5,13 @@
 
 
 
-	<title> Steel Fabricators Dubai,UAE|Steel Fabrication Engineer|Al Shurooq  </title>
+	<title> Steel Fabricators Dubai,UAE|Steel Fabrication Engineer|Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="steel fabrication engineer,steel fabricators">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We are Steel Fabricators in Dubai,UAE offering custom stainless steel fabrication solutions.Our Services include Laser &Water Jet Cutting,Liquid Painting,Powder Coating etc.">
-
+	<link rel="canonical" href="https://alshurooq.ae/about.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>
@@ -173,7 +174,7 @@
 						These machines, encompassing the latest technologies, cater to the intricacies of diverse manufacturing and assembly needs.
 					</p>
 					<p> The range of products we offer is extensive, covering Power & Distribution <a href="https://alshurooq.ae/transformer-tanks-&-components.php" target="_blank">
-						 Transformer Tanks & Components</a>,
+							Transformer Tanks & Components</a>,
 						Metal Enclosures, Storage Tanks, Steel Structures, Industrial Sheds, Custom Built Food Processing Machines & Equipment,
 						Machine Building, Agricultural Machinery Parts, Water Management Pumps and Systems, Prototypes, Electric Vehicle Components,
 						Solar and Geothermal Structures, Battery & Power Pack Assemblies, and more.
@@ -188,7 +189,7 @@
 						high-quality results within specified timelines.
 					</p>
 					<p> With a cutting-edge design department, equipped with the latest CAD, CAM, and <a href="https://alshurooq.ae/cad-cam-simulation-services.php" target="_blank">
-						 Simulation software</a>, along with skilled engineers,
+							Simulation software</a>, along with skilled engineers,
 						Al Shurooq Industries ensures precise processing of customer requirements, maintaining a commitment to quality and timely delivery.
 					</p>
 

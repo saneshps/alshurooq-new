@@ -11,7 +11,7 @@
 	<meta name="keywords" content="5 – Axis CNC Machining">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq offers advanced 5 Axis CNC Machining services in Dubai, UAE. Precision engineering for intricate components, ensuring top-quality results.">
-
+	<link rel="canonical" href="https://alshurooq.ae/5-axis-cnc-machining.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -120,90 +120,90 @@
 
 					</p>
 
-															<!-- FAQ START -->
-															<div class="faq-area">
+					<!-- FAQ START -->
+					<div class="faq-area">
 
-<h2> Frequently Asked Questions on CNC Machining </h2>
-<div id="accordion">
+						<h2> Frequently Asked Questions on CNC Machining </h2>
+						<div id="accordion">
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" checked />
-		<h3 class="accordian-header active">
-		1.	What is 5-axis CNC machining? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content" tabindex="2">
-			<p> 5-axis CNC machining is a type of computer-controlled manufacturing process that allows
-				 for simultaneous movement of the workpiece in five axes, offering greater flexibility
-				  and precision. This capability enables the creation of complex geometries and intricate
-				   shapes with high precision.
-				 </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" checked />
+								<h3 class="accordian-header active">
+									1. What is 5-axis CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content" tabindex="2">
+									<p> 5-axis CNC machining is a type of computer-controlled manufacturing process that allows
+										for simultaneous movement of the workpiece in five axes, offering greater flexibility
+										and precision. This capability enables the creation of complex geometries and intricate
+										shapes with high precision.
+									</p>
+								</div>
+							</div>
 
-	
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		2.	What types of materials are suitable for 5-axis CNC machining? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> 5-axis CNC machining is suitable for wide range of materials, like Steel, Stainless Steel,
-				 Aluminum, Brass, Bronze, copper, Nickel Alloys, Titanium, Acrylic, Nylon, Teflon, Composites, Wood etc
-				   </p>
-		</div>
-	</div>
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		3.	What are the common applications of 5-axis CNC machining? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> 5-axis CNC machining is widely used across various industries due to its ability to create
-				 complex geometries and achieve high precision like  Aerospace, Automotive, Medical Devices,
-				  Electronics, Defense and Military, Industrial Equipment, Energy Sector, Consumer Products etc. 
-				   </p>
-		</div>
-	</div>
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		4.	What are the key features of 5 Axis CNC Machining? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> The usage of five axes, that will allow the work piece left, right, forward, backward,
-				 up and down along with rotation and tilting allowing for angled cuts and access to various 
-				 sides of the workpiece. Ability to assist in making complex part, increased efficiency,
-				  Higher precision etc. are the key features of the 5 Axis CNC Machining process.
-				   </p>
-		</div>
-	</div>
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		 	5.	Is 5-axis CNC Machining suitable for small-scale production or prototyping? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Yes, 5-axis CNC machining can be used for both small-scale and large-scale production.
-				 In fact, usage of 5 Axis machines greatly reduces the cost of expensive set ups,
-				  fixtures, requirement of skilled machinists etc. 
-				   </p>
-		</div>
-	</div>
- 
- 
 
- 
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									2. What types of materials are suitable for 5-axis CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> 5-axis CNC machining is suitable for wide range of materials, like Steel, Stainless Steel,
+										Aluminum, Brass, Bronze, copper, Nickel Alloys, Titanium, Acrylic, Nylon, Teflon, Composites, Wood etc
+									</p>
+								</div>
+							</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									3. What are the common applications of 5-axis CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> 5-axis CNC machining is widely used across various industries due to its ability to create
+										complex geometries and achieve high precision like Aerospace, Automotive, Medical Devices,
+										Electronics, Defense and Military, Industrial Equipment, Energy Sector, Consumer Products etc.
+									</p>
+								</div>
+							</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									4. What are the key features of 5 Axis CNC Machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> The usage of five axes, that will allow the work piece left, right, forward, backward,
+										up and down along with rotation and tilting allowing for angled cuts and access to various
+										sides of the workpiece. Ability to assist in making complex part, increased efficiency,
+										Higher precision etc. are the key features of the 5 Axis CNC Machining process.
+									</p>
+								</div>
+							</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									5. Is 5-axis CNC Machining suitable for small-scale production or prototyping?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Yes, 5-axis CNC machining can be used for both small-scale and large-scale production.
+										In fact, usage of 5 Axis machines greatly reduces the cost of expensive set ups,
+										fixtures, requirement of skilled machinists etc.
+									</p>
+								</div>
+							</div>
 
-	 
-</div>
 
-</div>
-<!-- FAQ END -->
+
+
+
+
+						</div>
+
+					</div>
+					<!-- FAQ END -->
 				</div>
 			</div>
 

@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Ultrasonic Cleaning services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq provides Ultrasonic cleaning services in GCC. Our innovative ultrasonic cleaning services ensure unmatched cleanliness in critical industries. Believe in our expertise!">
-
+	<link rel="canonical" href="https://alshurooq.ae/ultrasonic-cleaning-services.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

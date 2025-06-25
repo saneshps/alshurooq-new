@@ -5,13 +5,13 @@
 
 
 
-  <title>  The Role of Robotic Welding in Welding Industry|Blogs|Al Shurooq </title> 
+  <title> The Role of Robotic Welding in Welding Industry|Blogs|Al Shurooq </title>
   <link rel="shortcut icon" href="img/favicon.png">
   <meta charset="utf-8">
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Check out more on Role of Robotic Welding in Welding Industry from the latest Blogs. At Al Shurooq we provide Robotic Welding for your custom industrial requirements">
-
+  <link rel="canonical" href="https://alshurooq.ae/role-of-robotic-welding-in-the-welding-industry.php">
   <!-- Og -->
   <meta property="og:title" content="The Role of Robotic Welding in Welding Industry|Blogs|Al Shurooq" />
   <meta property="og:type" content="article" />
@@ -282,7 +282,7 @@
               </div>
             </div>
 
-          
+
 
           </div>
 
@@ -316,28 +316,26 @@
 
 
   <script type="text/javascript" src="js/alshurooqModules.js"></script>
-  
+
 
   <!-- Og -->
   <script type="text/javascript">
-
-var addthis_config = {
-    services_compact: 'email, facebook, twitter, digg, reddit, linkedin, myspace, plaxo, blogger, livejournal, more',
-    services_exclude: 'print'
-};
-var addthis_share = {
-     url_transforms : {
-          shorten: {
-            linkedin: 'bitly'
-          }
-     }, 
-     shorteners : {
-          bitly : {} 
-     }
-};
-
-</script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56e1e3b04418084b"></script>
+    var addthis_config = {
+      services_compact: 'email, facebook, twitter, digg, reddit, linkedin, myspace, plaxo, blogger, livejournal, more',
+      services_exclude: 'print'
+    };
+    var addthis_share = {
+      url_transforms: {
+        shorten: {
+          linkedin: 'bitly'
+        }
+      },
+      shorteners: {
+        bitly: {}
+      }
+    };
+  </script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56e1e3b04418084b"></script>
   <!-- Og -->
 
 </body>

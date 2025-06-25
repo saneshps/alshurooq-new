@@ -11,7 +11,7 @@
 	<meta name="keywords" content="SERVICES">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We offer the most accurate Steel Fabrication services in Dubai. We specialize in all types of CNC Water Jet Cutting, CNC Tube & Pipe Processing, CNC Bending, Robotic Welding and More.">
-
+	<link rel="canonical" href="https://alshurooq.ae/services.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

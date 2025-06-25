@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CNC Tube & Pipe Processing">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq sets the standard in CNC Tube & Pipe Processing. Our advanced capabilities, include CNC Laser and Water Jet cutting. Explore our expertise today.">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-tube-pipe-processing.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -114,7 +114,7 @@
 					</ul>
 
 					<p>In choosing Al Shurooq for <a href="https://alshurooq.ae/cnc-tube-pipe-processing.php" target="_blank">
-						 CNC Tube & Pipe Processing</a>, clients are not just benefitting from a service; they are accessing a comprehensive solution that combines advanced technology, cost-effectiveness, and unparalleled precision. Let your projects thrive with the efficiency and accuracy that define our mastery in tube and pipe processing.
+							CNC Tube & Pipe Processing</a>, clients are not just benefitting from a service; they are accessing a comprehensive solution that combines advanced technology, cost-effectiveness, and unparalleled precision. Let your projects thrive with the efficiency and accuracy that define our mastery in tube and pipe processing.
 
 					</p>
 				</div>

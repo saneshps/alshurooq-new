@@ -5,13 +5,13 @@
 
 
 
-	<title> Transformer Tank Manufacturer Company Dubai,UAE|Al Shurooq  </title>
+	<title> Transformer Tank Manufacturer Company Dubai,UAE|Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="transformer tank manufacturer">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Al Shurooq is a premier manufacturer of Transformer Tanks and associated components in UAE designed for Distribution,Cast Resin,and Power Transformer Industries">
-
+	<link rel="canonical" href="https://alshurooq.ae/transformer-tanks-&-components.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

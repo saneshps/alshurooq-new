@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Water jet cutting">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Experience precision like never before with Alshurooq – your trusted partner for CNC Waterjet cutting services in Dubai, UAE. Connect with our expert team today for top-notch metal-cutting solutions.">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-water-jet-cutting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -113,192 +113,192 @@
 					<p> In choosing our CNC Water Jet Cutting services, you're not just getting a cutting service; you're accessing a technology-driven solution that pushes the boundaries of what is achievable in precision cutting. Let your projects benefit from the accuracy, versatility, and efficiency that define our CNC Water Jet Cutting expertise.
 
 					</p>
-<!-- FAQ START -->
-<div class="faq-area">
+					<!-- FAQ START -->
+					<div class="faq-area">
 
-<h2> Frequently Asked Questions on CNC Water Jet Cutting    </h2>
-<div id="accordion">
+						<h2> Frequently Asked Questions on CNC Water Jet Cutting </h2>
+						<div id="accordion">
 
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" checked />
-		<h3 class="accordian-header active">
-		  1. What is CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content" tabindex="2">
-			<p> CNC water jet cutting is a process that uses high-pressure water, often mixed with an abrasive material,
-				 to cut a wide range of materials precisely, using a CNC system that ensures accurate and intricate cuts.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" checked />
+								<h3 class="accordian-header active">
+									1. What is CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content" tabindex="2">
+									<p> CNC water jet cutting is a process that uses high-pressure water, often mixed with an abrasive material,
+										to cut a wide range of materials precisely, using a CNC system that ensures accurate and intricate cuts.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  2. What materials can be cut with CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Water jet cutting can handle Almost all type of metals such as Steel, Stainless Steels, Aluminum,
-				 Titanium, Inconel, Brass, Bronze, Copper, and Stone, Untampered Glass, Ceramics, Rubber, plastics,
-				  composites etc. It’s especially useful for cutting materials that are sensitive to heat.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									2. What materials can be cut with CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Water jet cutting can handle Almost all type of metals such as Steel, Stainless Steels, Aluminum,
+										Titanium, Inconel, Brass, Bronze, Copper, and Stone, Untampered Glass, Ceramics, Rubber, plastics,
+										composites etc. It’s especially useful for cutting materials that are sensitive to heat.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  3. What are the benefits of CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC water jet cutting offers several advantages, such as:  </p>
-			 
-				  <p class="list-type"> •	No heat-affected zones (cold cutting)  </p>
-				  <p class="list-type"> •	High precision and accuracy  </p>
-				  <p class="list-type"> •	Ability to cut thick materials  </p>
-				  <p class="list-type"> •	Minimal waste and environmentally friendly </p>
-				  <p class="list-type"> •	Versatile material capabilities </p>
-			 
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									3. What are the benefits of CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC water jet cutting offers several advantages, such as: </p>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  4. How thick can materials be cut with CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC water jet machines can cut materials up to 150 mm thick, depending on the type of material.
-				 This makes it ideal for cutting thicker and harder materials like steel and stone.
-				  </p>
-		</div>
-	</div>
+									<p class="list-type"> • No heat-affected zones (cold cutting) </p>
+									<p class="list-type"> • High precision and accuracy </p>
+									<p class="list-type"> • Ability to cut thick materials </p>
+									<p class="list-type"> • Minimal waste and environmentally friendly </p>
+									<p class="list-type"> • Versatile material capabilities </p>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  5. Difference between water jet cutting and laser cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> While laser cutting is ideal for thinner materials and offers faster speeds,
-				 CNC water jet cutting can handle much thicker and harder materials without 
-				 causing heat damage, making it more versatile for certain applications.
-				  </p>
-		</div>
-	</div>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  6. What are applications of CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> CNC water jet cutting is widely used in industries like aerospace, automotive, manufacturing, architecture,
-				 and custom fabrication for applications such as metal fabrication, stone cutting, and precision engineering.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									4. How thick can materials be cut with CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC water jet machines can cut materials up to 150 mm thick, depending on the type of material.
+										This makes it ideal for cutting thicker and harder materials like steel and stone.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  7. Is CNC water jet cutting environmentally friendly? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Yes, CNC water jet cutting is environmentally friendly as it does not generate harmful fumes or gases,
-				 and it produces minimal waste. The water and abrasive materials can often be recycled or reused.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									5. Difference between water jet cutting and laser cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> While laser cutting is ideal for thinner materials and offers faster speeds,
+										CNC water jet cutting can handle much thicker and harder materials without
+										causing heat damage, making it more versatile for certain applications.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  8. Can CNC water jet cutting handle intricate designs? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Yes, CNC water jet cutting is highly precise and can achieve detailed, intricate cuts on various materials,
-				 making it ideal for complex patterns and designs.  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									6. What are applications of CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC water jet cutting is widely used in industries like aerospace, automotive, manufacturing, architecture,
+										and custom fabrication for applications such as metal fabrication, stone cutting, and precision engineering.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  9. What file formats are needed for CNC water jet cutting?	 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> We typically require vector-based file formats such as DXF, DWG, or 3D files for CNC laser cutting.
-				 Other formats also can be worked on, please contact us to confirm compatibility.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									7. Is CNC water jet cutting environmentally friendly?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Yes, CNC water jet cutting is environmentally friendly as it does not generate harmful fumes or gases,
+										and it produces minimal waste. The water and abrasive materials can often be recycled or reused.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  10. Does water jet cutting affect the material’s structure? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Since CNC water jet cutting is a cold cutting process, it does not alter the material’s properties 
-				or cause heat-induced warping, making it ideal for materials sensitive to high temperatures.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									8. Can CNC water jet cutting handle intricate designs?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Yes, CNC water jet cutting is highly precise and can achieve detailed, intricate cuts on various materials,
+										making it ideal for complex patterns and designs. </p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  11. Can CNC water jet cutting be used for small-scale custom jobs? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Yes, we handle both small custom jobs and large-scale production projects. Whether you need a one-time cut or
-				 a batch of parts, we can accommodate your needs.
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									9. What file formats are needed for CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> We typically require vector-based file formats such as DXF, DWG, or 3D files for CNC laser cutting.
+										Other formats also can be worked on, please contact us to confirm compatibility.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  12. How accurate is CNC water jet cutting? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> Water jet cutting offers high precision with tolerances as low as ±0.1mm, depending on the material and design complexity.  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									10. Does water jet cutting affect the material’s structure?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Since CNC water jet cutting is a cold cutting process, it does not alter the material’s properties
+										or cause heat-induced warping, making it ideal for materials sensitive to high temperatures.
+									</p>
+								</div>
+							</div>
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		  13. What is the turnaround time for CNC water jet cutting projects? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p> The turnaround time depends on the size, complexity, and quantity of the parts to be cut. Simple projects
-				 can be completed quickly, while more detailed work may take longer. Get in touch with us for more information. 
-				  </p>
-		</div>
-	</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									11. Can CNC water jet cutting be used for small-scale custom jobs?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Yes, we handle both small custom jobs and large-scale production projects. Whether you need a one-time cut or
+										a batch of parts, we can accommodate your needs.
+									</p>
+								</div>
+							</div>
 
-  
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									12. How accurate is CNC water jet cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Water jet cutting offers high precision with tolerances as low as ±0.1mm, depending on the material and design complexity. </p>
+								</div>
+							</div>
 
-</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									13. What is the turnaround time for CNC water jet cutting projects?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> The turnaround time depends on the size, complexity, and quantity of the parts to be cut. Simple projects
+										can be completed quickly, while more detailed work may take longer. Get in touch with us for more information.
+									</p>
+								</div>
+							</div>
 
-</div>
-<!-- FAQ END -->
+
+
+						</div>
+
+					</div>
+					<!-- FAQ END -->
 
 				</div>
 			</div>

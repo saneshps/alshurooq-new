@@ -5,13 +5,13 @@
 
 
 
-	<title>  CNC Laser Cutting Services|Custom CNC Laser Cutting,UAE|Alshurooq </title> 
+	<title> CNC Laser Cutting Services|Custom CNC Laser Cutting,UAE|Alshurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="laser cutting">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We offer professional CNC laser cutting services in Dubai,UAE.Our CNC Laser cutting machine process sheets up to 2.5 meters wide & 6.2 meters long with high accuracy">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-laser-cutting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="css/testim.css">
 	<link rel="stylesheet" href="css/resp.css">
 	<!-- <link rel="stylesheet" href="css/services.css"> -->
-  
+
 	<link rel="stylesheet" href="css/main.css">
 
 
@@ -94,7 +94,7 @@
 							<h4> Unmatched Precision, Uninterrupted Services: </h4>
 
 							<p> Standing as a beacon of excellence, we pride ourselves on delivering high-quality laser-cut parts through
-								our CNC Laser cutting services. Operating 24/7,  our <a href="https://alshurooq.ae/services.php" target="_blank"> services </a>cater to a diverse range of sectors,
+								our CNC Laser cutting services. Operating 24/7, our <a href="https://alshurooq.ae/services.php" target="_blank"> services </a>cater to a diverse range of sectors,
 								ensuring that your projects benefit from unmatched precision and uninterrupted workflow.
 								Whether you require intricate designs or robust components, our state-of-the-art CNC Laser cutting machines
 								are equipped to meet your every need.
@@ -133,19 +133,19 @@
 					<!-- FAQ START -->
 					<div class="faq-area">
 
-						<h2> Frequently Asked Questions on CNC Laser Cutting    </h2>
+						<h2> Frequently Asked Questions on CNC Laser Cutting </h2>
 						<div id="accordion">
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" checked />
 								<h3 class="accordian-header active">
-								1. What is CNC laser cutting?
+									1. What is CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content" tabindex="2">
 									<p>
-									CNC laser cutting is a manufacturing process where a high-powered laser
-									 is controlled by computer software to cut, engrave, or shape materials 
-									 such as metal or plastic with extreme efficiency and accuracy. 
+										CNC laser cutting is a manufacturing process where a high-powered laser
+										is controlled by computer software to cut, engrave, or shape materials
+										such as metal or plastic with extreme efficiency and accuracy.
 
 									</p>
 								</div>
@@ -154,14 +154,14 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								2. What materials can be cut with CNC laser cutting?
+									2. What materials can be cut with CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									CNC laser cutting can be used on a variety of materials including metals such as Steel,
-									 Stainless Steel, Aluminum, Brass and Copper, etc. Specific material capabilities
-									  may vary based on the machine’s power and specifications and the cutting gas employed.
+										CNC laser cutting can be used on a variety of materials including metals such as Steel,
+										Stainless Steel, Aluminum, Brass and Copper, etc. Specific material capabilities
+										may vary based on the machine’s power and specifications and the cutting gas employed.
 
 									</p>
 								</div>
@@ -170,14 +170,14 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								3. What are the advantages of CNC laser cutting?
+									3. What are the advantages of CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									CNC laser cutting offers several benefits including high precision, clean edges,
-									 faster production times, flexibility in design, minimal waste, and the ability
-									  to cut complex shapes and fine details without the need for additional tooling or fixtures.
+										CNC laser cutting offers several benefits including high precision, clean edges,
+										faster production times, flexibility in design, minimal waste, and the ability
+										to cut complex shapes and fine details without the need for additional tooling or fixtures.
 
 
 									</p>
@@ -187,17 +187,17 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								4. How thick can materials be cut with CNC laser cutting?
+									4. How thick can materials be cut with CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									The thickness of materials that can be cut depends on the laser power
-									 employed and the type of material. Typically, laser cutting machines
-									  can handle metals up to 30 mm thick, but it varies based on the material
-									   type and machine capacity. High powered lasers available recently can
-									    greatly increase the maximum thickness of material up to 50 mm or more,
-										 with slight decrease in cutting quality.
+										The thickness of materials that can be cut depends on the laser power
+										employed and the type of material. Typically, laser cutting machines
+										can handle metals up to 30 mm thick, but it varies based on the material
+										type and machine capacity. High powered lasers available recently can
+										greatly increase the maximum thickness of material up to 50 mm or more,
+										with slight decrease in cutting quality.
 
 
 									</p>
@@ -209,63 +209,12 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								5. What industries use CNC laser cutting? 
+									5. What industries use CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									CNC laser cutting is widely used in industries such as automotive, aerospace, construction, electronics, signage, and architecture, for applications like component manufacturing, custom metalwork, and more.
-
-
-
-									</p>
-								</div>
-							</div>
-
-
-							<div class="accordion">
-								<input type="radio" name="radacc" class="accordian-chk" />
-								<h3 class="accordian-header">
-								6. What is the difference between laser cutting and traditional cutting methods? 
-									<span class="acc-icon"></span>
-								</h3>
-								<div class="accordian-content">
-									<p>
-									Laser cutting offers greater precision, speed, and flexibility compared to traditional cutting methods. It produces cleaner edges, reduces material waste, and can cut more complex and intricate
-									 designs.  
-
-
-									</p>
-								</div>
-							</div>
-
-
-							<div class="accordion">
-								<input type="radio" name="radacc" class="accordian-chk" />
-								<h3 class="accordian-header">
-								7. How accurate is CNC laser cutting? 
-									<span class="acc-icon"></span>
-								</h3>
-								<div class="accordian-content">
-									<p>
-									CNC laser cutting can achieve very high levels of accuracy, with tolerances as low as ±0.1mm depending on the material, thickness, cutting gas composition, 
-									and the cutting geometry.  
-
-
-									</p>
-								</div>
-							</div>
-
-
-							<div class="accordion">
-								<input type="radio" name="radacc" class="accordian-chk" />
-								<h3 class="accordian-header">
-								8. What file formats are required for CNC laser cutting? 
-									<span class="acc-icon"></span>
-								</h3>
-								<div class="accordian-content">
-									<p>
-									We typically require vector-based file formats such as DXF, DWG, or 3D files for CNC laser cutting. Other formats also can be worked on, please contact us to confirm compatibility.
+										CNC laser cutting is widely used in industries such as automotive, aerospace, construction, electronics, signage, and architecture, for applications like component manufacturing, custom metalwork, and more.
 
 
 
@@ -277,12 +226,13 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								9. Can CNC laser cutting be used for engraving? 
+									6. What is the difference between laser cutting and traditional cutting methods?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									Yes, CNC laser cutting machines can also be used for engraving designs, logos, or text onto the surface of materials, offering precise and customizable finishes.  
+										Laser cutting offers greater precision, speed, and flexibility compared to traditional cutting methods. It produces cleaner edges, reduces material waste, and can cut more complex and intricate
+										designs.
 
 
 									</p>
@@ -293,12 +243,29 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								10. How long does the CNC laser cutting process take? 
+									7. How accurate is CNC laser cutting?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									The time required depends on the complexity of the design, the material thickness, and the size of the job. Small, simple cuts can be done quickly, while more intricate designs may take longer, but usually within a couple of hours.
+										CNC laser cutting can achieve very high levels of accuracy, with tolerances as low as ±0.1mm depending on the material, thickness, cutting gas composition,
+										and the cutting geometry.
+
+
+									</p>
+								</div>
+							</div>
+
+
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									8. What file formats are required for CNC laser cutting?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p>
+										We typically require vector-based file formats such as DXF, DWG, or 3D files for CNC laser cutting. Other formats also can be worked on, please contact us to confirm compatibility.
 
 
 
@@ -310,12 +277,28 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								11. Is CNC laser cutting environmentally friendly? 
+									9. Can CNC laser cutting be used for engraving?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									Yes, CNC laser cutting is considered environmentally friendly as it reduces waste material, uses less energy compared to traditional cutting methods, and often does not require additional tooling or chemicals and eliminating secondary processes such as grinding or other finishing process.
+										Yes, CNC laser cutting machines can also be used for engraving designs, logos, or text onto the surface of materials, offering precise and customizable finishes.
+
+
+									</p>
+								</div>
+							</div>
+
+
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									10. How long does the CNC laser cutting process take?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p>
+										The time required depends on the complexity of the design, the material thickness, and the size of the job. Small, simple cuts can be done quickly, while more intricate designs may take longer, but usually within a couple of hours.
 
 
 
@@ -327,20 +310,37 @@
 							<div class="accordion">
 								<input type="radio" name="radacc" class="accordian-chk" />
 								<h3 class="accordian-header">
-								12. Can you handle large-scale CNC laser cutting projects? 
+									11. Is CNC laser cutting environmentally friendly?
 									<span class="acc-icon"></span>
 								</h3>
 								<div class="accordian-content">
 									<p>
-									Yes, we can handle projects of all sizes, from small custom jobs to large-scale industrial production runs.   
+										Yes, CNC laser cutting is considered environmentally friendly as it reduces waste material, uses less energy compared to traditional cutting methods, and often does not require additional tooling or chemicals and eliminating secondary processes such as grinding or other finishing process.
+
 
 
 									</p>
-									<p> Please contact us to discuss your specific needs if any, and we are happy to assist further.  </p>
 								</div>
 							</div>
 
- 
+
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									12. Can you handle large-scale CNC laser cutting projects?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p>
+										Yes, we can handle projects of all sizes, from small custom jobs to large-scale industrial production runs.
+
+
+									</p>
+									<p> Please contact us to discuss your specific needs if any, and we are happy to assist further. </p>
+								</div>
+							</div>
+
+
 
 
 

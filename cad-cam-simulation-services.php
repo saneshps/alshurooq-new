@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CAD / CAM & Simulation Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq is one of the Trusted provider of quality CAD/CAM & Simulation Services in Dubai, UAE.">
-
+	<link rel="canonical" href="https://alshurooq.ae/cad-cam-simulation-services.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

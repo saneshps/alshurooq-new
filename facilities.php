@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Alshurooq facilities">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq is the best Steel Fabricators in Dubai,UAE.Trust our expertise for efficient, reliable, and sustainable solutions. Contact us at +971 4 42 55988 or info@alshurooq.ae">
-
+	<link rel="canonical" href="https://alshurooq.ae/facilities.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

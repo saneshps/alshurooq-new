@@ -11,7 +11,7 @@
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Boost your manufacturing with CNC laser cutting, precise, and versatile. Perfect for everything from detailed designs to large scale production, transforming industries">
-
+  <link rel="canonical" href="https://alshurooq.ae/the-role-of-cnc-laser-cutting-in-manufacturing-industry.php">
   <!-- Og -->
   <meta property="og:title" content="The Role of CNC Laser Cutting in Manufacturing Industry| Blogs| Al Shurooq" />
   <meta property="og:type" content="article" />

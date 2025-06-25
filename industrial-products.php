@@ -5,13 +5,13 @@
 
 
 
-	<title> Industrial Product Fabrication Company | Dubai | UAE | Al Shurooq  </title>
+	<title> Industrial Product Fabrication Company | Dubai | UAE | Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Industrial Product">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Al Shurooq: Your trusted industrial product fabrication company in Dubai, UAE. Explore excellence with us. Contact us at +971 4 42 55988 or info@alshurooq.ae">
-
+	<link rel="canonical" href="https://alshurooq.ae/industrial-products.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

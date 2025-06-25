@@ -5,13 +5,13 @@
 
 
 
-	<title> Best Pump Saddles and Base Assemblies | UAE | Al Shurooq  </title>
+	<title> Best Pump Saddles and Base Assemblies | UAE | Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Pump Saddles and Base Assemblies">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Top-quality pump saddles and base assemblies in UAE with Al Shurooq. Expertly crafted for industries and fabrication. Ph: +971 4 42 55988. Email:info@alshurooq.ae">
-
+	<link rel="canonical" href="https://alshurooq.ae/pump-saddles-&-base-assemblies.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>

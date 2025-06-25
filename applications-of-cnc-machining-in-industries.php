@@ -11,7 +11,7 @@
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Check out more on the Applications of CNC Machining in Industries.Get to know more on history of  CNC Machining, Types of CNC Machining,Applications etc">
-
+  <link rel="canonical" href="https://alshurooq.ae/applications-of-cnc-machining-in-industries.php">
   <!-- Og -->
   <meta property="og:title" content="Applications of CNC Machining in Industries|Blogs| Alshurooq" />
   <meta property="og:type" content="article" />

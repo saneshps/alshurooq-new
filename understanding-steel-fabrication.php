@@ -27,7 +27,7 @@
   <meta name="linkedin:description" content="Check out more on Steel Fabrication and industrial applications.Get insights on definition,types,and industrial applications of steel Fabrication." />
   <!-- og linkedin -->
 
-
+  <link rel="canonical" href="https://alshurooq.ae/understanding-steel-fabrication.php">
   <!--  Developed by - bigleap -->
 
   <!--***************************************-->

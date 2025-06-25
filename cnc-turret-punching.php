@@ -5,13 +5,13 @@
 
 
 
-	<title>  CNC Turret Punching Services|CNC Punching Dubai,UAE| Alshurooq </title>
+	<title> CNC Turret Punching Services|CNC Punching Dubai,UAE| Alshurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="CNC Turret Punching">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We offer top-notch CNC Turret Punching Services in Dubai,UAE.Our CNC Punching is ideal for mass production offering very high quality,accuracy of sheet materials">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-turret-punching.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

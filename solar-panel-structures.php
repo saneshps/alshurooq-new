@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Solar Solutions">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Buy Quality Solar Panel Structures Assemblies,Battery Box & Enclosures in Dubai,UAE.Contact us at +971 4 42 55988 or info@alshurooq.ae">
-
+	<link rel="canonical" href="https://alshurooq.ae/solar-panel-structures.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

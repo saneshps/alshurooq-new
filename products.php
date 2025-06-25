@@ -5,13 +5,13 @@
 
 
 
-	<title> Products|Custom Steel Fabrication Dubai,UAE|Al Shurooq  </title>
+	<title> Products|Custom Steel Fabrication Dubai,UAE|Al Shurooq </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Steel Fabrication Products">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Check out the  diverse range of high-quality Custom Stainless Steel Fabrication products designed to meet the unique requirements of our valued customers">
-
+	<link rel="canonical" href="https://alshurooq.ae/products.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -27,7 +27,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+	<?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
 	<div class="whatssap"></div>
@@ -64,7 +65,7 @@
 						Welcome to <strong> AL SHUROOQ,</strong> your premier destination for precision engineering and tailored solutions.
 						At <strong> AL SHUROOQ,</strong> we take pride in offering a diverse range of high-quality products designed to meet
 						the unique requirements of our valued customers.
-						
+
 					</p>
 
 					<p> Our Product Portfolio Includes: </p>
@@ -142,9 +143,9 @@
 
 					<p>
 						... and much more.
-						At AL SHUROOQ, we are committed to delivering excellence in every product, ensuring customer satisfaction 
+						At AL SHUROOQ, we are committed to delivering excellence in every product, ensuring customer satisfaction
 						and fostering lasting partnerships. Explore our diverse product range and discover how we can meet your
-						 specific design and engineering needs.
+						specific design and engineering needs.
 
 					</p>
 				</div>

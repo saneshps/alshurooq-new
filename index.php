@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We are Stainless Steel Fabrication Company in Dubai,UAE focused on Steel Fabrication & Machining.We offer custom CNC Plasma &Laser Cutting,CNC Bending & Punching services">
 	<meta name="google-site-verification" content="-LVu1RJGzX-QYTLSHLqUblm5X5PZs-G2jG-CfXI1zFs" />
-
+	<link rel="canonical" href="https://alshurooq.ae">
 	<!--  Developed by - bigleap -->
 
 

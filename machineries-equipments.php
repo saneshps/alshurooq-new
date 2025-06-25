@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Machineries-equipments">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq is the Leading Machineries-equipments Service in Dubai, UAE. Our skilled team and state-of-the-art equipment deliver outstanding results for your needs.">
-
+	<link rel="canonical" href="https://alshurooq.ae/machineries-equipments.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

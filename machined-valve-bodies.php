@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Machined Valve Bodies">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Best machined crafted valve bodies with tailored designs and diverse materials for superior performance. Elevate your industrial processes with precision-engineered valves.">
-
+	<link rel="canonical" href="https://alshurooq.ae/machined-valve-bodies.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

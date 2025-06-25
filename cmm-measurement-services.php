@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CMM measurement services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Discover perfection with Alshurooq in Dubai, UAE. Our CCM dimensional inspection services ensures accurate measurements for superior quality. Elevate your standards today">
-
+	<link rel="canonical" href="https://alshurooq.ae/cmm-measurement-services.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

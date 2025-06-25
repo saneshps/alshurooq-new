@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Robotic Welding Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Discover precision and efficiency with the best robotic welding services inDubai,UAE. Elevate your automation capabilities for seamless welding solutions.">
-
+	<link rel="canonical" href="https://alshurooq.ae/robotic-welding.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

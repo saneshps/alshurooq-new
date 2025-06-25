@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Steel Grit Blasting Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Transform surfaces with precision using GCC's steel grit blasting services. Experience blast room prowess for superior results in surface preparation and restoration.">
-
+	<link rel="canonical" href="https://alshurooq.ae/grit-blasting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

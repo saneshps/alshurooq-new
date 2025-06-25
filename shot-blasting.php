@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Steel Shot Blasting Services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Contact us for Top-tier steel shot blasting services in Dubai,UAE for efficient wheel blasting.Our experts deliver precision & quality for superior surface preparation">
-
+	<link rel="canonical" href="https://alshurooq.ae/shot-blasting.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Laser marking services">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Alshurooq is one of Your top choice for the best Laser Marking Services in Dubai, UAE. Precision marking solutions for quality and efficiency.">
-
+	<link rel="canonical" href="https://alshurooq.ae/laser-marking-services.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

@@ -11,7 +11,7 @@
   <meta name="keywords" content="Blogs">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Check out the gallery page of the leading Custom Steel Fabrication Company in Dubai.We offer wide varierty of Custom Steel Fabrication solutions in UAE">
-
+  <link rel="canonical" href="https://alshurooq.ae/gallery.php">
   <!--  Developed by - bigleap -->
 
   <!--***************************************-->
@@ -86,7 +86,7 @@
           <div class="gallery-box">
             <a data-fancybox="gallery" href="./img/gallery/5 Axis Machinig1.jpg">
               <img src="./img/gallery/5 Axis Machinig1.jpg" alt="alshurooq">
-              <h4> <a class="gallery-link">  5 Axis Machinig </a>  </h4>
+              <h4> <a class="gallery-link"> 5 Axis Machinig </a> </h4>
             </a>
             <a class="read" href="5-axis-cnc-machining.php"> Explore </a>
           </div>
@@ -144,7 +144,7 @@
               <img src="./img/gallery/CNC Laser Cutting.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> CNC Laser Cutting </a> </h4>
             </a>
-             <a class="read" href="cnc-laser-cutting.php"> Explore </a>
+            <a class="read" href="cnc-laser-cutting.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -152,7 +152,7 @@
               <img src="./img/gallery/CNC Water Jet Cutting.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> CNC Water Jet Cutting </a> </h4>
             </a>
-             <a class="read" href="cnc-water-jet-cutting.php"> Explore </a>
+            <a class="read" href="cnc-water-jet-cutting.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -160,7 +160,7 @@
               <img src="./img/gallery/CNC Turret Punching.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> CNC Turret Punching </a> </h4>
             </a>
-             <a class="read" href="cnc-turret-punching.php"> Explore </a>
+            <a class="read" href="cnc-turret-punching.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -168,7 +168,7 @@
               <img src="./img/gallery/Plasma Cutting.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> Plasma Cutting </a> </h4>
             </a>
-             <a class="read" href="cnc-plasma-cutting.php"> Explore </a>
+            <a class="read" href="cnc-plasma-cutting.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -176,7 +176,7 @@
               <img src="./img/gallery/CNC Bending.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> CNC Bending </a> </h4>
             </a>
-             <a class="read" href="cnc-bending.php"> Explore </a>
+            <a class="read" href="cnc-bending.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -235,7 +235,7 @@
               <img src="./img/gallery/Transformer Tank1.jpg" alt="alshurooq">
               <h4><a class="gallery-link"> Transformer Tank </a></h4>
             </a>
-             <a class="read" href="transformer-tanks-&-components.php"> Explore </a>
+            <a class="read" href="transformer-tanks-&-components.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -244,7 +244,7 @@
               <img src="./img/gallery/Armoured Hatch.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> Armoured Hatch </a> </h4>
             </a>
-             <a class="read" href="armoured-steel-solutions.php"> Explore </a>
+            <a class="read" href="armoured-steel-solutions.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -253,7 +253,7 @@
               <img src="./img/gallery/Armoured Hatch1.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> Armoured Hatch </a> </h4>
             </a>
-             <a class="read" href="armoured-steel-solutions.php"> Explore </a>
+            <a class="read" href="armoured-steel-solutions.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -262,7 +262,7 @@
               <img src="./img/gallery/ProtoType Parts.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> ProtoType Parts </a> </h4>
             </a>
-             <a class="read" href="prototyping-service.php"> Explore </a>
+            <a class="read" href="prototyping-service.php"> Explore </a>
           </div>
 
           <div class="gallery-box">
@@ -271,7 +271,7 @@
               <img src="./img/gallery/Water Pump Skid.jpg" alt="alshurooq">
               <h4> <a class="gallery-link"> Water Pump Skid </a></h4>
             </a>
-             <a class="read" href="pump-saddles-&-base-assemblies.php"> Explore </a>
+            <a class="read" href="pump-saddles-&-base-assemblies.php"> Explore </a>
           </div>
 
         </div>

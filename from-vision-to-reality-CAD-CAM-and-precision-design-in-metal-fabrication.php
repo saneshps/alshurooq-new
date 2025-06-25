@@ -11,7 +11,7 @@
   <meta name="keywords" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
-
+  <link rel="canonical" href="https://alshurooq.ae/from-vision-to-reality-CAD-CAM-and-precision-design-in-metal-fabrication.php">
   <!--  Developed by - bigleap -->
 
   <!--***************************************-->
@@ -31,7 +31,8 @@
 
 
 
-<?php include 'google_analytics.php'; ?></head>
+  <?php include 'google_analytics.php'; ?>
+</head>
 
 <body>
   <div class="whatssap"></div>

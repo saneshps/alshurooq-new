@@ -11,7 +11,7 @@
 	<meta name="keywords" content="Powder Coating">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We provide powder coating services in Dubai, UAE to meet a wide range of custom specification requirements in the surface finishing industry. Contact us at +971442 55988">
-
+	<link rel="canonical" href="https://alshurooq.ae/powder-coating.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->

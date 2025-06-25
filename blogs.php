@@ -11,7 +11,7 @@
   <meta name="keywords" content="Blogs">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Uncover the latest in stainless steel fabrication techniques, industry trends, and expert insights on our blogs. Stay informed, stay inspired">
-
+  <link rel="canonical" href="https://alshurooq.ae/blogs.php">
   <!--  Developed by - bigleap -->
 
   <!--***************************************-->
@@ -74,7 +74,7 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
-            <div class="col-lg-4 col-md-6 p-0">
+              <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
                     <a href="myths-about-water-jet-cutting-debunked.php">

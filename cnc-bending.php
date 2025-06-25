@@ -11,7 +11,7 @@
 	<meta name="keywords" content="CNC Bending">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We are leading company offering CNC Bending,CNC Folding services in Dubai, UAE,ensuring precision metal fabrication with cutting-edge technology for better results">
-
+	<link rel="canonical" href="https://alshurooq.ae/cnc-bending.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -117,99 +117,99 @@
 					<!-- FAQ START -->
 					<div class="faq-area">
 
-<h2> Frequently Asked Questions on CNC Bending  </h2>
-<div id="accordion">
+						<h2> Frequently Asked Questions on CNC Bending </h2>
+						<div id="accordion">
 
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" checked />
-		<h3 class="accordian-header active">
-		1.	What is 5-axis CNC machining? 
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content" tabindex="2">
-			<p> CNC Bending uses a computer-controlled press brake to bend sheet metal into precise shapes.
-				 The machine guides the punch and die to form the desired angles, ensuring accuracy and repeatability.
-				  It's widely used for making components like brackets and frames, enclosures etc.
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" checked />
+								<h3 class="accordian-header active">
+									1. What is 5-axis CNC machining?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content" tabindex="2">
+									<p> CNC Bending uses a computer-controlled press brake to bend sheet metal into precise shapes.
+										The machine guides the punch and die to form the desired angles, ensuring accuracy and repeatability.
+										It's widely used for making components like brackets and frames, enclosures etc.
 
-				 </p>
-		</div>
-	</div>
+									</p>
+								</div>
+							</div>
 
-	
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		 2.	What types of materials can be used for CNC bending?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p>  CNC bending is used mainly for bending metals, such as steel, aluminum, stainless steel, and copper.   </p>
-		</div>
-	</div>
-	
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		3.	What are the common applications of CNC bending?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p>  CNC bending is employed in various industries, like metal fabrication, automotive, construction, and aerospace.   </p>
-		</div>
-	</div>
-	
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		4. 	What is the maximum thickness of material that can be cut with CNC bending?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p>  The maximum thickness depends on the machine's capacity and tooling. Typically,
-				 CNC press brakes can bend materials up to 20 mm (0.75 inches) thick, though this
-				  varies based on the material's type, strength, and the machine's tonnage capacity. 
-				   </p>
-		</div>
-	</div>
-	
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		5. 	What is the k-Factor in Bending?  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p>  The K-Factor in bending is the ratio that helps determine how much the metal stretches
-				 during the bending process. It represents the position of the neutral axis, which is 
-				 the point in the metal that doesn't compress or stretch during the bend. The K-Factor
-				  typically ranges from 0 to 0.5, depending on the material type and thickness.
-				   A higher K-Factor means the neutral axis is closer to the outer edge, resulting in more stretching.
-				   </p>
-		</div>
-	</div>
-	<div class="accordion">
-		<input type="radio" name="radacc" class="accordian-chk" />
-		<h3 class="accordian-header">
-		6. 	What all are the advantages of CNC Bending?’  
-			<span class="acc-icon"></span>
-		</h3>
-		<div class="accordian-content">
-			<p>  Advantages of CNC bending are High Precision, Repeatability, Efficiency, Flexibility,
-				 Reduced Wastage and Safety. These advantages make CNC bending ideal for industries needing accuracy and efficiency.
-				   </p>
-		</div>
-	</div>
- 
- 
- 
 
- 
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									2. What types of materials can be used for CNC bending?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC bending is used mainly for bending metals, such as steel, aluminum, stainless steel, and copper. </p>
+								</div>
+							</div>
 
-	 
-</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									3. What are the common applications of CNC bending?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> CNC bending is employed in various industries, like metal fabrication, automotive, construction, and aerospace. </p>
+								</div>
+							</div>
 
-</div>
-<!-- FAQ END -->
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									4. What is the maximum thickness of material that can be cut with CNC bending?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> The maximum thickness depends on the machine's capacity and tooling. Typically,
+										CNC press brakes can bend materials up to 20 mm (0.75 inches) thick, though this
+										varies based on the material's type, strength, and the machine's tonnage capacity.
+									</p>
+								</div>
+							</div>
+
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									5. What is the k-Factor in Bending?
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> The K-Factor in bending is the ratio that helps determine how much the metal stretches
+										during the bending process. It represents the position of the neutral axis, which is
+										the point in the metal that doesn't compress or stretch during the bend. The K-Factor
+										typically ranges from 0 to 0.5, depending on the material type and thickness.
+										A higher K-Factor means the neutral axis is closer to the outer edge, resulting in more stretching.
+									</p>
+								</div>
+							</div>
+							<div class="accordion">
+								<input type="radio" name="radacc" class="accordian-chk" />
+								<h3 class="accordian-header">
+									6. What all are the advantages of CNC Bending?’
+									<span class="acc-icon"></span>
+								</h3>
+								<div class="accordian-content">
+									<p> Advantages of CNC bending are High Precision, Repeatability, Efficiency, Flexibility,
+										Reduced Wastage and Safety. These advantages make CNC bending ideal for industries needing accuracy and efficiency.
+									</p>
+								</div>
+							</div>
+
+
+
+
+
+
+
+						</div>
+
+					</div>
+					<!-- FAQ END -->
 				</div>
 			</div>
 
