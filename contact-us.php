@@ -1,46 +1,82 @@
 <?php
-session_start();
-unset($_SESSION['message']);
-if (isset($_REQUEST['subc'])) {
-	// (A) EMAIL SETTINGS
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$mobile = $_POST['mobile'];
-	$subject = $_POST['subject'];
-	$message = nl2br($_POST['msg']);
+// Start session only if not already started
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 
-	$to = "info@alshurooq.ae";
-	$from = $email;
-	//$cc = "support@alshurooq.ae";
-	$fromName = $name;
+// Handle form submission
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 
-	$subject = $subject;
-	$head = implode("\r\n", [
-		"MIME-Version: 1.0",
-		"Content-type: text/html; charset=utf-8",
-		"From: " . $fromName . "<" . $from . ">"
-	]);
-	//,"Cc: " . $cc
+    // Sanitize inputs
+    $name    = htmlspecialchars(trim($_POST['name'] ?? ''));
+    $email   = filter_var(trim($_POST['email'] ?? ''), FILTER_VALIDATE_EMAIL);
+    $mobile  = htmlspecialchars(trim($_POST['mobile'] ?? ''));
+    $subject = htmlspecialchars(trim($_POST['subject'] ?? ''));
+    $message = nl2br(htmlspecialchars(trim($_POST['msg'] ?? '')));
+    $recaptcha = $_POST['g-recaptcha-response'] ?? '';
 
-	// (B) HTML TEMPLATE
-	// (B1) READ INTO STRING
-	$html = file_get_contents("mail.html");
+    // Validate fields
+    if (!$name || !$email || !$mobile || !$subject || !$message) {
+        $_SESSION['fail'] = "All fields are required.";
+        header("Location: contact-us.php");
+        exit;
+    }
 
-	// (B2) STRING REPLACE
-	$html = str_replace("{name}", $name, $html);
-	$html = str_replace("{email}", $email, $html);
-	$html = str_replace("{mobile}", $mobile, $html);
-	$html = str_replace("{message}", $message, $html);
+    // reCAPTCHA verification
+    $secret_key = '6LdwFm0rAAAAADCWE2yEgBT-ukyUGsznffmZIh-Z';
+    $verify_url = "https://www.google.com/recaptcha/api/siteverify?secret={$secret_key}&response={$recaptcha}";
+    $verify_response = file_get_contents($verify_url);
+    $response_data = json_decode($verify_response);
 
-	// (C) SEND!
-	$result = mail($to, $subject, $html, $head);
-	if ($result) {
-		$_SESSION['message'] = "Thank you for your enquiry. We will get back to you shortly";
-	} else {
-		$_SESSION['fail'] = "Thank you for your enquiry. We will get back to you shortly";
-	}
+    if (!$response_data || !$response_data->success) {
+        $_SESSION['g-recaptcha_fail'] = "reCAPTCHA verification failed.";
+        header("Location: contact-us.php");
+        exit;
+    }
+
+
+		    // (C) EMAIL SETTINGS
+    $to       = "info@alshurooq.ae";
+    $from = $email;
+    $fromName = $name;
+
+    $headers = implode("\r\n", [
+        "MIME-Version: 1.0",
+        "Content-type: text/html; charset=utf-8",
+        "From: {$fromName} <{$from}>"
+    ]);
+
+    // Load email template
+    $html = file_get_contents("mail.html");
+    if (!$html) {
+        $_SESSION['fail'] = "Unable to load mail template.";
+        header("Location: contact-us.php");
+        exit;
+    }
+
+    // Replace placeholders
+    $html = str_replace(
+        ['{name}', '{email}', '{mobile}', '{message}'],
+        [$name, $email, $mobile, $message],
+        $html
+    );
+
+    // Send email
+    $sent = mail($to, $subject, $html, $headers);
+
+    if ($sent) {
+        $_SESSION['message'] = "Thank you for your enquiry. We will get back to you shortly.";
+    } else {
+        $_SESSION['fail'] = "Failed to send email. Please try again later.";
+    }
+
+    header("Location: contact-us.php");
+    exit;
 }
 ?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -168,43 +204,32 @@ if (isset($_REQUEST['subc'])) {
 
 						</div>
 
-						<?php
-						if (isset($_SESSION['message'])) { ?>
-							<style>
-								.alert-warning {
-									color: #ffffff;
-									background-color: #017ac9;
-									border-color: #017ac9;
-								}
-							</style>
+						
 
-							<div class="alert alert-warning alert-dismissible" role="alert" style="padding: 18px;">
-								<strong><?php echo $_SESSION['message'] ?>!</strong>
-								<!--<button type="button" class="close" data-dismiss="alert" aria-label="Close">-->
-								<!--  <span aria-hidden="true">&times;</span>-->
-								<!--</button>-->
+						<?php if (!empty($_SESSION['message'])): ?>
+							<div class="alert alert-success alert-dismissible fade show" role="alert">
+									<strong><?= $_SESSION['message']; ?></strong>
+									<?php unset($_SESSION['message']); ?>
 							</div>
+					<?php endif; ?>
 
-
-						<?php  }
-						if (isset($_SESSION['fail'])) { ?>
-							<style>
-								.alert-warning {
-									color: #ffffff;
-									background-color: #017ac9;
-									border-color: #017ac9;
-								}
-							</style>
-
-							<div class="alert alert-warning alert-dismissible" role="alert" style="padding: 18px;">
-								<strong><?php echo $_SESSION['fail'] ?>!</strong>
-								<!--<button type="button" class="close" data-dismiss="alert" aria-label="Close">-->
-								<!--  <span aria-hidden="true">&times;</span>-->
-								<!--</button>-->
+					<?php if (!empty($_SESSION['fail'])): ?>
+							<div class="alert alert-danger alert-dismissible fade show" role="alert">
+									<strong><?= $_SESSION['fail']; ?></strong>
+									<?php unset($_SESSION['fail']); ?>
 							</div>
+					<?php endif; ?>
+
+					<?php if (!empty($_SESSION['g-recaptcha_fail'])): ?>
+							<div class="alert alert-warning alert-dismissible fade show" role="alert">
+									<strong><?= $_SESSION['g-recaptcha_fail']; ?></strong>
+									<?php unset($_SESSION['g-recaptcha_fail']); ?>
+							</div>
+					<?php endif; ?>
 
 
-						<?php  } ?>
+
+					
 
 						<form action="" method="post">
 
@@ -230,11 +255,23 @@ if (isset($_REQUEST['subc'])) {
 
 								<textarea id="subject" name="msg" placeholder="Message" style="height:200px" required=""></textarea>
 							</div>
+
+							<div class="col-md-12 ">
+									<div class="g-recaptcha" data-sitekey="6LdwFm0rAAAAAGtA0QNJ0SiAORxEPEQGRp_Tn9V3"></div>
+							</div>
+
 							<div class="col-md-12">
 								<input type="submit" value="Send mail" name="subc">
 							</div>
+
+							
+						</div>
 						</form>
 
+						<br>
+						
+							</br>
+                
 
 					</div>
 				</div>
@@ -261,6 +298,11 @@ if (isset($_REQUEST['subc'])) {
 
 
 
+	<style>
+    .alert-success { background-color: #28a745; color: white; }
+    .alert-danger { background-color: #dc3545; color: white; }
+    .alert-warning { background-color: #ffc107; color: black; }
+</style>
 
 
 	<!-- footer -->
@@ -269,7 +311,7 @@ if (isset($_REQUEST['subc'])) {
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script type="text/javascript" src="js/alshurooqModules.js"></script>
 
-
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 
 	<script type="text/javascript">
