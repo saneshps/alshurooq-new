@@ -160,7 +160,7 @@
                                         <path class="icon_balken-pressekontakt-cls-1" d="M1051.46,369.44h-17.68a1.91,1.91,0,0,0-1.93,1.91v.84h1.93v-.84h17.68V387h-4.19l-.55,1-4.19,7.62-.42-.75a4,4,0,0,1-1.86.61l2.37,4.3v-.32l5.8-10.54h3a1.93,1.93,0,0,0,1.93-1.92V371.35A1.92,1.92,0,0,0,1051.46,369.44Z" transform="translate(-1020.39 -369.44)"></path>
                                         <path class="icon_balken-pressekontakt-cls-1" d="M1040,393.55a1.92,1.92,0,0,0,1.93-1.91V376.11a1.92,1.92,0,0,0-1.93-1.91h-17.68a1.92,1.92,0,0,0-1.92,1.91v15.53a1.92,1.92,0,0,0,1.92,1.91h2.87l6,9.65v-.31l5.8-9.34Zm-8.84-16a3,3,0,1,1-3,3A3,3,0,0,1,1031.15,377.54Zm3,12.81h-6a1,1,0,0,1-1-1v-3.83a1,1,0,0,1,1-1h6a1,1,0,0,1,1,1v3.83A1,1,0,0,1,1034.17,390.35Z" transform="translate(-1020.39 -369.44)"></path>
                                     </svg>
-                                    Quick Contact
+                                    <a class="q-cnt-h" href="contact-us.php" target="_blank"> Quick Contact</a>
                                 </div>
                                 <div class="content">
                                     <div class="image-container">

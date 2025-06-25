@@ -1658,6 +1658,7 @@ input[type=submit]:hover {
 .p-l-align {
   padding: 0 0 0 30px;
 }
+
 .blog-details-box {}
 
 .blog-details-box-content {
@@ -2645,7 +2646,13 @@ a:focus {
   padding: 6px 16px 6px 15px !important;
 }
 
+.q-cnt-h {
+  font-weight: 600 !important;
+}
 
+.q-cnt-h:hover {
+  color: #fff !important;
+}
 
 
 /* ================================  Gallery Page ================================== */
@@ -2767,7 +2774,8 @@ a:focus {
   #banner-gallery {
     height: 380px;
   }
-      .p-l-align {
+
+  .p-l-align {
     padding: 0 0 0 20px;
   }
 
@@ -2862,8 +2870,8 @@ a:focus {
   #banner-gallery {
     height: 340px;
   }
-    
-      .p-l-align {
+
+  .p-l-align {
     padding: 0 0 0 20px;
   }
 
@@ -2957,12 +2965,13 @@ a:focus {
 
 
 @media only screen and (min-width : 150px) and (max-width : 767px) {
-    
-      .blog-details-box-content h4 {
+
+  .blog-details-box-content h4 {
     line-height: 24px;
     font-size: 1.6rem;
   }
-      .p-l-align {
+
+  .p-l-align {
     padding: 0 0 0 10px;
   }
 
