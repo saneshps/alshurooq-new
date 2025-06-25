@@ -54,7 +54,7 @@ if (isset($_REQUEST['subc'])) {
 	<meta name="keywords" content="Contact Us">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="We are here to assist you with expert stainless steel fabrication services. Contact us today for custom solutions at +971 4 42 55988 or info@alshurooq.ae">
-
+	<link rel="canonical" href="https://alshurooq.ae/contact-us.php">
 	<!--  Developed by - bigleap -->
 
 	<!--***************************************-->
@@ -102,16 +102,16 @@ if (isset($_REQUEST['subc'])) {
 					<h2>Get In Touch</h2>
 
 					<p> <a href="https://alshurooq.ae/index.php " target="_blank">
-						 Al Shurooq Industries L.L.C.
-               			 </a>
-						 , a certified company with ISO 9001:2015, ISO 14001:2015,
+							Al Shurooq Industries L.L.C.
+						</a>
+						, a certified company with ISO 9001:2015, ISO 14001:2015,
 						and ISO 45001:2018 accreditations, specializes in Steel Fabrication and Machining.
 						With the capability and resources to deliver high-quality solutions, we serve diverse industries,
 						including Power Generation, Oil & Gas, Steel Construction, Food Processing, Machine Building,
 						Agricultural and Water Management, Prototyping, Electric Vehicle Components Manufacturing,
 						<a href="https://alshurooq.ae/solar-panel-structures.php" target="_blank">
-						Solar Panel Structures
-              			  </a>
+							Solar Panel Structures
+						</a>
 						, Battery and Power Pack Assemblies, and General Mechanical Industries.
 
 					</p>
