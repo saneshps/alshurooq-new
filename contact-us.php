@@ -1,81 +1,3 @@
-<?php
-// Start session only if not already started
-if (session_status() === PHP_SESSION_NONE) {
-	session_start();
-}
-
-// Handle form submission
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
-
-	// Sanitize inputs
-	$name    = htmlspecialchars(trim($_POST['name'] ?? ''));
-	$email   = filter_var(trim($_POST['email'] ?? ''), FILTER_VALIDATE_EMAIL);
-	$mobile  = htmlspecialchars(trim($_POST['mobile'] ?? ''));
-	$subject = htmlspecialchars(trim($_POST['subject'] ?? ''));
-	$message = nl2br(htmlspecialchars(trim($_POST['msg'] ?? '')));
-	$recaptcha = $_POST['g-recaptcha-response'] ?? '';
-
-	// Validate fields
-	if (!$name || !$email || !$mobile || !$subject || !$message) {
-		$_SESSION['fail'] = "All fields are required.";
-		header("Location: contact-us.php");
-		exit;
-	}
-
-	// reCAPTCHA verification
-	$secret_key = '6LdwFm0rAAAAADCWE2yEgBT-ukyUGsznffmZIh-Z';
-	$verify_url = "https://www.google.com/recaptcha/api/siteverify?secret={$secret_key}&response={$recaptcha}";
-	$verify_response = file_get_contents($verify_url);
-	$response_data = json_decode($verify_response);
-
-	if (!$response_data || !$response_data->success) {
-		$_SESSION['g-recaptcha_fail'] = "reCAPTCHA verification failed.";
-		header("Location: contact-us.php");
-		exit;
-	}
-
-
-	// (C) EMAIL SETTINGS
-	$to       = "info@alshurooq.ae";
-	$from = $email;
-	$fromName = $name;
-
-	$headers = implode("\r\n", [
-		"MIME-Version: 1.0",
-		"Content-type: text/html; charset=utf-8",
-		"From: {$fromName} <{$from}>"
-	]);
-
-	// Load email template
-	$html = file_get_contents("mail.html");
-	if (!$html) {
-		$_SESSION['fail'] = "Unable to load mail template.";
-		header("Location: contact-us.php");
-		exit;
-	}
-
-	// Replace placeholders
-	$html = str_replace(
-		['{name}', '{email}', '{mobile}', '{message}'],
-		[$name, $email, $mobile, $message],
-		$html
-	);
-
-	// Send email
-	$sent = mail($to, $subject, $html, $headers);
-
-	if ($sent) {
-		$_SESSION['message'] = "Thank you for your enquiry. We will get back to you shortly.";
-	} else {
-		$_SESSION['fail'] = "Failed to send email. Please try again later.";
-	}
-
-	header("Location: contact-us.php");
-	exit;
-}
-?>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -206,32 +128,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 
 
 
-						<?php if (!empty($_SESSION['message'])): ?>
-							<div class="alert alert-success alert-dismissible fade show" role="alert">
-								<strong><?= $_SESSION['message']; ?></strong>
-								<?php unset($_SESSION['message']); ?>
-							</div>
-						<?php endif; ?>
-
-						<?php if (!empty($_SESSION['fail'])): ?>
-							<div class="alert alert-danger alert-dismissible fade show" role="alert">
-								<strong><?= $_SESSION['fail']; ?></strong>
-								<?php unset($_SESSION['fail']); ?>
-							</div>
-						<?php endif; ?>
-
-						<?php if (!empty($_SESSION['g-recaptcha_fail'])): ?>
-							<div class="alert alert-warning alert-dismissible fade show" role="alert">
-								<strong><?= $_SESSION['g-recaptcha_fail']; ?></strong>
-								<?php unset($_SESSION['g-recaptcha_fail']); ?>
-							</div>
-						<?php endif; ?>
+						<div class="col-md-12">
+								<?php if (isset($_GET['success'])): ?>
+										<p style="color: green; font-weight: 600;">
+												<?= htmlspecialchars($_GET['success']) ?>
+										</p>
+								<?php elseif (isset($_GET['error'])): ?>
+										<p style="color: red; font-weight: 600;">
+												<?= htmlspecialchars($_GET['error']) ?>
+										</p>
+								<?php endif; ?>
+            </div>
+					
 
 
 
-
-
-						<form action="" method="post">
+					
+						<form action="contact-submit.php" method="post">
 
 
 							<div class="col-md-6">
@@ -257,16 +170,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 							</div>
 
 							<div class="col-md-12 ">
-								<div class="g-recaptcha" data-sitekey="6LdwFm0rAAAAAGtA0QNJ0SiAORxEPEQGRp_Tn9V3"></div>
+									<div class="g-recaptcha" data-sitekey="6LdwFm0rAAAAAGtA0QNJ0SiAORxEPEQGRp_Tn9V3"></div>
 							</div>
 
 							<div class="col-md-12">
 								<input type="submit" value="Send mail" name="subc">
 							</div>
 
-
-					</div>
-					</form>
+							
+						</div>
+						</form>
 
 					<br>
 
