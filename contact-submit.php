@@ -14,7 +14,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 
 	// Validate fields
 	if (!$name || !$email || !$mobile || !$subject || !$message) {
-		header("Location: contact-us.php?error=" . urlencode("All fields are required."));
+		//header("Location: contact-us.php?error=" . urlencode("All fields are required."));
+		echo "<script>window.location.href='contact-us.php?error=" . urlencode("All fields are required.") . "';</script>";
 		exit;
 	}
 
@@ -25,14 +26,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 	$response_data = json_decode($verify_response);
 
 	if (!$response_data || !$response_data->success) {
-		header("Location: contact-us.php?error=" . urlencode("reCAPTCHA verification failed."));
+		echo "<script>window.location.href='contact-us.php?error=" . urlencode("reCAPTCHA verification failed.") . "';</script>";
+		//header("Location: contact-us.php?error=" . urlencode("reCAPTCHA verification failed."));
 		exit;
 	}
 
 	// Email settings
 	// $to        = "info@alshurooq.ae";
 
-  $to        = "info@alshurooq.ae";
+	$to        = "info@alshurooq.ae";
 	$from      = $email;
 	$fromName  = $name;
 
@@ -45,7 +47,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 	// Load email template
 	$html = file_get_contents("mail.html");
 	if (!$html) {
-		header("Location: contact-us.php?error=" . urlencode("Unable to load mail template."));
+		echo "<script>window.location.href='contact-us.php?error=" . urlencode("Unable to load mail template.") . "';</script>";
+		// header("Location: contact-us.php?error=" . urlencode("Unable to load mail template."));
 		exit;
 	}
 
@@ -58,10 +61,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['subc'])) {
 
 	// Send email
 	if (mail($to, $subject, $html, $headers)) {
-		header("Location: contact-us.php?success=" . urlencode("Thank you for your enquiry. We will get back to you shortly."));
+		echo "<script>window.location.href='contact-us.php?error=" . urlencode("Thank you for your enquiry. We will get back to you shortly.") . "';</script>";
+		// header("Location: contact-us.php?success=" . urlencode("Thank you for your enquiry. We will get back to you shortly."));
 		exit;
 	} else {
-		header("Location: contact-us.php?error=" . urlencode("Failed to send email. Please try again later."));
+		echo "<script>window.location.href='contact-us.php?error=" . urlencode("Failed to send email. Please try again later.") . "';</script>";
+		// header("Location: contact-us.php?error=" . urlencode("Failed to send email. Please try again later."));
 		exit;
 	}
 }
