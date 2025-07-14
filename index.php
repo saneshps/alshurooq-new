@@ -625,47 +625,48 @@
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
-										<a href="unveiling-the-evolution-from-small-industry-to-steel-fabricator-of-choice.php">
-											<img src="img/blog/blog-1.png" alt="blog"> </a>
+										<a href="myths-about-water-jet-cutting-debunked.php">
+											<img src="img/blog/myths-about-water-jet-cutting-debunked.jpg" alt="blog"> </a>
 									</div>
 									<div class="post-content">
 										<div class="post-date">
-											<span class="month">15 Aug 2023</span>
+											<span class="month">20 June 2025</span>
 
 										</div>
-										<h5 class="post-title"><a href="unveiling-the-evolution-from-small-industry-to-steel-fabricator-of-choice.php">
-												Unveiling the Evolution: From Small Industry to Steel Fabricator of Choice </a></h5>
+										<h5 class="post-title"><a href="myths-about-water-jet-cutting-debunked.php">
+												Myths About Water Jet Cutting – Debunked </a></h5>
 										<p class="post-description">
-											In the heart of Dubai's bustling landscape, Al Shurooq Industries L.L.C.
-											embarked on a humble journey in 1996 as a small industry. What began as a modest
-											endeavor has evolved into a pioneering force in the world of steel fabrication...
+											No matter what the era, myths are something that will float around almost anything. CNC Waterjet cutting machines are not an exemption.
+                      						There are quite a few myths surrounding these machines these days.
+                      						No matter what the era, myths are something that will float around almost...
 
 										</p>
 									</div>
-									<a class="post-bar" href="unveiling-the-evolution-from-small-industry-to-steel-fabricator-of-choice.php"> Read More </a>
+									<a class="post-bar" href="myths-about-water-jet-cutting-debunked.php"> Read More </a>
 								</div>
 							</div>
 
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
-										<a href="precision-redefined-exploring-the-Cutting-Edge-CNC-machining-arsenal.php"> <img src="img/blog/Precision-Redefined.png" alt="blog"> </a>
+										<a href="how-5-axis-cnc-machining-works-and-why-it-matters.php"> 
+											<img src="img/blog/how-5-axis-cnc-machining-works-and-why-it-matters.jpg" alt="blog"> </a>
 									</div>
 									<div class="post-content">
 										<div class="post-date">
-											<span class="month">12 Sep 2023</span>
+											<span class="month">24 May 2025</span>
 
 										</div>
-										<h5 class="post-title"><a href="precision-redefined-exploring-the-Cutting-Edge-CNC-machining-arsenal.php">
-												Precision Redefined: Exploring the Cutting-Edge CNC Machining Arsenal </a></h5>
+										<h5 class="post-title"><a href="how-5-axis-cnc-machining-works-and-why-it-matters.php">
+												How 5-Axis CNC Machining Works and Why It Matters? </a></h5>
 										<p class="post-description">
-											In the realm of steel fabrication and machining, precision is the cornerstone of success.
-											Al Shurooq Industries L.L.C. has elevated the concept of precision to new heights
-											through its cutting-edge CNC machining arsenal.
+											Technology Driver transformation accelerated by Industrial 4.0 has revolutionized the manufacturing
+                      						sector bringing in more efficient manufacturing technologies. Upgrading its traditional or
+                     						conventional machining capability to CNC controlled machining...
 
 										</p>
 									</div>
-									<a class="post-bar" href="precision-redefined-exploring-the-Cutting-Edge-CNC-machining-arsenal.php"> Read More </a>
+									<a class="post-bar" href="how-5-axis-cnc-machining-works-and-why-it-matters.php"> Read More </a>
 								</div>
 							</div>
 
@@ -673,23 +674,24 @@
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
-										<a href="quality-meets-craftsmanship-surface-finishing-excellence-in-steel-fabrication.php"> <img src="img/blog/Quality-Meets-Craftsmanship-Surface-Finishing-Excellence-In-Steel-Fabrication.png" alt="blog"> </a>
+										<a href="arc-welding-vs-laser-welding-key-differences.php"> <img src="img/blog/laser-welding-vs-traditional-welding-key-differences-and-advantages.jpg" alt="blog"> </a>
 									</div>
 									<div class="post-content">
 										<div class="post-date">
-											<span class="month">17 Oct 2023</span>
+											<span class="month">28 April 2025</span>
 
 										</div>
-										<h5 class="post-title"><a href="quality-meets-craftsmanship-surface-finishing-excellence-in-steel-fabrication.php">
-												Quality Meets Craftsmanship: Surface Finishing Excellence in Steel Fabrication </a></h5>
+										<h5 class="post-title"><a href="arc-welding-vs-laser-welding-key-differences.php">
+												                        Arc Welding Vs Laser Welding - Key differences and Advantages
+											</a></h5>
 										<p class="post-description">
-											In the world of steel fabrication, the journey from raw material to finished product involves
-											a crucial step that elevates both aesthetics and durability: surface finishing.
-											Al Shurooq Industries L.L.C. is a master of this craft...
+											Welding is the process by which materials, typically metals, are fused using high temperature heat
+												to form a strong joint between metals. The two major classification of Welding methods
+												are Fusion Welding & Pressure Welding...
 
 										</p>
 									</div>
-									<a class="post-bar" href="quality-meets-craftsmanship-surface-finishing-excellence-in-steel-fabrication.php"> Read More </a>
+									<a class="post-bar" href="arc-welding-vs-laser-welding-key-differences.php"> Read More </a>
 								</div>
 							</div>
 

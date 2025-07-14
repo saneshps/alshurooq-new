@@ -197,10 +197,6 @@
 
 			</div>
 
-
-
-
-
 			<div class="row">
 				<div class="col-lg-12">
 					<h4 class="subtitle">Products</h4>
@@ -242,9 +238,6 @@
 
 				</div>
 			</div>
-
-
-
 			<div class="row">
 				<div class="col-lg-12">
 					<h4 class="subtitle">Resources</h4>
@@ -266,9 +259,6 @@
 				<h4 class="subtitle"><a href="contact-us.php">Contact Us</a></h4>
 
 			</div>
-
-
-
 		</div>
 	</div>
 </section>
