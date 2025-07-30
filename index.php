@@ -625,6 +625,28 @@
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
+										<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+											<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">30 July 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+												Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
+										<p class="post-description">
+											As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial. 
+											Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter. ...
+
+										</p>
+									</div>
+									<a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
 										<a href="myths-about-water-jet-cutting-debunked.php">
 											<img src="img/blog/myths-about-water-jet-cutting-debunked.jpg" alt="blog"> </a>
 									</div>
@@ -671,29 +693,7 @@
 							</div>
 
 
-							<div class="col-lg-4 col-md-4 p-0">
-								<div class="post-slide">
-									<div class="post-img">
-										<a href="arc-welding-vs-laser-welding-key-differences.php"> <img src="img/blog/laser-welding-vs-traditional-welding-key-differences-and-advantages.jpg" alt="blog"> </a>
-									</div>
-									<div class="post-content">
-										<div class="post-date">
-											<span class="month">28 April 2025</span>
-
-										</div>
-										<h5 class="post-title"><a href="arc-welding-vs-laser-welding-key-differences.php">
-												                        Arc Welding Vs Laser Welding - Key differences and Advantages
-											</a></h5>
-										<p class="post-description">
-											Welding is the process by which materials, typically metals, are fused using high temperature heat
-												to form a strong joint between metals. The two major classification of Welding methods
-												are Fusion Welding & Pressure Welding...
-
-										</p>
-									</div>
-									<a class="post-bar" href="arc-welding-vs-laser-welding-key-differences.php"> Read More </a>
-								</div>
-							</div>
+							
 
 							<div class="col-md-12 d-flx ">
 								<a class="read" href="blogs.php"> More Blogs </a>

@@ -74,6 +74,33 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
+
+            <div class="col-lg-4 col-md-6 p-0">
+                <div class="post-slide">
+                  <div class="post-img">
+                    <a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+                      <img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg" alt="Common CNC Plasma Cutting Mistakes and How to Avoid Them | Al Shurooq UAE"> </a>
+                  </div>
+                  <div class="post-content">
+                    <div class="post-date">
+                      <span class="month"> 30 July 2025 </span>
+
+                    </div>
+                    <h5 class="post-title"><a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+                        Common CNC Plasma Cutting Mistakes and How to Avoid Them
+
+                      </a></h5>
+                    <p class="post-description">
+                      As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial. Gas is ionised by passing it
+                       through an electric arc, which converts it into plasma, the highly conductive state of matter...
+
+                    </p>
+                  </div>
+                  <a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
+                </div>
+              </div>
+
+
               <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
