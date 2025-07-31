@@ -109,8 +109,8 @@
                    and even unexpected breakdown or halt. This compromises the cut quality, significantly reducing productivity. </p>
                     
                    <h4> Solution</h4>
-                     <p> Inadequate power supply may cause unstable arc, insufficient cutting speed, machine malfunctioning,
-                   and even unexpected breakdown or halt. This compromises the cut quality, significantly reducing productivity. </p>
+                     <p> Always make sure that the input voltage matches the power requirements of the plasma cutter. Check for any
+                       grounding issues, blown fuses or tripped circuit breakers. If any malfunctions are detected, rectify them immediately. </p>
                <br>
 
                 <li><b> Incorrect Cutting Parameter</li>
@@ -134,10 +134,9 @@
 
                    <h4> Solution</h4>
                      <p> Select the consumables that are compatible with the material and the cutting requirements.
-                       It is also advised to inspect the consumables for wear and tear and replace them if necessary </p><br>
+                       It is also advised to inspect the consumables for wear and tear and replace them if necessary. </p><br>
               
-                <li><b> Improper Torch Height</li>
-                <p> The torch height is crucial for maintaining the quality of the cut. If the
+                
                 <li><b>Overlooking The Coolant Flow</li>
                 <p> Specific CNC plasma cutting machines feature coolants. Overlooking the coolant level can cause the machine parts and consumables to overheat, 
                   damaging them permanently. This can also cause the torch to overheat, resulting in its complete damage, causing the system to come to a halt.  </p>
