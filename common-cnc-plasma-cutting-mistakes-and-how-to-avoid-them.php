@@ -4,7 +4,7 @@
 <head>
 
   <title> Common CNC Plasma Cutting Mistakes & How to Avoid Them | Al Shurooq
- </title>
+  </title>
   <link rel="shortcut icon" href="img/favicon.png">
   <meta charset="utf-8">
   <meta name="keywords" content="">
@@ -89,93 +89,94 @@
 
 
               <p> As far as the fabrication industries are concerned,
-                 <a href="https://alshurooq.ae/cnc-plasma-cutting.php" target="_blank">
-                  CNC plasma cutting machines </a>  are crucial.
-                 Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter. 
-                Then plasma is directed to the intended workpiece through the nozzle, which delivers precise cutting. 
+                <a href="https://alshurooq.ae/cnc-plasma-cutting.php" target="_blank">
+                  CNC plasma cutting </a> are crucial.
+                Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter.
+                Then plasma is directed to the intended workpiece through the nozzle, which delivers precise cutting.
 
               </p>
               <p>Just as the name suggests, the machine’s movement is monitored through Computer Numerical Control,
-                 the advanced computer program that pre-determines the command, rendering flawless output.
+                the advanced computer program that pre-determines the command, rendering flawless output.
               </p>
               <p>
-                  Machines are prone to errors, and CNC plasma cutting machines are no exception. In this blog we will discuss some common CNC plasma cutting mistakes and how to avoid them. </p>
-              
-                  <h4> Common CNC Plasma Cutting Mistakes And The Solution</h4>
+                Machines are prone to errors, and CNC plasma cutting machines are no exception. In this blog we will discuss some common CNC plasma cutting mistakes and how to avoid them. </p>
 
-                  <ul>
+              <h4> Common CNC Plasma Cutting Mistakes And The Solution</h4>
+
+              <ul>
                 <li><b> Inadequate Power Supply</li>
                 <p> Inadequate power supply may cause unstable arc, insufficient cutting speed, machine malfunctioning,
-                   and even unexpected breakdown or halt. This compromises the cut quality, significantly reducing productivity. </p>
-                    
-                   <h4> Solution</h4>
-                     <p> Always make sure that the input voltage matches the power requirements of the plasma cutter. Check for any
-                       grounding issues, blown fuses or tripped circuit breakers. If any malfunctions are detected, rectify them immediately. </p>
-               <br>
+                  and even unexpected breakdown or halt. This compromises the cut quality, significantly reducing productivity. </p>
+
+                <h4> Solution</h4>
+                <p> Always make sure that the input voltage matches the power requirements of the plasma cutter. Check for any
+                  grounding issues, blown fuses or tripped circuit breakers. If any malfunctions are detected, rectify them immediately. </p>
+                <br>
 
                 <li><b> Incorrect Cutting Parameter</li>
                 <p> Incorrect cutting parameters adversely affect the overall quality of the cut.
-                   Too fast or too slow cuts can wear out the consumables like the nozzle and electrodes, reducing their life span. </p>
-                    
-                   <p> This can cause a surge in the maintenance cost. In addition to that, it causes the molten material to build up on the edge of the cut, it can widen the groove if the cut
-                     speed is too slow, and it can lead to slant, incomplete cuts if the cutting speed is high, causing uncut material build up.  </p>
-                    
-                   <h4> Solution</h4>
-                     <p> Go through the instruction manual thoroughly and follow the recommendations of the manufacturer. Double check that the 
-                      speed parameters are in par with the requirements of the workpiece material and the process as a whole. </p>
-              
-                  <br>
-                <li><b> Incompatible Consumables </li>
-                <p> Consumables are essential components of a plasma cutter. Usually the consumables are chosen based on the following factors such as 
-                  the material, thickness of the cut, the arc-parameters, the plasma gas and the amperage.  </p>
-                    
-                  <p>Using the wrong consumables can shorten the lifespan of the
-                     machine parts, compromise the quality of the cut, lead to dross buildup, eventually cause permanent malfunction. </p>
+                  Too fast or too slow cuts can wear out the consumables like the nozzle and electrodes, reducing their life span. </p>
 
-                   <h4> Solution</h4>
-                     <p> Select the consumables that are compatible with the material and the cutting requirements.
-                       It is also advised to inspect the consumables for wear and tear and replace them if necessary. </p><br>
-              
-                
+                <p> This can cause a surge in the maintenance cost. In addition to that, it causes the molten material to build up on the edge of the cut, it can widen the groove if the cut
+                  speed is too slow, and it can lead to slant, incomplete cuts if the cutting speed is high, causing uncut material build up. </p>
+
+                <h4> Solution</h4>
+                <p> Go through the instruction manual thoroughly and follow the recommendations of the manufacturer. Double check that the
+                  speed parameters are in par with the requirements of the workpiece material and the process as a whole. </p>
+
+                <br>
+                <li><b> Incompatible Consumables </li>
+                <p> Consumables are essential components of a plasma cutter. Usually the consumables are chosen based on the following factors such as
+                  the material, thickness of the cut, the arc-parameters, the plasma gas and the amperage. </p>
+
+                <p>Using the wrong consumables can shorten the lifespan of the
+                  machine parts, compromise the quality of the cut, lead to dross buildup, eventually cause permanent malfunction. </p>
+
+                <h4> Solution</h4>
+                <p> Select the consumables that are compatible with the material and the cutting requirements.
+                  It is also advised to inspect the consumables for wear and tear and replace them if necessary. </p><br>
+
+
                 <li><b>Overlooking The Coolant Flow</li>
-                <p> Specific CNC plasma cutting machines feature coolants. Overlooking the coolant level can cause the machine parts and consumables to overheat, 
-                  damaging them permanently. This can also cause the torch to overheat, resulting in its complete damage, causing the system to come to a halt.  </p>
-                    
-                   <h4> Solution</h4>
-                     <p> Regularly inspect the coolant levels. Also, check for the gas flow and pressure along with that.  </p>
-               <br>
+                <p> Specific CNC plasma cutting machines feature coolants. Overlooking the coolant level can cause the machine parts and consumables to overheat,
+                  damaging them permanently. This can also cause the torch to overheat, resulting in its complete damage, causing the system to come to a halt. </p>
+
+                <h4> Solution</h4>
+                <p> Regularly inspect the coolant levels. Also, check for the gas flow and pressure along with that. </p>
+                <br>
 
                 <li><b> Arc Stretching</li>
                 <p>Arc stretching happens when the plasma arc extends beyond the cutting distance,
-                   affecting the quality of the cut and damaging the consumables like the nozzle.  </p>
-                    
-                   <h4> Solution</h4>
-                     <p> Ensure that the start and end points of the cutting arc are accurately programmed. 
-                      Before initiating the cutting arc, make sure that the nozzle is aligned correct.  </p>
-               <br>
+                  affecting the quality of the cut and damaging the consumables like the nozzle. </p>
+
+                <h4> Solution</h4>
+                <p> Ensure that the start and end points of the cutting arc are accurately programmed.
+                  Before initiating the cutting arc, make sure that the nozzle is aligned correct. </p>
+                <br>
 
                 <li><b>Skipping Regular Maintenance </li>
-                <p> No matter how advanced the machine is, if regular maintenance is not followed, 
+                <p> No matter how advanced the machine is, if regular maintenance is not followed,
                   it is bound to affect the efficiency and overall productivity. </p>
-                    
-                   <h4> Solution</h4>
-                     <p> Schedule a regular maintenance routine for the CNC plasma cutting machine.
-                       Inspect the consumables for wear and tear, clean any dirt and residue left after the cutting process, 
-                      clean the torch and cutting table, check for the air supply and update the CNC software. </p>
 
-                      <p> CNC plasma cutting machines are known for their precision and flawless cutting of the workpiece. 
-                        Being mindful of the above-discussed mistakes and taking
-                         the necessary precautions will help to reduce errors, extend the lifespan of the machine and maintain consistent results. </p>
+                <h4> Solution</h4>
+                <p> Schedule a regular maintenance routine for the CNC plasma cutting machine.
+                  Inspect the consumables for wear and tear, clean any dirt and residue left after the cutting process,
+                  clean the torch and cutting table, check for the air supply and update the CNC software. </p>
 
-                      <p> <a href="https://alshurooq.ae" target="_blank">
-                  Al Shurooq </a>  industries offer top-tier CNC plasma cutting services that guarantee flawless cutting across a wide range of metals.
-                         With advanced CNC machines and skilled technicians, we ensure that you get accurate and precise output.  </p>
-              
+                <p> CNC plasma cutting machines are known for their precision and flawless cutting of the workpiece.
+                  Being mindful of the above-discussed mistakes and taking
+                  the necessary precautions will help to reduce errors, extend the lifespan of the machine and maintain consistent results. </p>
+
+                <p> <a href="https://alshurooq.ae" target="_blank">
+                    Al Shurooq </a> industries offer top-tier <a href="https://alshurooq.ae/cnc-plasma-cutting.php" target="_blank">
+                    CNC plasma cutting</a> services that guarantee flawless cutting across a wide range of metals.
+                  With advanced CNC machines and skilled technicians, we ensure that you get accurate and precise output. </p>
+
               </ul>
 
 
 
-              
+
             </div>
           </div>
         </div>
