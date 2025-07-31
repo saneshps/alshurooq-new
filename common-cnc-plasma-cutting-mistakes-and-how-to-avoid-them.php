@@ -169,7 +169,7 @@
 
                 <p> <a href="https://alshurooq.ae" target="_blank">
                     Al Shurooq </a> industries offer top-tier <a href="https://alshurooq.ae/cnc-plasma-cutting.php" target="_blank">
-                    CNC plasma cutting</a> services that guarantee flawless cutting across a wide range of metals.
+                    CNC plasma cutting services</a> that guarantee flawless cutting across a wide range of metals.
                   With advanced CNC machines and skilled technicians, we ensure that you get accurate and precise output. </p>
 
               </ul>
