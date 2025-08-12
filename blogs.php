@@ -74,6 +74,29 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
+            <div class="col-lg-4 col-md-6 p-0">
+                <div class="post-slide">
+                  <div class="post-img">
+                    <a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+                      <img src="img/blog/how-cnc-bending-services-improve-product-quality-and-consistency.jpg" alt="How CNC Bending Services Improve Product Quality & Consistency | Al Shurooq | Blog"> </a>
+                  </div>
+                  <div class="post-content">
+                    <div class="post-date">
+                      <span class="month"> 12 August 2025 </span>
+
+                    </div>
+                    <h5 class="post-title"><a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+                       How CNC Bending Services Improve Product Quality and Consistency
+
+                      </a></h5>
+                    <p class="post-description">
+                      Precision and accuracy are essential in the modern manufacturing environment. Given the multitude of industrial sectors and the diverse production needs...
+
+                    </p>
+                  </div>
+                  <a class="post-bar" href="how-cnc-bending-services-improve-product-quality-and-consistency.php"> Read More </a>
+                </div>
+              </div>
 
             <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">

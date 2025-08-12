@@ -625,6 +625,29 @@
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
+										<a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+											<img src="img/blog/how-cnc-bending-services-improve-product-quality-and-consistency.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">12 August 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+												How CNC Bending Services Improve Product Quality and Consistency</a></h5>
+										<p class="post-description">
+											Precision and accuracy are essential in the modern manufacturing environment.
+											 Given the multitude of industrial sectors and the diverse production needs ...
+
+										</p>
+									</div>
+									<a class="post-bar" href="how-cnc-bending-services-improve-product-quality-and-consistency.php"> Read More </a>
+								</div>
+							</div>
+							
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
 										<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
 											<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg" alt="blog"> </a>
 									</div>
@@ -668,33 +691,7 @@
 								</div>
 							</div>
 
-							<div class="col-lg-4 col-md-4 p-0">
-								<div class="post-slide">
-									<div class="post-img">
-										<a href="how-5-axis-cnc-machining-works-and-why-it-matters.php"> 
-											<img src="img/blog/how-5-axis-cnc-machining-works-and-why-it-matters.jpg" alt="blog"> </a>
-									</div>
-									<div class="post-content">
-										<div class="post-date">
-											<span class="month">24 May 2025</span>
-
-										</div>
-										<h5 class="post-title"><a href="how-5-axis-cnc-machining-works-and-why-it-matters.php">
-												How 5-Axis CNC Machining Works and Why It Matters? </a></h5>
-										<p class="post-description">
-											Technology Driver transformation accelerated by Industrial 4.0 has revolutionized the manufacturing
-                      						sector bringing in more efficient manufacturing technologies. Upgrading its traditional or
-                     						conventional machining capability to CNC controlled machining...
-
-										</p>
-									</div>
-									<a class="post-bar" href="how-5-axis-cnc-machining-works-and-why-it-matters.php"> Read More </a>
-								</div>
-							</div>
-
-
 							
-
 							<div class="col-md-12 d-flx ">
 								<a class="read" href="blogs.php"> More Blogs </a>
 							</div>
