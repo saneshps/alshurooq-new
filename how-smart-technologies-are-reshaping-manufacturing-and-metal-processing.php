@@ -95,7 +95,7 @@
               <p>
                 This blog will briefly outline how smart technologies are reshaping manufacturing and metal processing industries.                     
               </p>
-
+              <img src="img/blog/how-smart-technologies.png" alt="blog" width="100%" >
               <h4> Automation: The Core of Manufacturing  </h4>
               <p class="p-l-align">With the advent of automation, manufacturing processes have become more efficient, consistent and precise. Machines are automated to take over repetitive or dangerous tasks, allowing to operators to focus to matters that require immediate attention and technical expertise.  </p>
               
