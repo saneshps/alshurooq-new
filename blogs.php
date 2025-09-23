@@ -74,6 +74,30 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
+              <div class="col-lg-4 col-md-6 p-0">
+                <div class="post-slide">
+                  <div class="post-img">
+                    <a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+                      <img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg" alt="How Smart Technologies are Reshaping Manufacturing & Metal Processing | Al Shurooq | Blog"> </a>
+                  </div>
+                  <div class="post-content">
+                    <div class="post-date">
+                      <span class="month"> 23 September 2025 </span>
+
+                    </div>
+                    <h5 class="post-title"><a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+                       How Smart Technologies are Reshaping Manufacturing and Metal Processing Industries
+
+                      </a></h5>
+                    <p class="post-description">
+                      Today the world is driven by technological innovations, which are well reflected particularly in the industrial sector. Alongside the development of AI, technological advancements are ...
+
+                    </p>
+                  </div>
+                  <a class="post-bar" href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php"> Read More </a>
+                </div>
+              </div>
+
             <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
