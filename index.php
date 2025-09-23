@@ -622,6 +622,29 @@
 					</div>
 					<div id="news-slider" class="owl-carousel">
 						<div class="row blog-box">
+
+						<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
+										<a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+											<img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">23 September 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+												How Smart Technologies are Reshaping Manufacturing and Metal Processing Industries</a></h5>
+										<p class="post-description">
+											Today the world is driven by technological innovations, which are well reflected particularly in the industrial sector. Alongside the development of AI, technological advancements are ...
+
+										</p>
+									</div>
+									<a class="post-bar" href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php"> Read More </a>
+								</div>
+							</div>
+
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
@@ -667,29 +690,7 @@
 									<a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
 								</div>
 							</div>
-							<div class="col-lg-4 col-md-4 p-0">
-								<div class="post-slide">
-									<div class="post-img">
-										<a href="myths-about-water-jet-cutting-debunked.php">
-											<img src="img/blog/myths-about-water-jet-cutting-debunked.jpg" alt="blog"> </a>
-									</div>
-									<div class="post-content">
-										<div class="post-date">
-											<span class="month">20 June 2025</span>
-
-										</div>
-										<h5 class="post-title"><a href="myths-about-water-jet-cutting-debunked.php">
-												Myths About Water Jet Cutting – Debunked </a></h5>
-										<p class="post-description">
-											No matter what the era, myths are something that will float around almost anything. CNC Waterjet cutting machines are not an exemption.
-                      						There are quite a few myths surrounding these machines these days.
-                      						No matter what the era, myths are something that will float around almost...
-
-										</p>
-									</div>
-									<a class="post-bar" href="myths-about-water-jet-cutting-debunked.php"> Read More </a>
-								</div>
-							</div>
+							
 
 							
 							<div class="col-md-12 d-flx ">
