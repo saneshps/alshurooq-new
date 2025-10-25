@@ -623,7 +623,29 @@
 					<div id="news-slider" class="owl-carousel">
 						<div class="row blog-box">
 
-						<div class="col-lg-4 col-md-4 p-0">
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
+										<a href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+											<img src="img/blog/Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">25 October 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+												Choosing the Right Cutting Process for Your Fabrication Project:Laser, Waterjet, and Plasma Cutting</a></h5>
+										<p class="post-description">
+											Selecting the right cutting processes such as Laser, Water jet, or Plasma cutting etc. goes beyond just choosing the fastest or most straightforward process...
+
+										</p>
+									</div>
+									<a class="post-bar" href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php"> Read More </a>
+								</div>
+							</div>
+
+							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
 										<a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
@@ -660,15 +682,15 @@
 												How CNC Bending Services Improve Product Quality and Consistency</a></h5>
 										<p class="post-description">
 											Precision and accuracy are essential in the modern manufacturing environment.
-											 Given the multitude of industrial sectors and the diverse production needs ...
+											Given the multitude of industrial sectors and the diverse production needs ...
 
 										</p>
 									</div>
 									<a class="post-bar" href="how-cnc-bending-services-improve-product-quality-and-consistency.php"> Read More </a>
 								</div>
 							</div>
-							
-							<div class="col-lg-4 col-md-4 p-0">
+
+							<!-- <div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
 										<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
@@ -682,17 +704,17 @@
 										<h5 class="post-title"><a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
 												Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
 										<p class="post-description">
-											As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial. 
+											As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial.
 											Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter. ...
 
 										</p>
 									</div>
 									<a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
 								</div>
-							</div>
-							
+							</div> -->
 
-							
+
+
 							<div class="col-md-12 d-flx ">
 								<a class="read" href="blogs.php"> More Blogs </a>
 							</div>

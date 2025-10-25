@@ -74,6 +74,28 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
+            <div class="col-lg-4 col-md-6 p-0">
+								<div class="post-slide">
+									<div class="post-img">
+										<a href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+											<img src="img/blog/Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">25 October 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+												Choosing the Right Cutting Process for Your Fabrication Project:Laser, Waterjet, and Plasma Cutting</a></h5>
+										<p class="post-description">
+											Selecting the right cutting processes such as Laser, Water jet, or Plasma cutting etc. goes beyond just choosing the fastest or most straightforward process...
+
+										</p>
+									</div>
+									<a class="post-bar" href="Choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php"> Read More </a>
+								</div>
+							</div>
+
               <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
