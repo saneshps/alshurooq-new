@@ -63,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div class="whatssap"></div>
 
-  <a href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products." class="float" target="_blank">
+  <a class="wa-icon"  href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products." class="float" target="_blank">
     <i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
   </a>
 
