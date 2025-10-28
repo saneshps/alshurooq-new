@@ -1,12 +1,8 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
-
-
-	<title> Contact Al Shurooq Industries LLC: For Quality Fabrication Solutions </title>
+<title> Contact Al Shurooq Industries LLC: For Quality Fabrication Solutions </title>
 	<link rel="shortcut icon" href="img/favicon.png">
 	<meta charset="utf-8">
 	<meta name="keywords" content="Contact Us">
@@ -14,7 +10,6 @@
 	<meta name="description" content="We are here to assist you with expert stainless steel fabrication services. Contact us today for custom solutions at +971 4 42 55988 or info@alshurooq.ae">
 	<link rel="canonical" href="https://alshurooq.ae/contact-us.php">
 	<!--  Developed by - bigleap -->
-
 	<!--***************************************-->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/alshurooq.css">
@@ -22,22 +17,26 @@
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/testim.css">
 	<link rel="stylesheet" href="css/resp.css">
-
-
 	<!--***************************************-->
-
-
-
 	<?php include 'google_analytics.php'; ?>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWMMNN9S');</script>
+<!-- End Google Tag Manager -->
 </head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWMMNN9S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 	<div class="whatssap"></div>
-
 	<a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products." class="float" target="_blank">
 		<i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
 	</a>
-
 	<!-- header -->
 	<?php $page = 'contact';
 	include 'header-sub.php'; ?>
