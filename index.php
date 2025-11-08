@@ -646,6 +646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="post-date">
                                             <span class="month">25 October 2025</span>
 
+<<<<<<< HEAD
                                         </div>
                                         <h5 class="post-title"><a
                                                 href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
@@ -664,6 +665,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                             </div>
 
+=======
+>>>>>>> parent of 19d7e29 (add blog)
 						<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
@@ -709,7 +712,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div>
 							
+<<<<<<< HEAD
 							 
+=======
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
+										<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+											<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg" alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">30 July 2025</span>
+
+										</div>
+										<h5 class="post-title"><a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+												Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
+										<p class="post-description">
+											As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial. 
+											Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter. ...
+
+										</p>
+									</div>
+									<a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
+								</div>
+							</div>
+>>>>>>> parent of 19d7e29 (add blog)
 							
 
 							

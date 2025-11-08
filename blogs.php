@@ -86,6 +86,7 @@
                                         <div class="post-date">
                                             <span class="month">25 October 2025</span>
 
+<<<<<<< HEAD
                                         </div>
                                         <h5 class="post-title"><a
                                                 href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
@@ -104,6 +105,8 @@
                                 </div>
                             </div>
 
+=======
+>>>>>>> parent of 19d7e29 (add blog)
               <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
