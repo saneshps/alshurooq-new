@@ -75,7 +75,7 @@
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="whatssap"></div>
 
-	<a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
+	<a href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
 		class="float wa-icon" target="_blank">
 		<i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
 	</a>
@@ -666,6 +666,33 @@
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
+										<a href="top-safety-best-practices-for-steel-fabrication-workshops.php">
+											<img src="img/blog/top-safety-best-practices-for-steel-fabrication-workshops.jpg"
+												alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">28 November 2025</span>
+
+										</div>
+										<h5 class="post-title"><a
+												href="top-safety-best-practices-for-steel-fabrication-workshops.php">
+												Top Safety Best Practices for Steel Fabrication Workshops </a></h5>
+										<p class="post-description">
+											Steel fabrication industrial sites; where heavy equipment, sharp tools,
+											molten metals and intense heat are constantly in motion, safety becomes
+											non-negotiable...
+
+										</p>
+									</div>
+									<a class="post-bar"
+										href="top-safety-best-practices-for-steel-fabrication-workshops.php">
+										Read More </a>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
 										<a
 											href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
 											<img src="img/blog/choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg"
@@ -675,119 +702,54 @@
 										<div class="post-date">
 											<span class="month">25 October 2025</span>
 
-											<<<<<<< HEAD </div>
-												<h5 class="post-title"><a
-														href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-														Choosing the Right Cutting Process for Your Fabrication
-														Project:Laser,
-														Waterjet, and Plasma Cutting</a></h5>
-												<p class="post-description">
-													Selecting the right cutting processes such as Laser, Water jet, or
-													Plasma
-													cutting etc. goes beyond just choosing the fastest or most
-													straightforward
-													process...
-
-												</p>
 										</div>
-										<a class="post-bar"
-											href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-											Read More </a>
+										<h5 class="post-title"><a
+												href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+												Choosing the Right Cutting Process for Your Fabrication Project:Laser,
+												Waterjet, and Plasma Cutting</a></h5>
+										<p class="post-description">
+											Selecting the right cutting processes such as Laser, Water jet, or Plasma
+											cutting etc. goes beyond just choosing the fastest or most straightforward
+											process...
+
+										</p>
 									</div>
+									<a class="post-bar"
+										href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+										Read More </a>
 								</div>
-
-								=======
-								>>>>>>> parent of 19d7e29 (add blog)
-								<div class="col-lg-4 col-md-4 p-0">
-									<div class="post-slide">
-										<div class="post-img">
-											<a
-												href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
-												<img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg"
-													alt="blog"> </a>
-										</div>
-										<div class="post-content">
-											<div class="post-date">
-												<span class="month">23 September 2025</span>
-
-											</div>
-											<h5 class="post-title"><a
-													href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
-													How Smart Technologies are Reshaping Manufacturing and Metal
-													Processing Industries</a></h5>
-											<p class="post-description">
-												Today the world is driven by technological innovations, which are well
-												reflected particularly in the industrial sector. Alongside the
-												development of AI, technological advancements are ...
-
-											</p>
-										</div>
-										<a class="post-bar"
-											href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
-											Read More </a>
-									</div>
-								</div>
-
-								<div class="col-lg-4 col-md-4 p-0">
-									<div class="post-slide">
-										<div class="post-img">
-											<a
-												href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
-												<img src="img/blog/how-cnc-bending-services-improve-product-quality-and-consistency.jpg"
-													alt="blog"> </a>
-										</div>
-										<div class="post-content">
-											<div class="post-date">
-												<span class="month">12 August 2025</span>
-
-											</div>
-											<h5 class="post-title"><a
-													href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
-													How CNC Bending Services Improve Product Quality and Consistency</a>
-											</h5>
-											<p class="post-description">
-												Precision and accuracy are essential in the modern manufacturing
-												environment.
-												Given the multitude of industrial sectors and the diverse production
-												needs ...
-
-											</p>
-										</div>
-										<a class="post-bar"
-											href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
-											Read More </a>
-									</div>
-								</div>
-
-								<<<<<<< HEAD=======<div class="col-lg-4 col-md-4 p-0">
-									<div class="post-slide">
-										<div class="post-img">
-											<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
-												<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg"
-													alt="blog"> </a>
-										</div>
-										<div class="post-content">
-											<div class="post-date">
-												<span class="month">30 July 2025</span>
-
-											</div>
-											<h5 class="post-title"><a
-													href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
-													Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
-											<p class="post-description">
-												As far as the fabrication industries are concerned, CNC plasma cutting
-												machines are crucial.
-												Gas is ionised by passing it through an electric arc, which converts it
-												into plasma, the highly conductive state of matter. ...
-
-											</p>
-										</div>
-										<a class="post-bar"
-											href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read
-											More </a>
-									</div>
 							</div>
-							>>>>>>> parent of 19d7e29 (add blog)
+
+							<div class="col-lg-4 col-md-4 p-0">
+								<div class="post-slide">
+									<div class="post-img">
+										<a
+											href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+											<img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg"
+												alt="blog"> </a>
+									</div>
+									<div class="post-content">
+										<div class="post-date">
+											<span class="month">23 September 2025</span>
+
+										</div>
+										<h5 class="post-title"><a
+												href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+												How Smart Technologies are Reshaping Manufacturing and Metal Processing
+												Industries</a></h5>
+										<p class="post-description">
+											Today the world is driven by technological innovations, which are well
+											reflected particularly in the industrial sector. Alongside the development
+											of AI, technological advancements are ...
+
+										</p>
+									</div>
+									<a class="post-bar"
+										href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+										Read More </a>
+								</div>
+							</div>
+
 
 
 
