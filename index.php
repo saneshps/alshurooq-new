@@ -9,7 +9,8 @@
 	<meta charset="utf-8">
 	<meta name="keywords" content="stainless steel fabrication ">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="We are Stainless Steel Fabrication Company in Dubai,UAE focused on Steel Fabrication & Machining.We offer custom CNC Plasma &Laser Cutting,CNC Bending & Punching services">
+	<meta name="description"
+		content="We are Stainless Steel Fabrication Company in Dubai,UAE focused on Steel Fabrication & Machining.We offer custom CNC Plasma &Laser Cutting,CNC Bending & Punching services">
 	<meta name="google-site-verification" content="-LVu1RJGzX-QYTLSHLqUblm5X5PZs-G2jG-CfXI1zFs" />
 	<link rel="canonical" href="https://alshurooq.ae">
 	<!--  Developed by - bigleap -->
@@ -48,23 +49,35 @@
 
 	<?php include 'google_analytics.php'; ?>
 	<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WWMMNN9S');</script>
-<!-- End Google Tag Manager -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-WWMMNN9S');
+	</script>
+	<!-- End Google Tag Manager -->
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWMMNN9S"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWMMNN9S" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<div class="whatssap"></div>
 
-	<a class="wa-icon" href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products." class="float" target="_blank">
-		<i class="demo-icon icon-whatsapp wa-icon sapp">&#xf232;</i>
+	<a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
+		class="float wa-icon" target="_blank">
+		<i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
 	</a>
 
 	<!-- header -->
@@ -93,10 +106,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<p class="wi"> Al Shurooq Industries L.L.C., a certified company with ISO 9001:2015, ISO 14001:2015,
 						and ISO 45001:2018 accreditations, specializes in Steel Fabrication and Machining.
-						With the capability and resources to deliver high-quality solutions, we serve diverse industries,
+						With the capability and resources to deliver high-quality solutions, we serve diverse
+						industries,
 						including Power Generation, Oil & Gas, Steel Construction, Food Processing, Machine Building,
 						Agricultural and Water Management, Prototyping, Electric Vehicle Components Manufacturing,
-						<a href="https://alshurooq.ae/solar-panel-structures.php" target="_blank"> Solar Panel Structures</a>, Battery and Power Pack Assemblies, and General Mechanical Industries.
+						<a href="https://alshurooq.ae/solar-panel-structures.php" target="_blank"> Solar Panel
+							Structures</a>, Battery and Power Pack Assemblies, and General Mechanical Industries.
 
 
 					</p>
@@ -186,7 +201,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="row">
 				<div class="col-md-3 col-sm-12 col-xs-12">
 					<h3> Products </h3>
-					<p> Welcome to AL SHUROOQ, your premier destination for precision engineering and tailored solutions.
+					<p> Welcome to AL SHUROOQ, your premier destination for precision engineering and tailored
+						solutions.
 						At AL SHUROOQ, we take pride in offering a diverse range of high-quality products designed to
 						meet the unique requirements of our valued customers.
 
@@ -213,7 +229,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a href="sheet-metal-parts.php" class="i024 ne-res">
 								<p class="text">Sheet Metal Parts </p>
 							</a>
-							<a class="view" href="products.php">View More <i class="demo-icon icon-right">&#xf178;</i></a>
+							<a class="view" href="products.php">View More <i
+									class="demo-icon icon-right">&#xf178;</i></a>
 						</div>
 
 					</div>
@@ -234,7 +251,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<p class="text"> Machined Valve Bodies</p>
 							</a>
 
-							<a class="view" href="products.php">View More <i class="demo-icon icon-right">&#xf178;</i></a>
+							<a class="view" href="products.php">View More <i
+									class="demo-icon icon-right">&#xf178;</i></a>
 						</div>
 					</div>
 				</div>
@@ -247,11 +265,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<a href="armoured-steel-solutions.php">
 								<p class="text">Armor Steel Solutions </p>
 							</a>
-							<a href="precision-bending-solutions-for-ballistic-and-high-strength-steels.php" class="i024">
+							<a href="precision-bending-solutions-for-ballistic-and-high-strength-steels.php"
+								class="i024">
 								<p class="text"> Precision Bending Solutions for Ballistic & High Strength Steels </p>
 							</a>
 
-							<a class="view ee" href="products.php">View More <i class="demo-icon icon-right">&#xf178;</i></a>
+							<a class="view ee" href="products.php">View More <i
+									class="demo-icon icon-right">&#xf178;</i></a>
 						</div>
 					</div>
 				</div>
@@ -421,7 +441,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="row international-area">
 
-				<iframe src="https://www.youtube.com/embed/yD42RV3eiPc?rel=0&autoplay=0" class="video-frame" title="YouTube video player" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/yD42RV3eiPc?rel=0&autoplay=0" class="video-frame"
+					title="YouTube video player" frameborder="0"
+					allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 
 
@@ -476,10 +498,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 			<h2 class="s-feeds"> Social Feeds </h2>
 			<div class="rounded-social-buttons">
-				<a class="social-button linkedin" href="https://www.linkedin.com/company/al-shurooq-industries-llc/" target="_blank"><i class="fab fa-linkedin"></i></a>
-				<a class="social-button youtube" href="https://www.youtube.com/@alshurooqindustries6202" target="_blank"><i class="fab fa-youtube"></i></a>
-				<a class="social-button facebook" href="https://www.facebook.com/alshurooqindustries" target="_blank"><i class="fab fa-facebook-f"></i></a>
-				<a class="social-button instagram" href="https://www.instagram.com/alshurooqindustries/" target="_blank"><i class="fab fa-instagram"></i></a>
+				<a class="social-button linkedin" href="https://www.linkedin.com/company/al-shurooq-industries-llc/"
+					target="_blank"><i class="fab fa-linkedin"></i></a>
+				<a class="social-button youtube" href="https://www.youtube.com/@alshurooqindustries6202"
+					target="_blank"><i class="fab fa-youtube"></i></a>
+				<a class="social-button facebook" href="https://www.facebook.com/alshurooqindustries" target="_blank"><i
+						class="fab fa-facebook-f"></i></a>
+				<a class="social-button instagram" href="https://www.instagram.com/alshurooqindustries/"
+					target="_blank"><i class="fab fa-instagram"></i></a>
 
 
 			</div>
@@ -518,11 +544,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											<a href="<?= $feed->permalink_url ?>" target="_blank">
 												<img src="<?= $feed->full_picture ?>" class="social-feeds" />
 												<div class="content">
-													<div class="likes" data-swiper-parallax="-30%" data-swiper-parallax-scale=".7">
+													<div class="likes" data-swiper-parallax="-30%"
+														data-swiper-parallax-scale=".7">
 														<i class="fas fa-heart"></i>
 														<h6> <?= $feed->likes ?> </h6>
 														<p> Likes </p>
-														<p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?> <small><?= date('M, Y', strtotime($feed->created_time)) ?></small> </p>
+														<p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?>
+															<small><?= date('M, Y', strtotime($feed->created_time)) ?></small>
+														</p>
 
 													</div>
 
@@ -633,114 +662,135 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 					<div id="news-slider" class="owl-carousel">
 						<div class="row blog-box">
-						    
-						  <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a
-                                            href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                            <img src="img/blog/choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">25 October 2025</span>
-
-<<<<<<< HEAD
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                                Choosing the Right Cutting Process for Your Fabrication Project:Laser,
-                                                Waterjet, and Plasma Cutting</a></h5>
-                                        <p class="post-description">
-                                            Selecting the right cutting processes such as Laser, Water jet, or Plasma
-                                            cutting etc. goes beyond just choosing the fastest or most straightforward
-                                            process...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                        Read More </a>
-                                </div>
-                            </div>
-
-=======
->>>>>>> parent of 19d7e29 (add blog)
-						<div class="col-lg-4 col-md-4 p-0">
-								<div class="post-slide">
-									<div class="post-img">
-										<a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
-											<img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg" alt="blog"> </a>
-									</div>
-									<div class="post-content">
-										<div class="post-date">
-											<span class="month">23 September 2025</span>
-
-										</div>
-										<h5 class="post-title"><a href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
-												How Smart Technologies are Reshaping Manufacturing and Metal Processing Industries</a></h5>
-										<p class="post-description">
-											Today the world is driven by technological innovations, which are well reflected particularly in the industrial sector. Alongside the development of AI, technological advancements are ...
-
-										</p>
-									</div>
-									<a class="post-bar" href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php"> Read More </a>
-								</div>
-							</div>
 
 							<div class="col-lg-4 col-md-4 p-0">
 								<div class="post-slide">
 									<div class="post-img">
-										<a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
-											<img src="img/blog/how-cnc-bending-services-improve-product-quality-and-consistency.jpg" alt="blog"> </a>
+										<a
+											href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+											<img src="img/blog/choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg"
+												alt="blog"> </a>
 									</div>
 									<div class="post-content">
 										<div class="post-date">
-											<span class="month">12 August 2025</span>
+											<span class="month">25 October 2025</span>
 
+											<<<<<<< HEAD </div>
+												<h5 class="post-title"><a
+														href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+														Choosing the Right Cutting Process for Your Fabrication
+														Project:Laser,
+														Waterjet, and Plasma Cutting</a></h5>
+												<p class="post-description">
+													Selecting the right cutting processes such as Laser, Water jet, or
+													Plasma
+													cutting etc. goes beyond just choosing the fastest or most
+													straightforward
+													process...
+
+												</p>
 										</div>
-										<h5 class="post-title"><a href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
-												How CNC Bending Services Improve Product Quality and Consistency</a></h5>
-										<p class="post-description">
-											Precision and accuracy are essential in the modern manufacturing environment.
-											 Given the multitude of industrial sectors and the diverse production needs ...
-
-										</p>
+										<a class="post-bar"
+											href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
+											Read More </a>
 									</div>
-									<a class="post-bar" href="how-cnc-bending-services-improve-product-quality-and-consistency.php"> Read More </a>
 								</div>
-							</div>
-							
-<<<<<<< HEAD
-							 
-=======
-							<div class="col-lg-4 col-md-4 p-0">
-								<div class="post-slide">
-									<div class="post-img">
-										<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
-											<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg" alt="blog"> </a>
-									</div>
-									<div class="post-content">
-										<div class="post-date">
-											<span class="month">30 July 2025</span>
 
+								=======
+								>>>>>>> parent of 19d7e29 (add blog)
+								<div class="col-lg-4 col-md-4 p-0">
+									<div class="post-slide">
+										<div class="post-img">
+											<a
+												href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+												<img src="img/blog/how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.jpg"
+													alt="blog"> </a>
 										</div>
-										<h5 class="post-title"><a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
-												Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
-										<p class="post-description">
-											As far as the fabrication industries are concerned, CNC plasma cutting machines are crucial. 
-											Gas is ionised by passing it through an electric arc, which converts it into plasma, the highly conductive state of matter. ...
+										<div class="post-content">
+											<div class="post-date">
+												<span class="month">23 September 2025</span>
 
-										</p>
+											</div>
+											<h5 class="post-title"><a
+													href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+													How Smart Technologies are Reshaping Manufacturing and Metal
+													Processing Industries</a></h5>
+											<p class="post-description">
+												Today the world is driven by technological innovations, which are well
+												reflected particularly in the industrial sector. Alongside the
+												development of AI, technological advancements are ...
+
+											</p>
+										</div>
+										<a class="post-bar"
+											href="how-smart-technologies-are-reshaping-manufacturing-and-metal-processing.php">
+											Read More </a>
 									</div>
-									<a class="post-bar" href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read More </a>
 								</div>
-							</div>
->>>>>>> parent of 19d7e29 (add blog)
-							
 
-							
+								<div class="col-lg-4 col-md-4 p-0">
+									<div class="post-slide">
+										<div class="post-img">
+											<a
+												href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+												<img src="img/blog/how-cnc-bending-services-improve-product-quality-and-consistency.jpg"
+													alt="blog"> </a>
+										</div>
+										<div class="post-content">
+											<div class="post-date">
+												<span class="month">12 August 2025</span>
+
+											</div>
+											<h5 class="post-title"><a
+													href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+													How CNC Bending Services Improve Product Quality and Consistency</a>
+											</h5>
+											<p class="post-description">
+												Precision and accuracy are essential in the modern manufacturing
+												environment.
+												Given the multitude of industrial sectors and the diverse production
+												needs ...
+
+											</p>
+										</div>
+										<a class="post-bar"
+											href="how-cnc-bending-services-improve-product-quality-and-consistency.php">
+											Read More </a>
+									</div>
+								</div>
+
+								<<<<<<< HEAD=======<div class="col-lg-4 col-md-4 p-0">
+									<div class="post-slide">
+										<div class="post-img">
+											<a href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+												<img src="img/blog/common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.jpg"
+													alt="blog"> </a>
+										</div>
+										<div class="post-content">
+											<div class="post-date">
+												<span class="month">30 July 2025</span>
+
+											</div>
+											<h5 class="post-title"><a
+													href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php">
+													Common CNC Plasma Cutting Mistakes and How to Avoid Them </a></h5>
+											<p class="post-description">
+												As far as the fabrication industries are concerned, CNC plasma cutting
+												machines are crucial.
+												Gas is ionised by passing it through an electric arc, which converts it
+												into plasma, the highly conductive state of matter. ...
+
+											</p>
+										</div>
+										<a class="post-bar"
+											href="common-cnc-plasma-cutting-mistakes-and-how-to-avoid-them.php"> Read
+											More </a>
+									</div>
+							</div>
+							>>>>>>> parent of 19d7e29 (add blog)
+
+
+
 							<div class="col-md-12 d-flx ">
 								<a class="read" href="blogs.php"> More Blogs </a>
 							</div>
@@ -855,7 +905,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 	<script src="./js/social-feeds.js"></script>
-	<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"
+		integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous">
+	</script>
 	<!-- sticky -->
 	<script src="./js/header.js"></script>
 	<!-- sticky -->
