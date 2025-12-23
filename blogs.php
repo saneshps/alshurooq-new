@@ -76,7 +76,7 @@
           <div id="news-slider" class="owl-carousel">
             <div class="row blog-box">
 
-            <div class="col-lg-4 col-md-6 p-0">
+              <div class="col-lg-4 col-md-6 p-0">
                 <div class="post-slide">
                   <div class="post-img">
                     <a href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
@@ -90,8 +90,10 @@
                     </div>
                     <h5 class="post-title"><a
                         href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
-                        How Technology has made metal fabrication faster and safer </a></h5>
-                    <p class="post-description">Metal fabrication is the foundation of modern manufacturing upon which modern industries that drive industrial growth are built. The recent technological changes have not only helped industries...
+                        How Technology Has Made Metal Fabrication Faster And Safer </a></h5>
+                    <p class="post-description">Metal fabrication is the foundation of modern
+                      manufacturing upon which modern industries that drive industrial growth are
+                      built. The recent technological changes have not only helped industries...
 
                     </p>
                   </div>

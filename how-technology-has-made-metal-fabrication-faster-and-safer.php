@@ -92,7 +92,7 @@
                         </div>
 
                         <div class="blog-details-box-content">
-                            <h1>How Technology has made metal fabrication faster and safer
+                            <h1> How Technology Has Made Metal Fabrication Faster And Safer
                             </h1>
 
 
