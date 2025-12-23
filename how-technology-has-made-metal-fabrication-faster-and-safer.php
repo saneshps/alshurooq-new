@@ -87,7 +87,7 @@
                             <img src="img/blog/how-technology-has-made-metal-fabrication-faster-and-safer.png"
                                 alt="blog">
                             <div class="blog-date">
-                                <a> <i class="fas fa-calendar-alt"></i> 18 December 2025 </a>
+                                <a> <i class="fas fa-calendar-alt"></i> 23 December 2025 </a>
                             </div>
                         </div>
 
