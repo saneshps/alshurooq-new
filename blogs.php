@@ -45,7 +45,7 @@
 
     <!-- header -->
     <?php $page = 'blogs';
-  include 'header-sub.php'; ?>
+    include 'header-sub.php'; ?>
 
     <!-- banner -->
     <section id="banner-ab">
@@ -75,6 +75,35 @@
                 <div class="col-md-12">
                     <div id="news-slider" class="owl-carousel">
                         <div class="row blog-box">
+
+                            <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a
+                                            href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                            <img src="img/blog/how-quality-certifications-improve-reliability-in-fabrication-services.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 23 Jan 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                                How Quality Certifications Improve Reliability in Fabrication Services
+                                            </a></h5>
+                                        <p class="post-description">In metal fabrication, reliability is synonymous with
+                                            safety, performance and operational value. Quality certifications are a
+                                            testament to the company’s quality and expertise...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                        Read More </a>
+                                </div>
+                            </div>
 
                             <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">

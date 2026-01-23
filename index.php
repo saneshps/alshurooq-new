@@ -34,36 +34,36 @@
 
 
     <script type="application/ld+json">
-    {
-        "@context": "https://schema.org/",
-        "@type": "WebSite",
-        "name": "Al shurooq",
-        "url": "https://www.alshurooq.ae/",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "{search_term_string}",
-            "query-input": "required name=search_term_string"
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Al shurooq",
+            "url": "https://www.alshurooq.ae/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "{search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
         }
-    }
     </script>
 
     <?php include 'google_analytics.php'; ?>
     <!-- Google Tag Manager -->
     <script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WWMMNN9S');
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WWMMNN9S');
     </script>
     <!-- End Google Tag Manager -->
 </head>
@@ -82,7 +82,7 @@
 
     <!-- header -->
     <?php $page = 'home';
-	include 'header.php'; ?>
+    include 'header.php'; ?>
 
     <!-- banner -->
     <section id="banner">
@@ -520,16 +520,16 @@
 			</div> -->
             <!--// Title Area Start -->
             <?php include_once('./fbintegration.php');
-			$fbfeeds = new FbIntegration();
-			$latestfeed = [];
-			if (isset($fbfeeds)) {
-				$latestfeed = $fbfeeds->listFbPosts();
-			}
-			// echo "<pre>";
-			// print_r($latestfeed);
-			// echo "</pre>";
-			// exit;
-			?>
+            $fbfeeds = new FbIntegration();
+            $latestfeed = [];
+            if (isset($fbfeeds)) {
+                $latestfeed = $fbfeeds->listFbPosts();
+            }
+            // echo "<pre>";
+            // print_r($latestfeed);
+            // echo "</pre>";
+            // exit;
+            ?>
             <div class="main-blog">
                 <div class="row">
                     <div class="col-lg-10 col-md-10 mx-auto">
@@ -539,36 +539,36 @@
                             <div class="swiper-wrapper">
 
                                 <?php if (!empty($latestfeed)) {
-									foreach ($latestfeed as $feed) { ?>
-                                <div class="swiper-slide" style="background-image:url(<?= $feed->full_picture ?>)">
-                                    <a href="<?= $feed->permalink_url ?>" target="_blank">
-                                        <img src="<?= $feed->full_picture ?>" class="social-feeds" />
-                                        <div class="content">
-                                            <div class="likes" data-swiper-parallax="-30%"
-                                                data-swiper-parallax-scale=".7">
-                                                <i class="fas fa-heart"></i>
-                                                <h6> <?= $feed->likes ?> </h6>
-                                                <p> Likes </p>
-                                                <p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?>
-                                                    <small><?= date('M, Y', strtotime($feed->created_time)) ?></small>
-                                                </p>
+                                    foreach ($latestfeed as $feed) { ?>
+                                        <div class="swiper-slide" style="background-image:url(<?= $feed->full_picture ?>)">
+                                            <a href="<?= $feed->permalink_url ?>" target="_blank">
+                                                <img src="<?= $feed->full_picture ?>" class="social-feeds" />
+                                                <div class="content">
+                                                    <div class="likes" data-swiper-parallax="-30%"
+                                                        data-swiper-parallax-scale=".7">
+                                                        <i class="fas fa-heart"></i>
+                                                        <h6> <?= $feed->likes ?> </h6>
+                                                        <p> Likes </p>
+                                                        <p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?>
+                                                            <small><?= date('M, Y', strtotime($feed->created_time)) ?></small>
+                                                        </p>
 
-                                            </div>
+                                                    </div>
 
-                                            <!-- <p class="title" data-swiper-parallax="-30%" data-swiper-parallax-scale=".7">
+                                                    <!-- <p class="title" data-swiper-parallax="-30%" data-swiper-parallax-scale=".7">
 													National Day
 												</p> -->
-                                            <span class="caption" data-swiper-parallax="-20%">
-                                                <?php if (isset($feed->message) && $feed->message) {
-															echo substr($feed->message, 0, 150);
-															echo (strlen($feed->message) > 150 ? "..." : "");
-														} ?>
-                                            </span>
+                                                    <span class="caption" data-swiper-parallax="-20%">
+                                                        <?php if (isset($feed->message) && $feed->message) {
+                                                            echo substr($feed->message, 0, 150);
+                                                            echo (strlen($feed->message) > 150 ? "..." : "");
+                                                        } ?>
+                                                    </span>
+                                                </div>
+                                            </a>
                                         </div>
-                                    </a>
-                                </div>
                                 <?php }
-								} ?>
+                                } ?>
 
                                 <!-- <div class="swiper-slide" style="background-image:url(./img/blog-2.jpeg)">
 									<a href="https://www.facebook.com/alshurooqindustries" target="_blank">
@@ -666,6 +666,36 @@
                             <div class="col-lg-4 col-md-4 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a
+                                            href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                            <img src="img/blog/how-quality-certifications-improve-reliability-in-fabrication-services.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month">23 Jan 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                                How Quality Certifications Improve Reliability in Fabrication Services
+                                            </a></h5>
+                                        <p class="post-description">
+                                            In metal fabrication, reliability is synonymous with
+                                            safety, performance and operational value. Quality certifications are a
+                                            testament to the company’s quality and expertise...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
                                             <img src="img/blog/how-technology-has-made-metal-fabrication-faster-and-safer.png"
                                                 alt="blog"> </a>
@@ -719,35 +749,7 @@
                                         Read More </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a
-                                            href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                            <img src="img/blog/choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.jpg"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">25 October 2025</span>
 
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                                Choosing the Right Cutting Process for Your Fabrication Project:Laser,
-                                                Waterjet, and Plasma Cutting</a></h5>
-                                        <p class="post-description">
-                                            Selecting the right cutting processes such as Laser, Water jet, or Plasma
-                                            cutting etc. goes beyond just choosing the fastest or most straightforward
-                                            process...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="choosing-the-right-cutting-process-for-you-fabrication-project-laser-waterjet-and-plasma-cutting.php">
-                                        Read More </a>
-                                </div>
-                            </div>
 
 
 
