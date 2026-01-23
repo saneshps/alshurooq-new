@@ -10,7 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
         content="Learn how ISO 9001, ISO 14001, and ISO 45001 certifications improve fabrication quality, safety, efficiency, and customer trust for long-term reliability.">
-    <link rel="canonical" href="https://how-quality-certifications-improve-reliability-in-fabrication-services.php">
+    <link rel="canonical"
+        href="https://alshurooq.ae/how-quality-certifications-improve-reliability-in-fabrication-services.php">
     <!-- Og -->
     <meta property="og:title" content="How Quality Certifications Improve Fabrication Reliability| Al Shurooq" />
     <meta property="og:type" content="article" />
