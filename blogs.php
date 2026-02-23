@@ -79,6 +79,32 @@
                             <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="how-material-choice-impacts-strength-weight-and-cost.php">
+                                            <img src="img/blog/how-material-choice-impacts-strength-weight-and-cost.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 23 Feb 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="how-material-choice-impacts-strength-weight-and-cost.php">
+                                                How Material Choice Impacts Strength, Weight, and Cost in Fabrication
+                                            </a></h5>
+                                        <p class="post-description"> Material integrity is something that often goes
+                                            unnoticed when an object functions flawlessly. From aircrafts, shipments and
+                                            to smartphones...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar" href="how-material-choice-impacts-strength-weight-and-cost.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a
                                             href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
                                             <img src="img/blog/how-quality-certifications-improve-reliability-in-fabrication-services.webp"
