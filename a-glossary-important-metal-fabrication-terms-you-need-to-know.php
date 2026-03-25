@@ -94,9 +94,10 @@
                         <div class="blog-details-box-content">
                             <h1> A Glossary – Important Metal Fabrication Terms You Need to know </h1>
 
-                            <p> Metal fabrication terms can sound like a whole new language to people who are unfamiliar
-                                with industrial jargon. To simplify things, we have created a glossary of key terms to
-                                help you familiarize yourself with the fabrication world. </p>
+                            <p> <a href="https://alshurooq.ae/" target="-blank"> Metal fabrication </a> terms can sound
+                                like a whole new language to people who are unfamiliar with industrial jargon. To
+                                simplify things, we have created a glossary of key terms to help you familiarize
+                                yourself with the fabrication world. </p>
 
 
                             <h4> Anodizing </h4>
@@ -185,9 +186,13 @@
                                 single-point cutting tool. </p>
 
                             <h4> Conclusion </h4>
-                            <p> Learning the key terminologies of metal fabrication will make it easier to understand
-                                the processes better. From cutting, shaping and forming to finishing and welding, each
-                                term represents the important steps in the fabrication process. Familiarizing with these
+                            <p> Learning the key terminologies of <a href="https://alshurooq.ae/" target="-blank">
+                                    metal
+                                    fabrication </a> will make it easier to understand
+                                the processes better. From cutting, shaping and forming to finishing and welding,
+                                each
+                                term represents the important steps in the fabrication process. Familiarizing with
+                                these
                                 terms will help people to understand the process and technology better.
                             </p>
 
