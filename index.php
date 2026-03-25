@@ -34,36 +34,36 @@
 
 
     <script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "WebSite",
-            "name": "Al shurooq",
-            "url": "https://www.alshurooq.ae/",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "{search_term_string}",
-                "query-input": "required name=search_term_string"
-            }
+    {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Al shurooq",
+        "url": "https://www.alshurooq.ae/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
         }
+    }
     </script>
 
     <?php include 'google_analytics.php'; ?>
     <!-- Google Tag Manager -->
     <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WWMMNN9S');
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WWMMNN9S');
     </script>
     <!-- End Google Tag Manager -->
 </head>
@@ -540,33 +540,33 @@
 
                                 <?php if (!empty($latestfeed)) {
                                     foreach ($latestfeed as $feed) { ?>
-                                        <div class="swiper-slide" style="background-image:url(<?= $feed->full_picture ?>)">
-                                            <a href="<?= $feed->permalink_url ?>" target="_blank">
-                                                <img src="<?= $feed->full_picture ?>" class="social-feeds" />
-                                                <div class="content">
-                                                    <div class="likes" data-swiper-parallax="-30%"
-                                                        data-swiper-parallax-scale=".7">
-                                                        <i class="fas fa-heart"></i>
-                                                        <h6> <?= $feed->likes ?> </h6>
-                                                        <p> Likes </p>
-                                                        <p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?>
-                                                            <small><?= date('M, Y', strtotime($feed->created_time)) ?></small>
-                                                        </p>
+                                <div class="swiper-slide" style="background-image:url(<?= $feed->full_picture ?>)">
+                                    <a href="<?= $feed->permalink_url ?>" target="_blank">
+                                        <img src="<?= $feed->full_picture ?>" class="social-feeds" />
+                                        <div class="content">
+                                            <div class="likes" data-swiper-parallax="-30%"
+                                                data-swiper-parallax-scale=".7">
+                                                <i class="fas fa-heart"></i>
+                                                <h6> <?= $feed->likes ?> </h6>
+                                                <p> Likes </p>
+                                                <p class="pl-4"> <?= date('d', strtotime($feed->created_time)) ?>
+                                                    <small><?= date('M, Y', strtotime($feed->created_time)) ?></small>
+                                                </p>
 
-                                                    </div>
+                                            </div>
 
-                                                    <!-- <p class="title" data-swiper-parallax="-30%" data-swiper-parallax-scale=".7">
+                                            <!-- <p class="title" data-swiper-parallax="-30%" data-swiper-parallax-scale=".7">
 													National Day
 												</p> -->
-                                                    <span class="caption" data-swiper-parallax="-20%">
-                                                        <?php if (isset($feed->message) && $feed->message) {
+                                            <span class="caption" data-swiper-parallax="-20%">
+                                                <?php if (isset($feed->message) && $feed->message) {
                                                             echo substr($feed->message, 0, 150);
                                                             echo (strlen($feed->message) > 150 ? "..." : "");
                                                         } ?>
-                                                    </span>
-                                                </div>
-                                            </a>
+                                            </span>
                                         </div>
+                                    </a>
+                                </div>
                                 <?php }
                                 } ?>
 
@@ -666,6 +666,35 @@
                             <div class="col-lg-4 col-md-4 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                            <img src="img/blog/a-glossary-important-metal-fabrication-terms-you-need-to-know.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month">25 March 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                                A Glossary – Important Metal Fabrication Terms You Need to know
+                                            </a></h5>
+                                        <p class="post-description">
+                                            Metal fabrication terms can sound like a whole new
+                                            language to people who are unfamiliar with industrial jargon. To simplify
+                                            things, we have created...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="how-material-choice-impacts-strength-weight-and-cost.php">
                                             <img src="img/blog/how-material-choice-impacts-strength-weight-and-cost.webp"
                                                 alt="blog"> </a>
@@ -719,33 +748,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
-                                            <img src="img/blog/how-technology-has-made-metal-fabrication-faster-and-safer.png"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">23 December 2025</span>
 
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
-                                                How Technology Has Made Metal Fabrication Faster And Safer </a></h5>
-                                        <p class="post-description">
-                                            Metal fabrication is the foundation of modern manufacturing upon which
-                                            modern industries that drive industrial growth are built. The recent
-                                            technological changes have not only helped industries ...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="how-technology-has-made-metal-fabrication-faster-and-safer.php">
-                                        Read More </a>
-                                </div>
-                            </div>
 
 
 

@@ -79,6 +79,34 @@
                             <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                            <img src="img/blog/a-glossary-important-metal-fabrication-terms-you-need-to-know.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 25 March 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                                A Glossary – Important Metal Fabrication Terms You Need to know
+                                            </a></h5>
+                                        <p class="post-description"> Metal fabrication terms can sound like a whole new
+                                            language to people who are unfamiliar with industrial jargon. To simplify
+                                            things, we have created...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="how-material-choice-impacts-strength-weight-and-cost.php">
                                             <img src="img/blog/how-material-choice-impacts-strength-weight-and-cost.webp"
                                                 alt="blog"> </a>
