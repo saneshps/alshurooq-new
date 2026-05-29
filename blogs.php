@@ -76,6 +76,62 @@
                     <div id="news-slider" class="owl-carousel">
                         <div class="row blog-box">
 
+                        <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="metal-fabrication-company-in-dubaI.php">
+                                            <img src="img/blog/metal-fabrication-company-in-dubaI.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 29 May 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="metal-fabrication-company-in-dubaI.php">
+
+                                                What to look for when choosing a metal fabrication company in Dubai?
+
+                                            </a></h5>
+                                        <p class="post-description"> When you are out in the metal fabrication market to find your ideal service provider with the right industry experience and expertise...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="metal-fabrication-company-in-dubaI.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+                        <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="sheet-metal-fabrication-process-tools-and-applications.php">
+                                            <img src="img/blog/sheet-metal-fabrication-process-tools-and-applications.jpeg"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 30 April 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="sheet-metal-fabrication-process-tools-and-applications.php">
+
+                                                Sheet Metal Fabrication
+                                                Process, Tools and Applications
+                                            </a></h5>
+                                        <p class="post-description"> Sheet Metal Fabrication is the process of turning flat metal sheets into a variety of usable components for a plethora of industries...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="sheet-metal-fabrication-process-tools-and-applications.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+
                             <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">

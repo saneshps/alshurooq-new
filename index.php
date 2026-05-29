@@ -663,6 +663,60 @@
                     <div id="news-slider" class="owl-carousel">
                         <div class="row blog-box">
 
+                        <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="metal-fabrication-company-in-dubaI.php">
+                                            <img src="img/blog/metal-fabrication-company-in-dubaI.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month">29 May 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="metal-fabrication-company-in-dubaI.php">
+                                                What to look for when choosing a metal fabrication company in Dubai?
+                                                </a></h5>
+                                        <p class="post-description">
+                                        When you are out in the metal fabrication market to find your ideal service provider with the right industry experience and expertise...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="metal-fabrication-company-in-dubaI.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                        <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="sheet-metal-fabrication-process-tools-and-applications.php">
+                                            <img src="img/blog/sheet-metal-fabrication-process-tools-and-applications.jpeg"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month">30 April 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="sheet-metal-fabrication-process-tools-and-applications.php">
+                                                Sheet Metal Fabrication
+                                                Process, Tools and Applications </a></h5>
+                                        <p class="post-description">
+                                          Sheet Metal Fabrication is the process of turning flat metal sheets into a variety of usable components for a plethora of industries...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="sheet-metal-fabrication-process-tools-and-applications.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
                             <div class="col-lg-4 col-md-4 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
@@ -692,61 +746,8 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a href="how-material-choice-impacts-strength-weight-and-cost.php">
-                                            <img src="img/blog/how-material-choice-impacts-strength-weight-and-cost.webp"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">23 Feb 2026</span>
-
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="how-material-choice-impacts-strength-weight-and-cost.php">
-                                                How Material Choice Impacts Strength, Weight, and Cost in Fabrication
-                                            </a></h5>
-                                        <p class="post-description">
-                                            Material integrity is something that often goes unnoticed when an object
-                                            functions flawlessly. From aircrafts, shipments and to smartphones...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar" href="how-material-choice-impacts-strength-weight-and-cost.php">
-                                        Read More </a>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a
-                                            href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
-                                            <img src="img/blog/how-quality-certifications-improve-reliability-in-fabrication-services.webp"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">23 Jan 2026</span>
-
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
-                                                How Quality Certifications Improve Reliability in Fabrication Services
-                                            </a></h5>
-                                        <p class="post-description">
-                                            In metal fabrication, reliability is synonymous with
-                                            safety, performance and operational value. Quality certifications are a
-                                            testament to the company’s quality and expertise...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="how-quality-certifications-improve-reliability-in-fabrication-services.php">
-                                        Read More </a>
-                                </div>
-                            </div>
+                          
+                           
 
 
 
