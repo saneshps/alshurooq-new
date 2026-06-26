@@ -672,6 +672,33 @@
                                     </div>
                                     <div class="post-content">
                                         <div class="post-date">
+                                            <span class="month">26 June 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="metal-fabrication-company-in-dubaI.php">
+                                                What to look for when choosing a metal fabrication company in Dubai?
+                                                </a></h5>
+                                        <p class="post-description">
+                                        When you are out in the metal fabrication market to find your ideal service provider with the right industry experience and expertise...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="metal-fabrication-company-in-dubaI.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                        <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="metal-fabrication-company-in-dubaI.php">
+                                            <img src="img/blog/metal-fabrication-company-in-dubaI.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
                                             <span class="month">29 May 2026</span>
 
                                         </div>
@@ -717,41 +744,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
-                                            <img src="img/blog/a-glossary-important-metal-fabrication-terms-you-need-to-know.webp"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">25 March 2026</span>
-
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
-                                                A Glossary – Important Metal Fabrication Terms You Need to know
-                                            </a></h5>
-                                        <p class="post-description">
-                                            Metal fabrication terms can sound like a whole new
-                                            language to people who are unfamiliar with industrial jargon. To simplify
-                                            things, we have created...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="a-glossary-important-metal-fabrication-terms-you-need-to-know.php">
-                                        Read More </a>
-                                </div>
-                            </div>
-
-                          
                            
-
-
-
-
 
                             <div class="col-md-12 d-flx ">
                                 <a class="read" href="blogs.php"> More Blogs </a>
