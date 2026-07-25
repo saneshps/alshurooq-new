@@ -666,6 +666,33 @@
                         <div class="col-lg-4 col-md-4 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="design-for-manufacturing-dfm-a-practical-guide.php">
+                                            <img src="img/blog/design-for-manufacturing-dfm-a-practical-guide.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month">25 July 2026</span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="design-for-manufacturing-dfm-a-practical-guide.php">
+                                                Design for Manufacturing (DFM) A Practical Guide
+                                                </a></h5>
+                                        <p class="post-description">
+                                        For every great product to exist, there needs to be a great design. DFM or Design for Manufacturing, deals with the manufacturability...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="design-for-manufacturing-dfm-a-practical-guide.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+
+                        <div class="col-lg-4 col-md-4 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="powder-coating-vs-wet-painting-making-the-right-choice.php">
                                             <img src="img/blog/powder-coating-vs-wet-painting-making-the-right-choice.webp"
                                                 alt="blog"> </a>
@@ -717,34 +744,9 @@
                                 </div>
                             </div>
 
-                        <div class="col-lg-4 col-md-4 p-0">
-                                <div class="post-slide">
-                                    <div class="post-img">
-                                        <a href="sheet-metal-fabrication-process-tools-and-applications.php">
-                                            <img src="img/blog/sheet-metal-fabrication-process-tools-and-applications.jpeg"
-                                                alt="blog"> </a>
-                                    </div>
-                                    <div class="post-content">
-                                        <div class="post-date">
-                                            <span class="month">30 April 2026</span>
+                     
 
-                                        </div>
-                                        <h5 class="post-title"><a
-                                                href="sheet-metal-fabrication-process-tools-and-applications.php">
-                                                Sheet Metal Fabrication
-                                                Process, Tools and Applications </a></h5>
-                                        <p class="post-description">
-                                          Sheet Metal Fabrication is the process of turning flat metal sheets into a variety of usable components for a plethora of industries...
-
-                                        </p>
-                                    </div>
-                                    <a class="post-bar"
-                                        href="sheet-metal-fabrication-process-tools-and-applications.php">
-                                        Read More </a>
-                                </div>
-                            </div>
-
-                           
+                           <!-- End of Blogs -->
 
                             <div class="col-md-12 d-flx ">
                                 <a class="read" href="blogs.php"> More Blogs </a>
