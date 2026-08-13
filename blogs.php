@@ -79,6 +79,36 @@
                         <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="from-cad-drawing-to-finished-component-a-complete-manufacturing-workflow.php">
+                                            <img src="img/blog/from-cad-drawing-to-finished-component-a-complete-manufacturing-workflow.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 13 Aug 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="from-cad-drawing-to-finished-component-a-complete-manufacturing-workflow.php">
+
+                                                From CAD Drawing to Finished Component: A Complete Manufacturing Workflow
+
+
+
+                                            </a></h5>
+                                        <p class="post-description"> 
+                                        Every part that we see inside a machine, a construction site, or an oil rig was once a drawing on paper. Before ending up a physical...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="from-cad-drawing-to-finished-component-a-complete-manufacturing-workflow.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+                        <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="design-for-manufacturing-dfm-a-practical-guide.php">
                                             <img src="img/blog/design-for-manufacturing-dfm-a-practical-guide.webp"
                                                 alt="blog"> </a>
