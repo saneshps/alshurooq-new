@@ -38,7 +38,7 @@
 <body>
     <div class="whatssap"></div>
 
-    <a href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
+    <a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
         class="float wa-icon" target="_blank">
         <i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
     </a>
@@ -75,8 +75,40 @@
                 <div class="col-md-12">
                     <div id="news-slider" class="owl-carousel">
                         <div class="row blog-box">
-
+                            
+                            
                         <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
+                                        <a href="geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.php">
+                                            <img src="img/blog/geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 28 Sept 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.php">
+
+                                            Geometric Dimensioning and Tolerancing (GD&T) in Manufacturing
+
+
+
+                                            </a></h5>
+                                        <p class="post-description"> 
+                                        GD&T sounds extremely technical; and it is, but not incomprehensible much in theory for anyone curious to learn. How the standard of...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+                            
+                               <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <a href="from-cad-drawing-to-finished-component-a-complete-manufacturing-workflow.php">
@@ -106,7 +138,8 @@
                                         Read More </a>
                                 </div>
                             </div>
-                        <div class="col-lg-4 col-md-6 p-0">
+                            
+                                         <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <a href="design-for-manufacturing-dfm-a-practical-guide.php">
@@ -136,7 +169,8 @@
                                         Read More </a>
                                 </div>
                             </div>
-                        <div class="col-lg-4 col-md-6 p-0">
+                            
+                              <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
                                         <a href="powder-coating-vs-wet-painting-making-the-right-choice.php">
