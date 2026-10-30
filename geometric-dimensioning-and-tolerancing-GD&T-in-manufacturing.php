@@ -58,7 +58,7 @@
 <body>
     <div class="whatssap"></div>
 
-    <a href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
+    <a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
         class="float wa-icon" target="_blank">
         <i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
     </a>
