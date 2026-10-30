@@ -58,7 +58,7 @@
 <body>
     <div class="whatssap"></div>
 
-    <a href="https://api.whatsapp.com/send?phone=+971508993781&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
+    <a href="https://api.whatsapp.com/send?phone=+971552479006&text=Hey%20there!%20I%20woud%20like%20to%20know%20more%20about%20your%20products."
         class="float wa-icon" target="_blank">
         <i class="demo-icon icon-whatsapp sapp">&#xf232;</i>
     </a>
@@ -109,7 +109,7 @@
 
 </p>
 <p>If you face difficulty in deciding what material it should be made from, explain to the fabricator where it will be used and the conditions it is supposed to handle. This provides the fabricator with all the information he needs to make informed decision.</p>
-<h3>3. Quantity and Production Requirements</h3>
+<h4>3. Quantity and Production Requirements</h4>
 <p>Give the fabricator a clear estimation of the number of the parts you expect. A whole production batch will need more details than a one-off, prototype requirement. </p>
 <p>If you also have future orders in mind, inform the fabricator, as it helps them assess the full scope of the project and choose suitable production methods and allocate the cost of tooling and fixtures accordingly. 
 
