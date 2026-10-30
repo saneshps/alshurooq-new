@@ -80,6 +80,34 @@
                         <div class="col-lg-4 col-md-6 p-0">
                                 <div class="post-slide">
                                     <div class="post-img">
+                                        <a href="what-information-should-you-provide-when-requesting-a-metal-fabrication-quotation.php">
+                                            <img src="img/blog/what-information-should-you-provide-when-requesting-a-metal-fabrication-quotation.webp"
+                                                alt="blog"> </a>
+                                    </div>
+                                    <div class="post-content">
+                                        <div class="post-date">
+                                            <span class="month"> 30 Oct 2026 </span>
+
+                                        </div>
+                                        <h5 class="post-title"><a
+                                                href="what-information-should-you-provide-when-requesting-a-metal-fabrication-quotation.php">
+
+                                           What Information Should You Provide When Requesting a Metal Fabrication Quotation?
+                                            </a></h5>
+                                        <p class="post-description">  
+                                        If you are planning to request a metal fabrication quotation, it requires more information than what you think...
+
+                                        </p>
+                                    </div>
+                                    <a class="post-bar"
+                                        href="what-information-should-you-provide-when-requesting-a-metal-fabrication-quotation.php">
+                                        Read More </a>
+                                </div>
+                            </div>
+                            
+                        <div class="col-lg-4 col-md-6 p-0">
+                                <div class="post-slide">
+                                    <div class="post-img">
                                         <a href="geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.php">
                                             <img src="img/blog/geometric-dimensioning-and-tolerancing-GD&T-in-manufacturing.webp"
                                                 alt="blog"> </a>
